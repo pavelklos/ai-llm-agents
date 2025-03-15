@@ -3,6 +3,7 @@
   - by **GitHub Copilot** [001-1-github-copilot.ipynb](001-1-github-copilot.ipynb)
   - by **DeepSeek** [001-2-deepseek.ipynb](001-2-deepseek.ipynb)
   - by **ChatGPT** [001-3-chatgpt.ipynb](001-3-chatgpt.ipynb)
+  - by **Claude** [001-4-claude.ipynb](001-4-claude.ipynb)
 
 <br>
 
