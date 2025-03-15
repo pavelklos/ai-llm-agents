@@ -3,6 +3,7 @@
 - AutoGen (Microsoft)
   - [PyPI](https://pypi.org/user/AutoGenDevs/) autogen-core, autogen-agentchat, autogen-ext
   - [GitHub](https://github.com/microsoft/autogen)
+  - [AutoGen](https://microsoft.github.io/autogen/stable/index.html)
   - [AgentChat](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html)
 - AG2
   - [PyPI](https://pypi.org/user/autogen-ai/) autogen, ag2
