@@ -1,6 +1,7 @@
 # CODE
 - **001: Autogen AI Agent, with 2 different agents**
-  - by **GitHub Copilot** [001-1-github-copilot.ipynb](001-1-github-copilot.ipynb) 
+  - by **GitHub Copilot** [001-1-github-copilot.ipynb](001-1-github-copilot.ipynb)
+  - by **DeepSeek** [001-2-deepseek.ipynb](001-2-deepseek.ipynb)
 
 <br>
 
