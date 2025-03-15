@@ -1,3 +1,4 @@
+ag2==0.8.1
 annotated-types==0.7.0
 anyio==4.8.0
 argon2-cffi==23.1.0
@@ -19,6 +20,7 @@ debugpy==1.8.13
 decorator==5.2.1
 defusedxml==0.7.1
 diskcache==5.6.3
+distro==1.9.0
 docker==7.1.0
 executing==2.2.0
 fast-depends==2.4.12
@@ -34,6 +36,7 @@ ipython_pygments_lexers==1.1.1
 isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.6
+jiter==0.9.0
 json5==0.10.0
 jsonpointer==3.0.0
 jsonschema==4.23.0
@@ -55,6 +58,7 @@ nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
 notebook_shim==0.2.4
+openai==1.66.3
 overrides==7.7.0
 packaging==24.2
 pandocfilters==1.5.1
@@ -94,6 +98,7 @@ terminado==0.18.1
 tiktoken==0.9.0
 tinycss2==1.4.0
 tornado==6.4.2
+tqdm==4.67.1
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20241206
 typing_extensions==4.12.2

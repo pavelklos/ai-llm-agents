@@ -24,3 +24,4 @@
 # Packages
 - [jupyterlab (4.3.6)](https://pypi.org/project/pyautogen/) by Project Jupyter
 - [pyautogen (0.8.1)](https://pypi.org/project/pyautogen/) AG2 (formerly AutoGen) by openautogen
+- [ag2[openai] (0.8.1)](https://pypi.org/project/ag2/) AG2 (formerly AutoGen) by autogen-ai
