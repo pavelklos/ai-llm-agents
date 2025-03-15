@@ -1,3 +1,9 @@
+# CODE
+- **001: Autogen AI Agent, with 2 different agents**
+  - by **GitHub Copilot** [001-1-github-copilot.ipynb](001-1-github-copilot.ipynb) 
+
+<br>
+
 # AI LLM Agents
 - [LLM Agents](https://www.promptingguide.ai/research/llm-agents) *by Prompt Engineering Guide*
 - **AutoGen (Microsoft)**
@@ -20,6 +26,8 @@
 - **LlamaIndex**
   - [Agents (use cases)](https://docs.llamaindex.ai/en/stable/use_cases/agents/)
   - [Agents (module guides)](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)
+
+<br>
 
 # Packages
 - [jupyterlab (4.3.6)](https://pypi.org/project/pyautogen/) by Project Jupyter
