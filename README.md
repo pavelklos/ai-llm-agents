@@ -36,6 +36,7 @@
 <br>
 
 # Packages
-- [jupyterlab (4.3.6)](https://pypi.org/project/pyautogen/) by Project Jupyter
+- [jupyterlab (4.3.6)](https://pypi.org/project/jupyterlab/) JupyterLab by Project Jupyter
 - [pyautogen (0.8.1)](https://pypi.org/project/pyautogen/) AG2 (formerly AutoGen) by openautogen
 - [ag2[openai] (0.8.1)](https://pypi.org/project/ag2/) AG2 (formerly AutoGen) by autogen-ai
+- [crewai (0.105.0)](https://pypi.org/project/crewai/) CrewAI by João Moura
