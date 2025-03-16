@@ -8,6 +8,7 @@
   - by **Cursor** [001-5-cursor-2.ipynb](001-5-cursor-2.ipynb)
 - **002: CrewAI AI Agent, with 2 different agents**
   - by **Claude** [002-4-claude.ipynb](002-4-claude.ipynb)
+  - by **Cursor** [002-5-cursor.ipynb](002-5-cursor.ipynb)
 - **AG2**
   - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)
 
