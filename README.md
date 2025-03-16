@@ -1,4 +1,12 @@
-# CODE
+# SAMPLE CODE
+
+- **AG2**
+  - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)✅
+
+<br>
+
+# GENERATED CODE
+
 - **001: Autogen AI Agent, with 2 different agents**
   - by **GitHub Copilot** [001-1-github-copilot.ipynb](001-1-github-copilot.ipynb)
   - by **DeepSeek** [001-2-deepseek.ipynb](001-2-deepseek.ipynb)
@@ -7,10 +15,10 @@
   - by **Cursor** [001-5-cursor-1.ipynb](001-5-cursor-1.ipynb)
   - by **Cursor** [001-5-cursor-2.ipynb](001-5-cursor-2.ipynb)
 - **002: CrewAI AI Agent, with 2 different agents**
+  - by **DeepSeek** [002-2-deepseek.ipynb](002-2-deepseek.ipynb)
+  - by **ChatGPT** [002-3-chatgpt.ipynb](002-3-chatgpt.ipynb)✅
   - by **Claude** [002-4-claude.ipynb](002-4-claude.ipynb)
-  - by **Cursor** [002-5-cursor.ipynb](002-5-cursor.ipynb)
-- **AG2**
-  - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)
+  - by **Cursor** [002-5-cursor.ipynb](002-5-cursor.ipynb)✅
 
 <br>
 
