@@ -4,3 +4,4 @@ ag2[openai]
 crewai
 crewai-tools
 crewai[tools]
+streamlit

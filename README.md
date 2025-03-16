@@ -5,6 +5,7 @@
   - **Structured outputs** [102-ag2-basics-1.ipynb](102-ag2-basics-1.ipynb)✅
   - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
   - **Orchestrating agents (Sequential chat)** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
+  - **Orchestrating agents (Nested chat)** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
 
 <br>
 
@@ -56,3 +57,4 @@
 - [ag2[openai] (0.8.1)](https://pypi.org/project/ag2/) AG2 (formerly AutoGen) by autogen-ai
 - [crewai (0.105.0)](https://pypi.org/project/crewai/) CrewAI by João Moura
 - [crewai-tools (0.38.0)](https://pypi.org/project/crewai-tools/) CrewAI Tools by João Moura
+- [streamlit (1.43.2)](https://pypi.org/project/streamlit/) Streamlit by Jon Roes
