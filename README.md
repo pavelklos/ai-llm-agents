@@ -5,6 +5,7 @@
   - by **ChatGPT** [001-3-chatgpt.ipynb](001-3-chatgpt.ipynb)
   - by **Cursor** [001-5-cursor-1.ipynb](001-5-cursor-1.ipynb)
   - by **Cursor** [001-5-cursor-2.ipynb](001-5-cursor-2.ipynb)
+- **002: CrewAI AI Agent, with 2 different agents**
 - **AG2**
   - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)
 
@@ -40,3 +41,4 @@
 - [pyautogen (0.8.1)](https://pypi.org/project/pyautogen/) AG2 (formerly AutoGen) by openautogen
 - [ag2[openai] (0.8.1)](https://pypi.org/project/ag2/) AG2 (formerly AutoGen) by autogen-ai
 - [crewai (0.105.0)](https://pypi.org/project/crewai/) CrewAI by João Moura
+- [crewai-tools (0.38.0)](https://pypi.org/project/crewai-tools/) CrewAI Tools by João Moura
