@@ -1,3 +1,4 @@
 jupyterlab
 pyautogen
 ag2[openai]
+crewai
