@@ -3,6 +3,7 @@
 - **AG2**
   - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)✅
   - **Structured outputs** [102-ag2-structured-outputs.ipynb](102-ag2-structured-outputs.ipynb)✅
+  - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
 
 <br>
 
