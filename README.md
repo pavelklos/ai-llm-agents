@@ -4,8 +4,10 @@
   - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)✅
   - **Structured outputs** [102-ag2-basics-1.ipynb](102-ag2-basics-1.ipynb)✅
   - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
-  - **Orchestrating agents (Sequential chat)** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
-  - **Orchestrating agents (Nested chat)** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
+  - **Orchestrating agents**
+    - **Sequential chat** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
+    - **Nested chat** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
+    - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
 
 <br>
 
