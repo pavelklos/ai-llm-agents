@@ -10,6 +10,8 @@
     - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
     - **Swarm Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/swarm/deep-dive)⚠️
     - **Ending a chat** [107-ag2-basics-6.ipynb](107-ag2-basics-6.ipynb)✅ TRY⚠️
+  - **Tools**
+    - **Tools Basics** [108-ag2-basics-7.ipynb](108-ag2-basics-7.ipynb)✅
 
 <br>
 
