@@ -83,7 +83,7 @@ h2==4.2.0
 hpack==4.1.0
 httpcore==1.0.7
 httptools==0.6.4
-httpx==0.27.2
+httpx==0.28.1
 httpx-sse==0.4.0
 huggingface-hub==0.29.3
 humanfriendly==10.0
@@ -269,6 +269,7 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 websockets==15.0.1
+wikipedia==1.4.0
 wrapt==1.17.2
 yarl==1.18.3
 zipp==3.21.0

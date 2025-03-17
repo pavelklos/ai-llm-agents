@@ -5,3 +5,5 @@ crewai
 crewai-tools
 crewai[tools]
 streamlit
+ag2[openai,interop-langchain]
+wikipedia
