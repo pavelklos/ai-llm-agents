@@ -8,6 +8,7 @@
     - **Sequential chat** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
     - **Nested chat** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
     - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
+    - **Swarm Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/swarm/deep-dive)⚠️
 
 <br>
 
