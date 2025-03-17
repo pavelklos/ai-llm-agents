@@ -12,6 +12,8 @@
     - **Ending a chat** [107-ag2-basics-6.ipynb](107-ag2-basics-6.ipynb)✅ TRY⚠️
   - **Tools**
     - **Tools Basics** [108-ag2-basics-7.ipynb](108-ag2-basics-7.ipynb)✅
+    - **Tools with Secrets** [109-ag2-basics-8.ipynb](109-ag2-basics-8.ipynb)✅
+    - **Tools with Dependency Injection** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/tools_dependency_injection)⚠️
 
 <br>
 
