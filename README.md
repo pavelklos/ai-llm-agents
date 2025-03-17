@@ -1,6 +1,6 @@
 # SAMPLE CODE
 
-- **AG2**
+- **AG2 (formerly AutoGen)**
   - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)✅
   - **Structured outputs** [102-ag2-basics-1.ipynb](102-ag2-basics-1.ipynb)✅
   - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
@@ -16,7 +16,7 @@
     - **Tools with Dependency Injection** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/tools_dependency_injection)⚠️
     - **Interoperability**
       - **LangChain Tools Integration** [110-ag2-basics-9.ipynb](110-ag2-basics-9.ipynb)✅
-
+      - **CrewAI Tools Integration** [111-ag2-basics-10.ipynb](111-ag2-basics-10.ipynb)✅
 
 <br>
 
