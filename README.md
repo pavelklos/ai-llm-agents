@@ -9,6 +9,7 @@
     - **Nested chat** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
     - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
     - **Swarm Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/swarm/deep-dive)⚠️
+    - **Ending a chat** [107-ag2-basics-6.ipynb](107-ag2-basics-6.ipynb)✅ TRY⚠️
 
 <br>
 
