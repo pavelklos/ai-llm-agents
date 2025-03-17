@@ -7,3 +7,4 @@ crewai[tools]
 streamlit
 ag2[openai,interop-langchain]
 wikipedia
+ag2[openai,interop-crewai]
