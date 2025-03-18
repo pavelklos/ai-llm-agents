@@ -27,6 +27,11 @@
       - **Overview** [114-ag2-advanced-2.ipynb](114-ag2-advanced-2.ipynb)✅
       - **Group Chat with Tools** [115-ag2-advanced-3.ipynb](115-ag2-advanced-3.ipynb)✅
       - **Customized GroupChat flows** [116-ag2-advanced-4.ipynb](116-ag2-advanced-4.ipynb)✅
+        - **More GroupChat examples**
+          - **GroupChat with Customized Speaker Selection Method** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_customized)⚠️
+          - **GroupChat with Coder and Visualization Critic** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_vis)⚠️
+          - **GroupChat with Retrieval-Augmented Generation** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_RAG)⚠️
+          - **Implementing Swarm with a GroupChat** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_w_groupchat_legacy)⚠️
 
 <br>
 
