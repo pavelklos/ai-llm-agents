@@ -21,8 +21,8 @@
         - **PydanticAI Tools Integration** [112-ag2-basics-11.ipynb](112-ag2-basics-11.ipynb)✅
   - **Advanced Concepts**
     - **RAG** [113-ag2-advanced-1.ipynb](113-ag2-advanced-1.ipynb)✅
-
-
+      - **Using Neo4j’s graph database with AG2 agents for Q&A notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_graph_rag_neo4j)⚠️
+      - **Trip planning with a FalkorDB GraphRAG agent using a Swarm notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_graphrag_trip_planner)⚠️
 
 <br>
 
