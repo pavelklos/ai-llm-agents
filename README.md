@@ -38,6 +38,9 @@
       - **Nested chats** [119-ag2-advanced-7.ipynb](119-ag2-advanced-7.ipynb)✅ TRY⚠️
       - **Concepts Code** [120-ag2-advanced-8.ipynb](120-ag2-advanced-8.ipynb)✅
       - **Use Case example** [121-ag2-advanced-9.ipynb](121-ag2-advanced-9.ipynb)✅✅✅
+      - **More Swarm examples**
+        - **Introduction to Swarm notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm)⚠️
+        - **Swarm with GraphRAG notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_graphrag_trip_planner)⚠️
 
 <br>
 
