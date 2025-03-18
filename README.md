@@ -17,6 +17,7 @@
     - **Interoperability**
       - **LangChain Tools Integration** [110-ag2-basics-9.ipynb](110-ag2-basics-9.ipynb)✅
       - **CrewAI Tools Integration** [111-ag2-basics-10.ipynb](111-ag2-basics-10.ipynb)✅
+      - **PydanticAI Tools Integration** [112-ag2-basics-11.ipynb](112-ag2-basics-11.ipynb)✅
 
 <br>
 
@@ -69,3 +70,4 @@
 - [crewai (0.105.0)](https://pypi.org/project/crewai/) CrewAI by João Moura
 - [crewai-tools (0.38.0)](https://pypi.org/project/crewai-tools/) CrewAI Tools by João Moura
 - [streamlit (1.43.2)](https://pypi.org/project/streamlit/) Streamlit by Jon Roes
+- [wikipedia (1.4.0)](https://pypi.org/project/wikipedia/) Wikipedia by Jonathan Goldsmith
