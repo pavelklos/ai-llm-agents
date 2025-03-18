@@ -41,6 +41,14 @@
       - **More Swarm examples**
         - **Introduction to Swarm notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm)⚠️
         - **Swarm with GraphRAG notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_graphrag_trip_planner)⚠️
+    - **RealtimeAgent** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/realtime-agent/index)⚠️
+    - **Code Execution** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/code-execution)⚠️
+    - **Conversation Patterns Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/conversation-patterns-deep-dive)⚠️
+    - **LLM Config Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/llm-configuration-deep-dive)⚠️
+    - **Pattern Cookbook** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/pattern-cookbook/overview)⚠️
+  - **Model Providers** [TODO](https://docs.ag2.ai/docs/user-guide/models)⚠️
+  - **Reference Agents** [TODO](https://docs.ag2.ai/docs/user-guide/reference-agents/index)⚠️
+  - **Reference Tools** [TODO](https://docs.ag2.ai/docs/user-guide/reference-tools/index)⚠️
 
 <br>
 
