@@ -8,3 +8,4 @@ streamlit
 ag2[openai,interop-langchain]
 wikipedia
 ag2[openai,interop-crewai]
+ag2[openai,interop-pydantic-ai]

@@ -5,6 +5,7 @@ aiosignal==1.3.2
 alembic==1.15.1
 altair==5.5.0
 annotated-types==0.7.0
+anthropic==0.49.0
 anyio==4.8.0
 appdirs==1.4.4
 argon2-cffi==23.1.0
@@ -51,6 +52,7 @@ docstring_parser==0.16
 durationpy==0.9
 embedchain==0.1.127
 et_xmlfile==2.0.0
+eval_type_backport==0.2.2
 executing==2.2.0
 fast-depends==2.4.12
 fastapi==0.115.11
@@ -75,6 +77,8 @@ google-resumable-media==2.7.2
 googleapis-common-protos==1.69.1
 gptcache==0.1.44
 greenlet==3.1.1
+griffe==1.6.0
+groq==0.19.0
 grpc-google-iam-v1==0.14.1
 grpcio==1.71.0
 grpcio-health-checking==1.71.0
@@ -104,6 +108,7 @@ jiter==0.8.2
 json_repair==0.39.1
 json5==0.10.0
 jsonpatch==1.33
+jsonpath-python==1.0.6
 jsonpickle==4.0.2
 jsonpointer==3.0.0
 jsonref==1.1.0
@@ -129,6 +134,7 @@ langchain-openai==0.2.14
 langchain-text-splitters==0.3.6
 langsmith==0.1.147
 litellm==1.63.11
+logfire-api==3.8.1
 Mako==1.3.9
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -136,6 +142,7 @@ marshmallow==3.26.1
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mem0ai==0.1.67
+mistralai==1.5.1
 mistune==3.1.2
 mmh3==5.1.0
 monotonic==1.6
@@ -193,7 +200,10 @@ pyasn1_modules==0.4.1
 pyautogen==0.8.1
 pycparser==2.22
 pydantic==2.10.6
+pydantic-ai==0.0.31
+pydantic-ai-slim==0.0.31
 pydantic_core==2.27.2
+pydantic-graph==0.0.31
 pydantic-settings==2.8.1
 pydeck==0.9.1
 Pygments==2.19.1
