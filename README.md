@@ -2,22 +2,27 @@
 
 - **AG2 (formerly AutoGen)**
   - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)✅
-  - **Structured outputs** [102-ag2-basics-1.ipynb](102-ag2-basics-1.ipynb)✅
-  - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
-  - **Orchestrating agents**
-    - **Sequential chat** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
-    - **Nested chat** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
-    - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
-    - **Swarm Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/swarm/deep-dive)⚠️
-    - **Ending a chat** [107-ag2-basics-6.ipynb](107-ag2-basics-6.ipynb)✅ TRY⚠️
-  - **Tools**
-    - **Tools Basics** [108-ag2-basics-7.ipynb](108-ag2-basics-7.ipynb)✅
-    - **Tools with Secrets** [109-ag2-basics-8.ipynb](109-ag2-basics-8.ipynb)✅
-    - **Tools with Dependency Injection** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/tools_dependency_injection)⚠️
-    - **Interoperability**
-      - **LangChain Tools Integration** [110-ag2-basics-9.ipynb](110-ag2-basics-9.ipynb)✅
-      - **CrewAI Tools Integration** [111-ag2-basics-10.ipynb](111-ag2-basics-10.ipynb)✅
-      - **PydanticAI Tools Integration** [112-ag2-basics-11.ipynb](112-ag2-basics-11.ipynb)✅
+  - **Basic Concepts**
+    - **Structured outputs** [102-ag2-basics-1.ipynb](102-ag2-basics-1.ipynb)✅
+    - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
+    - **Orchestrating agents**
+      - **Sequential chat** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
+      - **Nested chat** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
+      - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
+      - **Swarm Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/swarm/deep-dive)⚠️
+      - **Ending a chat** [107-ag2-basics-6.ipynb](107-ag2-basics-6.ipynb)✅ TRY⚠️
+    - **Tools**
+      - **Tools Basics** [108-ag2-basics-7.ipynb](108-ag2-basics-7.ipynb)✅
+      - **Tools with Secrets** [109-ag2-basics-8.ipynb](109-ag2-basics-8.ipynb)✅
+      - **Tools with Dependency Injection** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/tools_dependency_injection)⚠️
+      - **Interoperability**
+        - **LangChain Tools Integration** [110-ag2-basics-9.ipynb](110-ag2-basics-9.ipynb)✅
+        - **CrewAI Tools Integration** [111-ag2-basics-10.ipynb](111-ag2-basics-10.ipynb)✅
+        - **PydanticAI Tools Integration** [112-ag2-basics-11.ipynb](112-ag2-basics-11.ipynb)✅
+  - **Advanced Concepts**
+    - **RAG** [113-ag2-advanced-1.ipynb](113-ag2-advanced-1.ipynb)✅
+
+
 
 <br>
 
