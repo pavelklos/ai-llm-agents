@@ -36,6 +36,7 @@
     - **Swarm**
       - **Deep-dive** [118-ag2-advanced-6.ipynb](118-ag2-advanced-6.ipynb)✅ TRY⚠️
       - **Nested chats** [119-ag2-advanced-7.ipynb](119-ag2-advanced-7.ipynb)✅ TRY⚠️
+      - **Concepts Code** [120-ag2-advanced-8.ipynb](120-ag2-advanced-8.ipynb)✅
 
 <br>
 
