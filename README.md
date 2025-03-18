@@ -32,6 +32,7 @@
           - **GroupChat with Coder and Visualization Critic** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_vis)⚠️
           - **GroupChat with Retrieval-Augmented Generation** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_RAG)⚠️
           - **Implementing Swarm with a GroupChat** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_w_groupchat_legacy)⚠️
+      - **Resuming a Group Chat** [117-ag2-advanced-5.ipynb](117-ag2-advanced-5.ipynb)✅ TRY⚠️
 
 <br>
 
