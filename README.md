@@ -102,3 +102,4 @@
 - [crewai-tools (0.38.0)](https://pypi.org/project/crewai-tools/) CrewAI Tools by João Moura
 - [streamlit (1.43.2)](https://pypi.org/project/streamlit/) Streamlit by Jon Roes
 - [wikipedia (1.4.0)](https://pypi.org/project/wikipedia/) Wikipedia by Jonathan Goldsmith
+- [gradio (5.21.0)](https://pypi.org/project/gradio/) Gradio by Abubakar Abid
