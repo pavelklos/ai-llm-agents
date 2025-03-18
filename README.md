@@ -25,6 +25,7 @@
       - **Trip planning with a FalkorDB GraphRAG agent using a Swarm notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_graphrag_trip_planner)⚠️
     - **GroupChat**
       - **Overview** [114-ag2-advanced-2.ipynb](114-ag2-advanced-2.ipynb)✅
+      - **Group Chat with Tools** [115-ag2-advanced-3.ipynb](115-ag2-advanced-3.ipynb)✅
 
 <br>
 
