@@ -35,6 +35,7 @@
       - **Resuming a Group Chat** [117-ag2-advanced-5.ipynb](117-ag2-advanced-5.ipynb)✅ TRY⚠️
     - **Swarm**
       - **Deep-dive** [118-ag2-advanced-6.ipynb](118-ag2-advanced-6.ipynb)✅ TRY⚠️
+      - **Nested chats** [119-ag2-advanced-7.ipynb](119-ag2-advanced-7.ipynb)✅ TRY⚠️
 
 <br>
 
