@@ -1,43 +1,43 @@
 # SAMPLE CODE
 
 - **AG2 (formerly AutoGen)**
-  - **Quick Start** [101-ag2-quick-start.ipynb](101-ag2-quick-start.ipynb)✅
+  - **Quick Start** [101-ag2-quick-start.ipynb](100-ag2/101-ag2-quick-start.ipynb)✅
   - **Basic Concepts**
-    - **Structured outputs** [102-ag2-basics-1.ipynb](102-ag2-basics-1.ipynb)✅
-    - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](103-ag2-basics-2.ipynb)✅
+    - **Structured outputs** [102-ag2-basics-1.ipynb](100-ag2/102-ag2-basics-1.ipynb)✅
+    - **ConversableAgent, Human in the loop** [103-ag2-basics-2.ipynb](100-ag2/103-ag2-basics-2.ipynb)✅
     - **Orchestrating agents**
-      - **Sequential chat** [104-ag2-basics-3.ipynb](104-ag2-basics-3.ipynb)✅
-      - **Nested chat** [105-ag2-basics-4.ipynb](105-ag2-basics-4.ipynb)✅
-      - **Swarm** [106-ag2-basics-5.ipynb](106-ag2-basics-5.ipynb)✅
+      - **Sequential chat** [104-ag2-basics-3.ipynb](100-ag2/104-ag2-basics-3.ipynb)✅
+      - **Nested chat** [105-ag2-basics-4.ipynb](100-ag2/105-ag2-basics-4.ipynb)✅
+      - **Swarm** [106-ag2-basics-5.ipynb](100-ag2/106-ag2-basics-5.ipynb)✅
       - **Swarm Deep-dive** [TODO](https://docs.ag2.ai/docs/user-guide/advanced-concepts/swarm/deep-dive)⚠️
-      - **Ending a chat** [107-ag2-basics-6.ipynb](107-ag2-basics-6.ipynb)✅ TRY⚠️
+      - **Ending a chat** [107-ag2-basics-6.ipynb](100-ag2/107-ag2-basics-6.ipynb)✅ TRY⚠️
     - **Tools**
-      - **Tools Basics** [108-ag2-basics-7.ipynb](108-ag2-basics-7.ipynb)✅
-      - **Tools with Secrets** [109-ag2-basics-8.ipynb](109-ag2-basics-8.ipynb)✅
+      - **Tools Basics** [108-ag2-basics-7.ipynb](100-ag2/108-ag2-basics-7.ipynb)✅
+      - **Tools with Secrets** [109-ag2-basics-8.ipynb](100-ag2/109-ag2-basics-8.ipynb)✅
       - **Tools with Dependency Injection** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/tools_dependency_injection)⚠️
       - **Interoperability**
-        - **LangChain Tools Integration** [110-ag2-basics-9.ipynb](110-ag2-basics-9.ipynb)✅
-        - **CrewAI Tools Integration** [111-ag2-basics-10.ipynb](111-ag2-basics-10.ipynb)✅
-        - **PydanticAI Tools Integration** [112-ag2-basics-11.ipynb](112-ag2-basics-11.ipynb)✅
+        - **LangChain Tools Integration** [110-ag2-basics-9.ipynb](100-ag2/110-ag2-basics-9.ipynb)✅
+        - **CrewAI Tools Integration** [111-ag2-basics-10.ipynb](100-ag2/111-ag2-basics-10.ipynb)✅
+        - **PydanticAI Tools Integration** [112-ag2-basics-11.ipynb](100-ag2/112-ag2-basics-11.ipynb)✅
   - **Advanced Concepts**
-    - **RAG** [113-ag2-advanced-1.ipynb](113-ag2-advanced-1.ipynb)✅
+    - **RAG** [113-ag2-advanced-1.ipynb](100-ag2/113-ag2-advanced-1.ipynb)✅
       - **Using Neo4j’s graph database with AG2 agents for Q&A notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_graph_rag_neo4j)⚠️
       - **Trip planning with a FalkorDB GraphRAG agent using a Swarm notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_graphrag_trip_planner)⚠️
     - **GroupChat**
-      - **Overview** [114-ag2-advanced-2.ipynb](114-ag2-advanced-2.ipynb)✅
-      - **Group Chat with Tools** [115-ag2-advanced-3.ipynb](115-ag2-advanced-3.ipynb)✅
-      - **Customized GroupChat flows** [116-ag2-advanced-4.ipynb](116-ag2-advanced-4.ipynb)✅
+      - **Overview** [114-ag2-advanced-2.ipynb](100-ag2/114-ag2-advanced-2.ipynb)✅
+      - **Group Chat with Tools** [115-ag2-advanced-3.ipynb](100-ag2/115-ag2-advanced-3.ipynb)✅
+      - **Customized GroupChat flows** [116-ag2-advanced-4.ipynb](100-ag2/116-ag2-advanced-4.ipynb)✅
         - **More GroupChat examples**
           - **GroupChat with Customized Speaker Selection Method** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_customized)⚠️
           - **GroupChat with Coder and Visualization Critic** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_vis)⚠️
           - **GroupChat with Retrieval-Augmented Generation** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_groupchat_RAG)⚠️
           - **Implementing Swarm with a GroupChat** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_w_groupchat_legacy)⚠️
-      - **Resuming a Group Chat** [117-ag2-advanced-5.ipynb](117-ag2-advanced-5.ipynb)✅ TRY⚠️
+      - **Resuming a Group Chat** [117-ag2-advanced-5.ipynb](100-ag2/117-ag2-advanced-5.ipynb)✅ TRY⚠️
     - **Swarm**
-      - **Deep-dive** [118-ag2-advanced-6.ipynb](118-ag2-advanced-6.ipynb)✅ TRY⚠️
-      - **Nested chats** [119-ag2-advanced-7.ipynb](119-ag2-advanced-7.ipynb)✅ TRY⚠️
-      - **Concepts Code** [120-ag2-advanced-8.ipynb](120-ag2-advanced-8.ipynb)✅
-      - **Use Case example** [121-ag2-advanced-9.ipynb](121-ag2-advanced-9.ipynb)✅✅✅
+      - **Deep-dive** [118-ag2-advanced-6.ipynb](100-ag2/118-ag2-advanced-6.ipynb)✅ TRY⚠️
+      - **Nested chats** [119-ag2-advanced-7.ipynb](100-ag2/119-ag2-advanced-7.ipynb)✅ TRY⚠️
+      - **Concepts Code** [120-ag2-advanced-8.ipynb](100-ag2/120-ag2-advanced-8.ipynb)✅
+      - **Use Case example** [121-ag2-advanced-9.ipynb](100-ag2/121-ag2-advanced-9.ipynb)✅✅✅
       - **More Swarm examples**
         - **Introduction to Swarm notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm)⚠️
         - **Swarm with GraphRAG notebook** [TODO](https://docs.ag2.ai/docs/use-cases/notebooks/notebooks/agentchat_swarm_graphrag_trip_planner)⚠️
