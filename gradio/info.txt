@@ -1,0 +1,10 @@
+[Terminal] by python
+> python app.py
+
+[Terminal] by fastapi, uvicorn
+> uvicorn run:app --reload
+  http://127.0.0.1:8000/
+  http://127.0.0.1:8000/gradio
+
+[Render]
+> uvicorn run:app --host 0.0.0.0 --port 5000

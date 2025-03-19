@@ -1,0 +1,4 @@
+fastapi
+gradio
+openai
+uvicorn

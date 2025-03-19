@@ -70,6 +70,7 @@
 <br>
 
 # AI LLM Agents
+
 - [LLM Agents](https://www.promptingguide.ai/research/llm-agents) *by Prompt Engineering Guide*
 - **AutoGen (Microsoft)**
   - [PyPI](https://pypi.org/user/AutoGenDevs/) autogen-core, autogen-agentchat, autogen-ext
@@ -95,6 +96,7 @@
 <br>
 
 # Packages
+
 - [jupyterlab (4.3.6)](https://pypi.org/project/jupyterlab/) JupyterLab by Project Jupyter
 - [pyautogen (0.8.1)](https://pypi.org/project/pyautogen/) AG2 (formerly AutoGen) by openautogen
 - [ag2[openai] (0.8.1)](https://pypi.org/project/ag2/) AG2 (formerly AutoGen) by autogen-ai
@@ -103,3 +105,9 @@
 - [streamlit (1.43.2)](https://pypi.org/project/streamlit/) Streamlit by Jon Roes
 - [wikipedia (1.4.0)](https://pypi.org/project/wikipedia/) Wikipedia by Jonathan Goldsmith
 - [gradio (5.21.0)](https://pypi.org/project/gradio/) Gradio by Abubakar Abid
+
+<br>
+
+# Gradio UI
+
+- **Sample code with OpenAI** [app.py](gradio/app.py)
