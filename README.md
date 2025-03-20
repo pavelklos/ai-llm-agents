@@ -109,11 +109,10 @@
 <br>
 
 # Gradio UI
-
 - **Sample code with OpenAI** [app.py](gradio/app.py)✅
 
 <br>
 
 # Streamlit UI
-
 - **AG2** (GroupChat, GroupChatManager) [ag2-groupchat.ipynb](streamlit/ag2-groupchat.ipynb)✅
+- **AG2** (Swarm) [ag2-swarm.ipynb](streamlit/ag2-swarm.ipynb)✅
