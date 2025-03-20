@@ -238,7 +238,7 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
         recipe_planner,
         [
             AfterWork(
-                lambda context_vars: recipe_planner.execute_function(
+                lambda context_vars, *args: recipe_planner.execute_function(
                     function_name="record_planner_response",
                     arguments={"response": recipe_planner.last_message()["content"], "context_variables": context_vars}
                 )
@@ -251,7 +251,7 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
         chef,
         [
             AfterWork(
-                lambda context_vars: chef.execute_function(
+                lambda context_vars, *args: chef.execute_function(
                     function_name="record_chef_response",
                     arguments={"response": chef.last_message()["content"], "context_variables": context_vars}
                 )
@@ -264,7 +264,7 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
         nutritionist,
         [
             AfterWork(
-                lambda context_vars: nutritionist.execute_function(
+                lambda context_vars, *args: nutritionist.execute_function(
                     function_name="record_nutritionist_response",
                     arguments={"response": nutritionist.last_message()["content"], "context_variables": context_vars}
                 )
