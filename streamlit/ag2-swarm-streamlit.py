@@ -92,7 +92,7 @@ st.title("🍳 Recipe Creator Swarm")
 st.markdown("Enter a recipe idea and let our AI swarm create a complete recipe with instructions and nutritional information.")
 
 # User input
-recipe_idea = st.text_area("Recipe Idea:", placeholder="E.g., A healthy vegetarian pasta dish with seasonal vegetables")
+recipe_idea = st.text_area("Recipe Idea:", placeholder="E.g., A healthy vegetarian pasta dish with seasonal vegetables", value="Healthy vegetarian pasta dish with seasonal vegetables")
 cuisine_type = st.selectbox("Cuisine Type:", ["Italian", "Mexican", "Indian", "Chinese", "Mediterranean", "American", "Thai", "Japanese", "French", "Other"])
 dietary_restrictions = st.multiselect("Dietary Restrictions:", ["Vegetarian", "Vegan", "Gluten-Free", "Dairy-Free", "Nut-Free", "Low-Carb", "Keto", "Paleo"])
 cooking_time = st.slider("Maximum Cooking Time (minutes):", 10, 120, 30)
@@ -233,12 +233,12 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
     # Register handoffs
     status_text.text("Configuring agent workflow...")
     progress_bar.progress(30)
-    
+
     register_hand_off(
         recipe_planner,
         [
             AfterWork(
-                lambda context_vars, *args: recipe_planner.execute_function(
+                lambda context_vars, *args: recipe_planner.run_function(
                     function_name="record_planner_response",
                     arguments={"response": recipe_planner.last_message()["content"], "context_variables": context_vars}
                 )
@@ -246,12 +246,12 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
             OnCondition(chef, "Create cooking instructions based on this plan.")
         ]
     )
-    
+
     register_hand_off(
         chef,
         [
             AfterWork(
-                lambda context_vars, *args: chef.execute_function(
+                lambda context_vars, *args: chef.run_function(
                     function_name="record_chef_response",
                     arguments={"response": chef.last_message()["content"], "context_variables": context_vars}
                 )
@@ -259,12 +259,12 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
             OnCondition(nutritionist, "Provide nutritional information for this recipe.")
         ]
     )
-    
+
     register_hand_off(
         nutritionist,
         [
             AfterWork(
-                lambda context_vars, *args: nutritionist.execute_function(
+                lambda context_vars, *args: nutritionist.run_function(
                     function_name="record_nutritionist_response",
                     arguments={"response": nutritionist.last_message()["content"], "context_variables": context_vars}
                 )
