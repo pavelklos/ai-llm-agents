@@ -233,12 +233,12 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
     # Register handoffs
     status_text.text("Configuring agent workflow...")
     progress_bar.progress(30)
-
+    
     register_hand_off(
         recipe_planner,
         [
             AfterWork(
-                lambda context_vars, *args: recipe_planner.run_function(
+                lambda context_vars: recipe_planner.execute_function(
                     function_name="record_planner_response",
                     arguments={"response": recipe_planner.last_message()["content"], "context_variables": context_vars}
                 )
@@ -246,12 +246,12 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
             OnCondition(chef, "Create cooking instructions based on this plan.")
         ]
     )
-
+    
     register_hand_off(
         chef,
         [
             AfterWork(
-                lambda context_vars, *args: chef.run_function(
+                lambda context_vars: chef.execute_function(
                     function_name="record_chef_response",
                     arguments={"response": chef.last_message()["content"], "context_variables": context_vars}
                 )
@@ -259,12 +259,12 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
             OnCondition(nutritionist, "Provide nutritional information for this recipe.")
         ]
     )
-
+    
     register_hand_off(
         nutritionist,
         [
             AfterWork(
-                lambda context_vars, *args: nutritionist.run_function(
+                lambda context_vars: nutritionist.execute_function(
                     function_name="record_nutritionist_response",
                     arguments={"response": nutritionist.last_message()["content"], "context_variables": context_vars}
                 )
