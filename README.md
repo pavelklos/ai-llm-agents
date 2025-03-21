@@ -49,6 +49,8 @@
   - **Model Providers** [TODO](https://docs.ag2.ai/docs/user-guide/models)⚠️
   - **Reference Agents** [TODO](https://docs.ag2.ai/docs/user-guide/reference-agents/index)⚠️
   - **Reference Tools** [TODO](https://docs.ag2.ai/docs/user-guide/reference-tools/index)⚠️
+- **CrewAI**
+  - **Quick Start** [201-crewai-quick-start.ipynb](200-crewai/201-crewai-quick-start.ipynb)✅
 
 <br>
 

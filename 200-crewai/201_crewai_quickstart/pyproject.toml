@@ -1,0 +1,23 @@
+[project]
+name = "201_crewai_quickstart"
+version = "0.1.0"
+description = "201_crewai_quickstart using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.108.0,<1.0.0"
+]
+
+[project.scripts]
+201_crewai_quickstart = "201_crewai_quickstart.main:run"
+run_crew = "201_crewai_quickstart.main:run"
+train = "201_crewai_quickstart.main:train"
+replay = "201_crewai_quickstart.main:replay"
+test = "201_crewai_quickstart.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
