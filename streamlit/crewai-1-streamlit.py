@@ -3,9 +3,13 @@ import os
 from dotenv import load_dotenv
 from crewai import Agent, Task, Crew
 from langchain_openai import ChatOpenAI
+import pathlib
 
-# Load environment variables
-load_dotenv()
+# Check if .env file exists and load environment variables
+env_path = pathlib.Path('.env')
+env_exists = env_path.exists()
+if env_exists:
+    load_dotenv()
 
 # Set up Streamlit page
 st.set_page_config(page_title="Travel Planning Crew", page_icon="✈️")
@@ -14,8 +18,30 @@ st.title("Travel Planning Assistant")
 # Sidebar for API key
 with st.sidebar:
     st.header("Configuration")
-    api_key = st.text_input("OpenAI API Key", type="password", 
-                           value=os.getenv("OPENAI_API_KEY", ""))
+    
+    # Get API key from environment if available
+    default_api_key = os.getenv("OPENAI_API_KEY", "")
+    
+    # Show appropriate message based on whether .env file exists and has API key
+    if env_exists and default_api_key:
+        api_key_message = "API key loaded from .env file"
+        st.success(api_key_message)
+        api_key_placeholder = "••••••••" # Masked placeholder for security
+    else:
+        if env_exists:
+            api_key_message = "No API key found in .env file. Please enter manually:"
+        else:
+            api_key_message = "No .env file found. Please enter your API key:"
+        st.warning(api_key_message)
+        api_key_placeholder = ""
+    
+    # API key input field
+    api_key = st.text_input("OpenAI API Key", 
+                           type="password",
+                           value=default_api_key,
+                           placeholder=api_key_placeholder)
+    
+    # Update environment variable with entered key
     if api_key:
         os.environ["OPENAI_API_KEY"] = api_key
     
