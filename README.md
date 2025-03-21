@@ -115,4 +115,6 @@
 
 # Streamlit UI
 - **AG2** (GroupChat, GroupChatManager) [ag2-groupchat.ipynb](streamlit/ag2-groupchat.ipynb)✅
-- **AG2** (Swarm) [ag2-swarm.ipynb](streamlit/ag2-swarm.ipynb)✅
+- **AG2** (Swarm) [ag2-swarm-1.ipynb](streamlit/ag2-swarm-1.ipynb)✅
+- **AG2** (Swarm) [ag2-swarm-2.ipynb](streamlit/ag2-swarm-2.ipynb)✅
+- **AG2** (Swarm + Streamlit) [ag2-swarm-2-streamlit.py](streamlit/ag2-swarm-2-streamlit.py)⚠️ERROR
