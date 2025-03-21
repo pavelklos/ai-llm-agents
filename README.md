@@ -50,7 +50,8 @@
   - **Reference Agents** [TODO](https://docs.ag2.ai/docs/user-guide/reference-agents/index)⚠️
   - **Reference Tools** [TODO](https://docs.ag2.ai/docs/user-guide/reference-tools/index)⚠️
 - **CrewAI**
-  - **Quick Start** [201-crewai-quick-start.ipynb](200-crewai/201-crewai-quick-start.ipynb)✅
+  - **Quick Start**
+    - [201_crewai_quickstart.ipynb](200-crewai/201_crewai_quickstart.ipynb)✅
 
 <br>
 
