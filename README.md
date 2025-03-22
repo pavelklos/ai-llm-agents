@@ -122,3 +122,50 @@
 - **AG2** (Swarm) [ag2-swarm-2.ipynb](streamlit/ag2-swarm-2.ipynb)✅
 - **AG2** (Swarm + Streamlit) [ag2-swarm-2-streamlit.py](streamlit/ag2-swarm-2-streamlit.py)⚠️ERROR
 - **CrewAI** (Agents + Streamlit) [crewai-1-streamlit.py](streamlit/crewai-1-streamlit.py)✅ [Travel Planning Crew] [PDF](streamlit/crewai-1-streamlit.pdf)
+
+<br>
+
+# Streamlit UI (2)
+
+- **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv)<br>`000-streamlit-basic-copilot.py`
+- **Re-write your text** (openai, prompt template)<br>`001-streamlit-redaction-improver.py`
+- **Blog Post Generator** (openai, prompt template)<br>`002-streamlit-blog-post-generator.py`
+- **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain)<br>`003-streamlit-split-and-summarize.py`
+- **Writing Text Summarization** (openai, character text splitter, summarize chain)<br>`004-streamlit-text-summarization.py`
+- **Extract Key Information from Product Reviews** (openai, prompt template, format output)<br>`005-streamlit-extract-json-from-review.py`
+- **Evaluate a RAG App** (openai, upload file, rag with faiss, qa eval chain)<br>`009-streamlit-evaluate-QandA-from-long-document.py`
+
+## 30 Days of Streamlit
+- [Get started with Streamlit](https://docs.streamlit.io/get-started)<br>
+  [30 Days of Streamlit](https://30days.streamlit.app/)
+
+- **Install conda**<br>
+  [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
+- **Terminal**
+  ```
+  conda create -n stenv python=3.9
+  conda activate stenv
+  pip install streamlit
+  streamlit hello
+  ```
+  ```
+  conda create --name myenv
+  conda create --name myenv python=3.8 numpy
+  conda activate myenv
+  conda install --file requirements.txt
+  conda deactivate
+
+  conda info --envs
+  conda env list
+  conda env remove --name myenv
+  ```
+  ```
+  python -m venv venv
+  .\venv\Scripts\activate  # Windows
+  source venv/bin/activate  # macOS
+  pip install -r requirements.txt
+  ```
+- `streamlit_app.py`<br>`streamlit_app_layout.py`<br>`streamlit_app_dashboard.py`<br>`streamlit_app_shap.py`<br>`streamlit_app_zero_shot_classifier.py`<br>`streamlit_app_art.py`
+  ```
+  streamlit run streamlit_app.py
+  ```
