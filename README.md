@@ -52,6 +52,9 @@
 - **CrewAI**
   - **Quick Start**
     - [201_crewai_quickstart.ipynb](200-crewai/201_crewai_quickstart.ipynb)✅
+- **LangGraph**
+  - **Quick Start**
+    - [301_langgraph_quickstart.ipynb](300-langgraph/301_langgraph_quickstart.ipynb)✅
 
 <br>
 
