@@ -17,3 +17,4 @@ langchain-openai
 langchain-anthropic
 langgraph
 langsmith
+tavily-python
