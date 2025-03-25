@@ -111,6 +111,14 @@
 - [streamlit (1.43.2)](https://pypi.org/project/streamlit/) Streamlit by Jon Roes
 - [wikipedia (1.4.0)](https://pypi.org/project/wikipedia/) Wikipedia by Jonathan Goldsmith
 - [gradio (5.21.0)](https://pypi.org/project/gradio/) Gradio by Abubakar Abid
+- langchain (0.3.21)
+- langchain-core (0.3.48)
+- langchain-community (0.3.20)
+- langchain-openai (0.3.10)
+- langchain-anthropic (0.3.10)
+- langgraph (0.3.20)
+- langsmith (0.3.18)
+- tavily-python (0.5.1)
 
 <br>
 
