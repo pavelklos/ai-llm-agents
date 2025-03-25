@@ -177,6 +177,7 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
         Be thorough but concise. Focus only on planning, not cooking instructions.
         """,
         llm_config=llm_config,
+        functions=[record_planner_response]
     )
     
     chef = AssistantAgent(
@@ -191,6 +192,7 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
         Be thorough but practical. Focus only on the cooking process.
         """,
         llm_config=llm_config,
+        functions=[record_chef_response]
     )
     
     nutritionist = AssistantAgent(
@@ -206,8 +208,10 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
         Be informative but concise. Focus only on nutritional aspects.
         """,
         llm_config=llm_config,
+        functions=[record_nutritionist_response]
     )
     
+    # Create User Agent (NOT USED)
     user_proxy = UserProxyAgent(
         name="User",
         human_input_mode="NEVER",
@@ -235,40 +239,31 @@ if st.button("Create Recipe", type="primary", disabled=not api_key or not recipe
     progress_bar.progress(30)
     
     register_hand_off(
-        recipe_planner,
-        [
-            AfterWork(
-                lambda context_vars: recipe_planner.execute_function(
-                    function_name="record_planner_response",
-                    arguments={"response": recipe_planner.last_message()["content"], "context_variables": context_vars}
-                )
+        agent=recipe_planner,
+        hand_to=[
+            OnCondition(
+                target=chef,
+                condition=lambda agent, context: "Create cooking instructions based on this plan."
             ),
-            OnCondition(chef, "Create cooking instructions based on this plan.")
+            AfterWork(agent=recipe_planner)
         ]
     )
     
     register_hand_off(
-        chef,
-        [
-            AfterWork(
-                lambda context_vars: chef.execute_function(
-                    function_name="record_chef_response",
-                    arguments={"response": chef.last_message()["content"], "context_variables": context_vars}
-                )
+        agent=chef,
+        hand_to=[
+            OnCondition(
+                target=nutritionist,
+                condition=lambda agent, context: "Provide nutritional information for this recipe."
             ),
-            OnCondition(nutritionist, "Provide nutritional information for this recipe.")
+            AfterWork(agent=chef)
         ]
     )
     
     register_hand_off(
-        nutritionist,
-        [
-            AfterWork(
-                lambda context_vars: nutritionist.execute_function(
-                    function_name="record_nutritionist_response",
-                    arguments={"response": nutritionist.last_message()["content"], "context_variables": context_vars}
-                )
-            ),
+        agent=nutritionist,
+        hand_to=[
+            AfterWork(agent=nutritionist),
             AfterWork(AfterWorkOption.TERMINATE)
         ]
     )
@@ -363,8 +358,9 @@ else:
     with example_tabs[0]:
         st.markdown("""
         <div class='agent-response'>
+                    
         # Mediterranean Vegetable Pasta
-        
+                    
         ## Ingredients:
         - 8 oz whole wheat pasta
         - 1 zucchini, diced
@@ -392,6 +388,9 @@ else:
     with example_tabs[1]:
         st.markdown("""
         <div class='agent-response'>
+                    
+        # Mediterranean Vegetable Pasta
+
         ## Cooking Instructions:
         
         1. Bring a large pot of salted water to a boil. Add pasta and cook according to package directions until al dente (approximately 8-10 minutes).
@@ -421,6 +420,9 @@ else:
     with example_tabs[2]:
         st.markdown("""
         <div class='agent-response'>
+                    
+        # Mediterranean Vegetable Pasta
+        
         ## Nutritional Information:
         
         **Per Serving (Makes 4 servings):**
@@ -453,9 +455,7 @@ else:
     with example_tabs[3]:
         st.markdown("""
         <div class='final-result'>
-        # Mediterranean Vegetable Pasta
-        
-        ## Ingredients and Plan
+                    
         # Mediterranean Vegetable Pasta
         
         ## Ingredients:
@@ -480,7 +480,6 @@ else:
         - Cutting board and knife
         - Colander
         
-        ## Cooking Instructions
         ## Cooking Instructions:
         
         1. Bring a large pot of salted water to a boil. Add pasta and cook according to package directions until al dente (approximately 8-10 minutes).
@@ -505,7 +504,6 @@ else:
         
         Total cooking time: Approximately 25 minutes
         
-        ## Nutritional Information
         ## Nutritional Information:
         
         **Per Serving (Makes 4 servings):**
