@@ -18,3 +18,8 @@ langchain-anthropic
 langgraph
 langsmith
 tavily-python
+tiktoken
+langchainhub
+chromadb
+langchain-text-splitters
+beautifulsoup4
