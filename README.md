@@ -55,6 +55,8 @@
 - **LangGraph**
   - **Quick Start**
     - [301_langgraph_quickstart.ipynb](300-langgraph/301_langgraph_quickstart.ipynb)✅
+  - **Tutorials**
+    - **Agentic RAG** [302_langgraph_agentic_rag.ipynb](300-langgraph/302_langgraph_agentic_rag.ipynb)✅
 
 <br>
 
