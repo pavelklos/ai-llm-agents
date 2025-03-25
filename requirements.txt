@@ -10,3 +10,10 @@ wikipedia
 ag2[openai,interop-crewai]
 ag2[openai,interop-pydantic-ai]
 gradio
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+langgraph
+langsmith
