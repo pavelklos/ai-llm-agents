@@ -24,3 +24,4 @@ chromadb
 langchain-text-splitters
 beautifulsoup4
 bs4
+llama-index
