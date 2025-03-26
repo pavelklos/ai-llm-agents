@@ -58,6 +58,9 @@
   - **Tutorials**
     - **Agentic RAG** [302_langgraph_agentic_rag.ipynb](300-langgraph/302_langgraph_agentic_rag.ipynb)✅
     - **Code Assistant** [303_langgraph_code_assistant.ipynb](300-langgraph/303_langgraph_code_assistant.ipynb)✅
+- **LlamaIndex**
+  - **Quick Start**
+    - [401_llamaindex_quickstart.ipynb](400-llamaindex/401_llamaindex_quickstart.ipynb)✅
 
 <br>
 
@@ -128,6 +131,7 @@
 - langchain-text-splitters (0.3.7)
 - beautifulsoup4 (4.13.3)
 - bs4 (0.0.2)
+- llama-index (0.12.25)
 
 <br>
 
