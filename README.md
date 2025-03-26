@@ -50,17 +50,16 @@
   - **Reference Agents** [TODO](https://docs.ag2.ai/docs/user-guide/reference-agents/index)⚠️
   - **Reference Tools** [TODO](https://docs.ag2.ai/docs/user-guide/reference-tools/index)⚠️
 - **CrewAI**
-  - **Quick Start**
-    - [201_crewai_quickstart.ipynb](200-crewai/201_crewai_quickstart.ipynb)✅
+  - **Quick Start** [201_crewai_quickstart.ipynb](200-crewai/201_crewai_quickstart.ipynb)✅
 - **LangGraph**
-  - **Quick Start**
-    - [301_langgraph_quickstart.ipynb](300-langgraph/301_langgraph_quickstart.ipynb)✅
+  - **Quick Start** [301_langgraph_quickstart.ipynb](300-langgraph/301_langgraph_quickstart.ipynb)✅
   - **Tutorials**
     - **Agentic RAG** [302_langgraph_agentic_rag.ipynb](300-langgraph/302_langgraph_agentic_rag.ipynb)✅
     - **Code Assistant** [303_langgraph_code_assistant.ipynb](300-langgraph/303_langgraph_code_assistant.ipynb)✅
 - **LlamaIndex**
-  - **Quick Start**
-    - [401_llamaindex_quickstart.ipynb](400-llamaindex/401_llamaindex_quickstart.ipynb)✅
+  - **Quick Start** [401_llamaindex_quickstart.ipynb](400-llamaindex/401_llamaindex_quickstart.ipynb)✅
+  - **Starter Examples**
+    - **Starter Tutorial (Using OpenAI)** [402_llamaindex_starter_openai.ipynb](400-llamaindex/402_llamaindex_starter_openai.ipynb)
 
 <br>
 
