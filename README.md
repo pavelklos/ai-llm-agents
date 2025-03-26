@@ -57,6 +57,7 @@
     - [301_langgraph_quickstart.ipynb](300-langgraph/301_langgraph_quickstart.ipynb)✅
   - **Tutorials**
     - **Agentic RAG** [302_langgraph_agentic_rag.ipynb](300-langgraph/302_langgraph_agentic_rag.ipynb)✅
+    - **Code Assistant** [303_langgraph_code_assistant.ipynb](300-langgraph/303_langgraph_code_assistant.ipynb)✅
 
 <br>
 
@@ -121,6 +122,12 @@
 - langgraph (0.3.20)
 - langsmith (0.3.18)
 - tavily-python (0.5.1)
+- tiktoken (0.9.0)
+- langchainhub (0.1.21)
+- chromadb (0.6.3)
+- langchain-text-splitters (0.3.7)
+- beautifulsoup4 (4.13.3)
+- bs4 (0.0.2)
 
 <br>
 
