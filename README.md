@@ -61,8 +61,10 @@
   - **Starter Examples**
     - **Starter Tutorial (Using OpenAI)** [402_llamaindex_starter_openai.ipynb](400-llamaindex/402_llamaindex_starter_openai.ipynb)✅
     - **Starter Tutorial (Using Local LLMs)** [403_llamaindex_starter_local_llms.ipynb](400-llamaindex/403_llamaindex_starter_local_llms.ipynb)✅ TRY(>32GB)⚠️
-    - **AgentWorkflow Basic Introduction** [TODO](https://docs.llamaindex.ai/en/stable/examples/agent/agent_workflow_basic/)⚠️
-    - **Building an agent** [TODO](https://docs.llamaindex.ai/en/stable/understanding/agent/)⚠️
+  - **Examples**
+    - **AgentWorkflow Basic Introduction** [404_llamaindex_agent_workflow.ipynb](400-llamaindex/404_llamaindex_agent_workflow.ipynb)✅
+  - **Learn**
+    - **Building agents (5 parts)** [TODO](https://docs.llamaindex.ai/en/stable/understanding/agent/)⚠️
 
 <br>
 
