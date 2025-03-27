@@ -25,3 +25,5 @@ langchain-text-splitters
 beautifulsoup4
 bs4
 llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
