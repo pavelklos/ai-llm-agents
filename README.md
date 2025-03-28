@@ -65,6 +65,7 @@
     - **AgentWorkflow Basic Introduction** [404_llamaindex_agent_workflow.ipynb](400-llamaindex/404_llamaindex_agent_workflow.ipynb)✅
   - **Learn**
     - **Building agents (5 parts)** [405_llamaindex_building_agents.ipynb](400-llamaindex/405_llamaindex_building_agents.ipynb)✅
+      - (tools, state, streaming, loop, multi-agent)⚠️TRY(multi-agent, result to dict)
 
 <br>
 
