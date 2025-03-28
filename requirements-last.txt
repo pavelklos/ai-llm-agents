@@ -66,6 +66,7 @@ filelock==3.18.0
 filetype==1.2.0
 flatbuffers==25.2.10
 fqdn==1.5.1
+frozendict==2.4.6
 frozenlist==1.5.0
 fsspec==2025.3.0
 gitdb==4.0.12
@@ -167,6 +168,7 @@ llama-index-program-openai==0.3.1
 llama-index-question-gen-openai==0.3.0
 llama-index-readers-file==0.4.7
 llama-index-readers-llama-parse==0.4.0
+llama-index-tools-yahoo-finance==0.3.0
 llama-parse==0.6.4.post1
 logfire-api==3.8.1
 Mako==1.3.9
@@ -182,6 +184,7 @@ mmh3==5.1.0
 monotonic==1.6
 mpmath==1.3.0
 multidict==6.1.0
+multitasking==0.0.11
 mypy-extensions==1.0.0
 narwhals==1.30.0
 nbclient==0.10.2
@@ -218,6 +221,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pdfminer.six==20231228
 pdfplumber==0.11.5
+peewee==3.17.9
 pillow==11.1.0
 pip==25.0.1
 platformdirs==4.3.6
@@ -340,5 +344,6 @@ wikipedia==1.4.0
 wrapt==1.17.2
 xxhash==3.5.0
 yarl==1.18.3
+yfinance==0.2.55
 zipp==3.21.0
 zstandard==0.23.0
