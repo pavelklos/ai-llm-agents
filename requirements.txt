@@ -28,3 +28,5 @@ llama-index
 llama-index-llms-ollama
 llama-index-embeddings-huggingface
 ipywidgets
+llama-index-tools-yahoo-finance
+llama-index-tools-tavily-research

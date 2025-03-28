@@ -145,6 +145,8 @@
 - llama-index-llms-ollama (0.5.4)
 - llama-index-embeddings-huggingface (0.5.2)
 - ipywidgets (8.1.5)
+- llama-index-tools-yahoo-finance (0.3.0)
+- llama-index-tools-tavily-research (0.3.0)
 
 <br>
 
