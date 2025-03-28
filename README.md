@@ -64,7 +64,7 @@
   - **Examples**
     - **AgentWorkflow Basic Introduction** [404_llamaindex_agent_workflow.ipynb](400-llamaindex/404_llamaindex_agent_workflow.ipynb)✅
   - **Learn**
-    - **Building agents (5 parts)** [TODO](https://docs.llamaindex.ai/en/stable/understanding/agent/)⚠️
+    - **Building agents (5 parts)** [405_llamaindex_building_agents.ipynb](400-llamaindex/405_llamaindex_building_agents.ipynb)✅
 
 <br>
 
