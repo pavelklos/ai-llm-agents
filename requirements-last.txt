@@ -168,6 +168,7 @@ llama-index-program-openai==0.3.1
 llama-index-question-gen-openai==0.3.0
 llama-index-readers-file==0.4.7
 llama-index-readers-llama-parse==0.4.0
+llama-index-tools-tavily-research==0.3.0
 llama-index-tools-yahoo-finance==0.3.0
 llama-parse==0.6.4.post1
 logfire-api==3.8.1
