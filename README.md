@@ -66,6 +66,11 @@
   - **Learn**
     - **Building agents (5 parts)** [405_llamaindex_building_agents.ipynb](400-llamaindex/405_llamaindex_building_agents.ipynb)✅
       - (tools, state, streaming, loop, multi-agent)⚠️TRY(multi-agent, result to dict)
+    - **Building Workflows** [TODO](https://docs.llamaindex.ai/en/stable/understanding/workflows/)⚠️
+    - **Building a RAG pipeline** [TODO](https://docs.llamaindex.ai/en/stable/understanding/rag/)⚠️
+    - **Structured Data Extraction** [TODO](https://docs.llamaindex.ai/en/stable/understanding/extraction/)⚠️
+    - **Tracing and Debugging** [TODO](https://docs.llamaindex.ai/en/stable/understanding/tracing_and_debugging/tracing_and_debugging/)⚠️
+    - **Evaluating** [TODO](https://docs.llamaindex.ai/en/stable/understanding/evaluating/evaluating/)⚠️
 
 <br>
 
