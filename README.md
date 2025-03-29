@@ -71,6 +71,13 @@
     - **Structured Data Extraction** [TODO](https://docs.llamaindex.ai/en/stable/understanding/extraction/)⚠️
     - **Tracing and Debugging** [TODO](https://docs.llamaindex.ai/en/stable/understanding/tracing_and_debugging/tracing_and_debugging/)⚠️
     - **Evaluating** [TODO](https://docs.llamaindex.ai/en/stable/understanding/evaluating/evaluating/)⚠️
+  - **Component Guides (Agents)** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)⚠️
+    - **Examples/Module Guides** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/modules/)⚠️
+  - **Use Cases (Question-Answering (RAG))** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️
+    - **QA over Structured Data (Text-to-SQL Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/)⚠️
+    - **QA over Structured Data (Text-to-Pandas Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/query_engine/pandas_query_engine/)⚠️
+
+    
 
 <br>
 
