@@ -147,6 +147,10 @@
 - ipywidgets (8.1.5)
 - llama-index-tools-yahoo-finance (0.3.0)
 - llama-index-tools-tavily-research (0.3.0)
+- llama-index-readers-database (0.3.0)
+- llama-index-readers-google (0.6.1)
+- llama-index-vector-stores-chroma (0.4.1)
+- spacy (3.8.4)
 
 <br>
 
