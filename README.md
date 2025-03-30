@@ -68,7 +68,7 @@
       - (tools, state, streaming, loop, multi-agent)⚠️TRY(multi-agent, result to dict)
     - **Building Workflows** [TODO](https://docs.llamaindex.ai/en/stable/understanding/workflows/)⚠️
     - **Building a RAG pipeline** [406_llamaindex_building_rag.ipynb](400-llamaindex/406_llamaindex_building_rag.ipynb)✅
-    - **Structured Data Extraction** [TODO](https://docs.llamaindex.ai/en/stable/understanding/extraction/)⚠️
+    - **Structured Data Extraction** [407_llamaindex_structured_data.ipynb](400-llamaindex/407_llamaindex_structured_data.ipynb)✅
     - **Tracing and Debugging** [TODO](https://docs.llamaindex.ai/en/stable/understanding/tracing_and_debugging/tracing_and_debugging/)⚠️
     - **Evaluating** [TODO](https://docs.llamaindex.ai/en/stable/understanding/evaluating/evaluating/)⚠️
   - **Component Guides (Agents)** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)⚠️
