@@ -71,11 +71,13 @@
     - **Structured Data Extraction** [407_llamaindex_structured_data.ipynb](400-llamaindex/407_llamaindex_structured_data.ipynb)✅
     - **Tracing and Debugging** [TODO](https://docs.llamaindex.ai/en/stable/understanding/tracing_and_debugging/tracing_and_debugging/)⚠️
     - **Evaluating** [TODO](https://docs.llamaindex.ai/en/stable/understanding/evaluating/evaluating/)⚠️
+    - **Full-Stack Web Application** [TODO](https://docs.llamaindex.ai/en/stable/understanding/putting_it_all_together/apps/)⚠️
+      - **LlamaIndex Starter Pack** [TODO](https://github.com/logan-markewich/llama_index_starter_pack)⚠️⚠️⚠️
   - **Component Guides (Agents)** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)⚠️
     - **Examples/Module Guides** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/modules/)⚠️
   - **Use Cases (Question-Answering (RAG))** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️
-    - **QA over Structured Data (Text-to-SQL Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/)⚠️
-    - **QA over Structured Data (Text-to-Pandas Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/query_engine/pandas_query_engine/)⚠️
+    - **QA over Structured Data (Text-to-SQL Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/)⚠️⚠️⚠️
+    - **QA over Structured Data (Text-to-Pandas Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/query_engine/pandas_query_engine/)⚠️⚠️⚠️
 
     
 
