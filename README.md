@@ -77,10 +77,8 @@
     - **Examples/Module Guides** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/modules/)⚠️
   - **Use Cases (Question-Answering (RAG))** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️
     - **RAG over Unstructured Docs (Semantic search, Summarization)** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️⚠️⚠️
-    - **QA over Structured Data (Text-to-SQL Guide)** [408_llamaindex_text-to-sql.ipynb](400-llamaindex/408_llamaindex_text-to-sql.ipynb)✅
-    - **QA over Structured Data (Text-to-Pandas Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/query_engine/pandas_query_engine/)⚠️⚠️⚠️
-
-    
+    - **QA over Structured Data (Text-to-SQL)** [408_llamaindex_text-to-sql.ipynb](400-llamaindex/408_llamaindex_text-to-sql.ipynb)✅
+    - **QA over Structured Data (Text-to-Pandas)** [409_llamaindex_text-to-pandas.ipynb](400-llamaindex/409_llamaindex_text-to-pandas.ipynb)✅
 
 <br>
 
@@ -164,8 +162,7 @@
 - matplotlib (3.10.1)
 - numpy (2.2.3)
 - pandas (2.2.3)
-
-
+- llama-index-experimental (0.5.4)
 
 <br>
 
