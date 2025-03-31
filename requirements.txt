@@ -34,3 +34,6 @@ llama-index-readers-database
 llama-index-readers-google
 llama-index-vector-stores-chroma
 spacy
+matplotlib
+numpy
+pandas
