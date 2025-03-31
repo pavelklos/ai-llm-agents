@@ -163,6 +163,8 @@
 - numpy (2.2.3)
 - pandas (2.2.3)
 - llama-index-experimental (0.5.4)
+- arize-phoenix (8.20.0)
+- llama-index-callbacks-arize-phoenix (0.4.0)
 
 <br>
 

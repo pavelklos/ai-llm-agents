@@ -38,3 +38,5 @@ matplotlib
 numpy
 pandas
 llama-index-experimental
+arize-phoenix
+llama-index-callbacks-arize-phoenix
