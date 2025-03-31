@@ -76,7 +76,8 @@
   - **Component Guides (Agents)** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)⚠️
     - **Examples/Module Guides** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/modules/)⚠️
   - **Use Cases (Question-Answering (RAG))** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️
-    - **QA over Structured Data (Text-to-SQL Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/)⚠️⚠️⚠️
+    - **RAG over Unstructured Docs (Semantic search, Summarization)** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️⚠️⚠️
+    - **QA over Structured Data (Text-to-SQL Guide)** [408_llamaindex_text-to-sql.ipynb](400-llamaindex/408_llamaindex_text-to-sql.ipynb)✅
     - **QA over Structured Data (Text-to-Pandas Guide)** [TODO](https://docs.llamaindex.ai/en/stable/examples/query_engine/pandas_query_engine/)⚠️⚠️⚠️
 
     
@@ -160,6 +161,11 @@
 - llama-index-readers-google (0.6.1)
 - llama-index-vector-stores-chroma (0.4.1)
 - spacy (3.8.4)
+- matplotlib (3.10.1)
+- numpy (2.2.3)
+- pandas (2.2.3)
+
+
 
 <br>
 
