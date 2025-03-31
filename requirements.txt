@@ -37,3 +37,4 @@ spacy
 matplotlib
 numpy
 pandas
+llama-index-experimental
