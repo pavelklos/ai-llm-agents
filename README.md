@@ -76,7 +76,7 @@
   - **Component Guides (Agents)** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)⚠️
     - **Examples/Module Guides** [TODO](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/modules/)⚠️
   - **Use Cases (Question-Answering (RAG))** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️
-    - **RAG over Unstructured Docs (Semantic search, Summarization)** [TODO](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/)⚠️⚠️⚠️
+    - **RAG over Unstructured Docs (Semantic search, Summarization)** [410_llamaindex_unstructured_docs.ipynb](400-llamaindex/410_llamaindex_unstructured_docs.ipynb)✅
     - **QA over Structured Data (Text-to-SQL)** [408_llamaindex_text-to-sql.ipynb](400-llamaindex/408_llamaindex_text-to-sql.ipynb)✅
     - **QA over Structured Data (Text-to-Pandas)** [409_llamaindex_text-to-pandas.ipynb](400-llamaindex/409_llamaindex_text-to-pandas.ipynb)✅
 
