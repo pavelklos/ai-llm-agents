@@ -82,7 +82,7 @@
 
 <br>
 
-# GENERATED CODE
+# AGENTS (generated code)
 
 - **001: Autogen AI Agent, with 2 different agents**
   - by **GitHub Copilot** [001-1-github-copilot.ipynb](001/001-1-github-copilot.ipynb)
@@ -96,6 +96,11 @@
   - by **ChatGPT** [002-3-chatgpt.ipynb](002/002-3-chatgpt.ipynb)✅
   - by **Claude** [002-4-claude.ipynb](002/002-4-claude.ipynb)
   - by **Cursor** [002-5-cursor.ipynb](002/002-5-cursor.ipynb)✅
+
+<br>
+
+# RAG (generated code)
+- **Pinecone** (quickstart) [rag-000.ipynb](rag/rag-000.ipynb)✅
 
 <br>
 
@@ -122,49 +127,6 @@
 - **LlamaIndex**
   - [Agents (use cases)](https://docs.llamaindex.ai/en/stable/use_cases/agents/)
   - [Agents (module guides)](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/)
-
-<br>
-
-# Packages
-
-- [jupyterlab (4.3.6)](https://pypi.org/project/jupyterlab/) JupyterLab by Project Jupyter
-- [pyautogen (0.8.1)](https://pypi.org/project/pyautogen/) AG2 (formerly AutoGen) by openautogen
-- [ag2[openai] (0.8.1)](https://pypi.org/project/ag2/) AG2 (formerly AutoGen) by autogen-ai
-- [crewai (0.105.0)](https://pypi.org/project/crewai/) CrewAI by João Moura
-- [crewai-tools (0.38.0)](https://pypi.org/project/crewai-tools/) CrewAI Tools by João Moura
-- [streamlit (1.43.2)](https://pypi.org/project/streamlit/) Streamlit by Jon Roes
-- [wikipedia (1.4.0)](https://pypi.org/project/wikipedia/) Wikipedia by Jonathan Goldsmith
-- [gradio (5.21.0)](https://pypi.org/project/gradio/) Gradio by Abubakar Abid
-- langchain (0.3.21)
-- langchain-core (0.3.48)
-- langchain-community (0.3.20)
-- langchain-openai (0.3.10)
-- langchain-anthropic (0.3.10)
-- langgraph (0.3.20)
-- langsmith (0.3.18)
-- tavily-python (0.5.1)
-- tiktoken (0.9.0)
-- langchainhub (0.1.21)
-- chromadb (0.6.3)
-- langchain-text-splitters (0.3.7)
-- beautifulsoup4 (4.13.3)
-- bs4 (0.0.2)
-- llama-index (0.12.25)
-- llama-index-llms-ollama (0.5.4)
-- llama-index-embeddings-huggingface (0.5.2)
-- ipywidgets (8.1.5)
-- llama-index-tools-yahoo-finance (0.3.0)
-- llama-index-tools-tavily-research (0.3.0)
-- llama-index-readers-database (0.3.0)
-- llama-index-readers-google (0.6.1)
-- llama-index-vector-stores-chroma (0.4.1)
-- spacy (3.8.4)
-- matplotlib (3.10.1)
-- numpy (2.2.3)
-- pandas (2.2.3)
-- llama-index-experimental (0.5.4)
-- arize-phoenix (8.20.0)
-- llama-index-callbacks-arize-phoenix (0.4.0)
 
 <br>
 
