@@ -40,3 +40,7 @@ pandas
 llama-index-experimental
 arize-phoenix
 llama-index-callbacks-arize-phoenix
+langchain-pinecone
+pinecone
+markdown
+unstructured
