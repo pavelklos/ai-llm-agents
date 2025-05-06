@@ -100,7 +100,9 @@
 <br>
 
 # RAG (generated code)
-- **Pinecone** (quickstart) [rag-000.ipynb](rag/rag-000.ipynb)✅
+- **Pinecone (vector store)**
+  - (quickstart) [rag-000.ipynb](rag/rag-000.ipynb)✅
+  - (with LangChain) [rag-001.ipynb](rag/rag-001.ipynb)✅ + data (3 files) txt, md, pdf
 
 <br>
 
