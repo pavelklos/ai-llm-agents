@@ -219,6 +219,7 @@ llama-index-readers-llama-parse==0.4.0
 llama-index-tools-tavily-research==0.3.0
 llama-index-tools-yahoo-finance==0.3.0
 llama-index-vector-stores-chroma==0.4.1
+llama-index-vector-stores-pinecone==0.4.5
 llama-parse==0.6.4.post1
 logfire-api==3.8.1
 lxml==5.4.0

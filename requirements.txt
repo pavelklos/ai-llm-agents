@@ -45,3 +45,4 @@ pinecone
 markdown
 unstructured
 docx2txt
+llama-index-vector-stores-pinecone
