@@ -44,3 +44,4 @@ langchain-pinecone
 pinecone
 markdown
 unstructured
+docx2txt
