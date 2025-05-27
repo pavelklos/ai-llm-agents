@@ -222,3 +222,16 @@
   10. **Autogen (Advanced AI Agent Framework)**
   11. **AI Agent Development Workshop**
   12. **Summary and Future Directions**
+
+- **3. AI Chatbot Development Course Guide**
+  01. **Introduction to AI Assistants and Creating Your First GPT Assistant**
+  02. **Capabilities and Limitations of GPT Assistants**
+  03. **Vector Databases and Their Applications**
+  04. **Multi-Agent Orchestration with LangGraph**
+  05. **Advanced API Integration for Dynamic Responses**
+  06. **Monitoring and Performance Optimization**
+  07. **Code Integration in GPT Assistant Responses**
+  08. **Customer Assistant Design and Configuration**
+  09. **Testing and Optimization of Customer Assistants**
+  10. **Building Emotional Intelligence and Digital Twins**
+  11. **Future Development Planning and Advanced Applications**
