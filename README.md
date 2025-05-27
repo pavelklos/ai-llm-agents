@@ -223,7 +223,7 @@
   11. **AI Agent Development Workshop**
   12. **Summary and Future Directions**
 
-- **3. AI Chatbot Development Course Guide**
+- **3. AI Chatbot Development Course Guide** 📗 [03-ai-chatbots-en.md](0-GUIDE/03-ai-chatbots-en.md)
   01. **Introduction to AI Assistants and Creating Your First GPT Assistant**
   02. **Capabilities and Limitations of GPT Assistants**
   03. **Vector Databases and Their Applications**
