@@ -209,3 +209,16 @@
   10. **RL Agent - Practical Project**
   11. **Summary and Discussion**
 
+- **2. AI Developer Course Guide**
+  01. **Introduction to Neural Networks and Generative AI**
+  02. **Prompt Design and LLM Evaluation**
+  03. **Training Data Preparation**
+  04. **OpenAI Models and Fine-tuning**
+  05. **HuggingFace Introduction**
+  06. **Advanced Fine-tuning with HuggingFace**
+  07. **LangChain – AI Application Development**
+  08. **LangGraph (AI Agents)**
+  09. **Semantic Kernel (AI Agents)**
+  10. **Autogen (Advanced AI Agent Framework)**
+  11. **AI Agent Development Workshop**
+  12. **Summary and Future Directions**
