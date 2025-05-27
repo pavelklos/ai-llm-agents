@@ -193,3 +193,19 @@
   ```
   streamlit run streamlit_app.py
   ```
+
+## 0. GUIDE
+
+- **1. AI Agents Development Course Guide**
+  01. **AI API and First Agent**
+  02. **Databases for Agents**
+  03. **Model Context Protocol (MCP)**
+  04. **Automation and Workflow with n8n**
+  05. **Custom Agent Framework**
+  06. **LangChain and LangGraph**
+  07. **Semantic Kernel and Autogen**
+  08. **AI Agent in Practice: OpenAI Operator Style**
+  09. **Introduction to Reinforcement Learning**
+  10. **RL Agent - Practical Project**
+  11. **Summary and Discussion**
+
