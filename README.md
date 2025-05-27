@@ -196,7 +196,7 @@
 
 ## 0. GUIDE
 
-- **1. AI Agents Development Course Guide**
+- **1. AI Agents Development Course Guide** 📗 [01-ai-agents-en.md](0-GUIDE/01-ai-agents-en.md)
   01. **AI API and First Agent**
   02. **Databases for Agents**
   03. **Model Context Protocol (MCP)**
