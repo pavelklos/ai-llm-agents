@@ -209,7 +209,7 @@
   10. **RL Agent - Practical Project**
   11. **Summary and Discussion**
 
-- **2. AI Developer Course Guide**
+- **2. AI Developer Course Guide** 📗 [02-ai-developer-en.md](0-GUIDE/02-ai-developer-en.md)
   01. **Introduction to Neural Networks and Generative AI**
   02. **Prompt Design and LLM Evaluation**
   03. **Training Data Preparation**
