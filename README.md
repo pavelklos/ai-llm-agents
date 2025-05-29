@@ -201,7 +201,7 @@
   02. **Databases for Agents** 📗 [01-02a.md](0-GUIDE/01-02a.md)
   03. **Model Context Protocol (MCP)** 📗 [01-03a.md](0-GUIDE/01-03a.md)
   04. **Automation and Workflow with n8n** 📗 [01-04a.md](0-GUIDE/01-04a.md)
-  05. **Custom Agent Framework**
+  05. **Custom Agent Framework** 📗 [01-05a.md](0-GUIDE/01-05a.md)
   06. **LangChain and LangGraph**
   07. **Semantic Kernel and Autogen**
   08. **AI Agent in Practice: OpenAI Operator Style**
