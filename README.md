@@ -203,7 +203,7 @@
   04. **Automation and Workflow with n8n** 📗 [01-04a.md](0-GUIDE/01-04a.md)
   05. **Custom Agent Framework** 📗 [01-05a.md](0-GUIDE/01-05a.md)
   06. **LangChain and LangGraph** 📗 [01-06a.md](0-GUIDE/01-06a.md)
-  07. **Semantic Kernel and Autogen**
+  07. **Semantic Kernel and Autogen** 📗 [01-07a.md](0-GUIDE/01-07a.md)
   08. **AI Agent in Practice: OpenAI Operator Style**
   09. **Introduction to Reinforcement Learning**
   10. **RL Agent - Practical Project**
