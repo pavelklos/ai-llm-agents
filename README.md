@@ -163,7 +163,7 @@
 
 # Streamlit UI (2)
 
-- **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv)<br>`000-streamlit-basic-copilot.py`
+- **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv) [000-streamlit-basic-copilot.py](streamlit-2/000-streamlit-basic-copilot.py)✅
 - **Re-write your text** (openai, prompt template)<br>`001-streamlit-redaction-improver.py`
 - **Blog Post Generator** (openai, prompt template)<br>`002-streamlit-blog-post-generator.py`
 - **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain)<br>`003-streamlit-split-and-summarize.py`
