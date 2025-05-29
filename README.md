@@ -205,7 +205,7 @@
   06. **LangChain and LangGraph** 📗 [01-06a.md](0-GUIDE/01-06a.md)
   07. **Semantic Kernel and Autogen** 📗 [01-07a.md](0-GUIDE/01-07a.md)
   08. **AI Agent in Practice: OpenAI Operator Style** 📗 [01-08a.md](0-GUIDE/01-08a.md)
-  09. **Introduction to Reinforcement Learning**
+  09. **Introduction to Reinforcement Learning** 📗 [01-09a.md](0-GUIDE/01-09a.md)
   10. **RL Agent - Practical Project**
   11. **Summary and Discussion**
 
