@@ -168,7 +168,7 @@
 - **Blog Post Generator** (openai, prompt template) [002-streamlit-blog-post-generator.py](streamlit-2/002-streamlit-blog-post-generator.py)✅
 - **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain) [003-streamlit-split-and-summarize.py](streamlit-2/003-streamlit-split-and-summarize.py)✅
 - **Writing Text Summarization** (openai, character text splitter, summarize chain) [004-streamlit-text-summarization.py](streamlit-2/004-streamlit-text-summarization.py)✅
-- **Extract Key Information from Product Reviews** (openai, prompt template, format output)<br>`005-streamlit-extract-json-from-review.py`
+- **Extract Key Information from Product Reviews** (openai, prompt template, format output) [005-streamlit-extract-json-from-review.py](streamlit-2/005-streamlit-extract-json-from-review.py)✅
 - **Evaluate a RAG App** (openai, upload file, rag with faiss, qa eval chain)<br>`009-streamlit-evaluate-QandA-from-long-document.py`
 
 ## 30 Days of Streamlit
