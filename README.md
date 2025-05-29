@@ -198,7 +198,7 @@
 
 - **1. AI Agents Development Course Guide** 📗 [01-ai-agents-en.md](0-GUIDE/01-ai-agents-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-ai-agents-cz.md](0-GUIDE/01-ai-agents-cz.md)
   01. **AI API and First Agent** 📗 [01-01a.md](0-GUIDE/01-01a.md)
-  02. **Databases for Agents**
+  02. **Databases for Agents** 📗 [01-02a.md](0-GUIDE/01-02a.md)
   03. **Model Context Protocol (MCP)**
   04. **Automation and Workflow with n8n**
   05. **Custom Agent Framework**
