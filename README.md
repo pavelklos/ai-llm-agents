@@ -246,4 +246,4 @@
   08. **Customer Assistant Design and Configuration** 📗 [03-08a.md](0-GUIDE/03-08a.md)
   09. **Testing and Optimization of Customer Assistants** 📗 [03-09a.md](0-GUIDE/03-09a.md)
   10. **Building Emotional Intelligence and Digital Twins** 📗 [03-10a.md](0-GUIDE/03-10a.md)
-  11. **Future Development Planning and Advanced Applications**
+  11. **Future Development Planning and Advanced Applications** 📗 [03-11a.md](0-GUIDE/03-11a.md)
