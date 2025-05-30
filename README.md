@@ -233,7 +233,7 @@
   09. **Semantic Kernel (AI Agents)** 📗 [02-09a.md](0-GUIDE/02-09a.md)
   10. **Autogen (Advanced AI Agent Framework)** 📗 [02-10a.md](0-GUIDE/02-10a.md)
   11. **AI Agent Development Workshop** 📗 [02-11a.md](0-GUIDE/02-11a.md)
-  12. **Summary and Future Directions**
+  12. **Summary and Future Directions** 📗 [02-12a.md](0-GUIDE/02-12a.md)
 
 - **3. AI Chatbot Development Course Guide** 📗 [03-ai-chatbots-en.md](0-GUIDE/03-ai-chatbots-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-ai-chatbots-cz.md](0-GUIDE/03-ai-chatbots-cz.md)
   01. **Introduction to AI Assistants and Creating Your First GPT Assistant**
