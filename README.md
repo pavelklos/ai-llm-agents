@@ -236,7 +236,7 @@
   12. **Summary and Future Directions** 📗 [02-12a.md](0-GUIDE/02-12a.md)
 
 - **3. AI Chatbot Development Course Guide** 📗 [03-ai-chatbots-en.md](0-GUIDE/03-ai-chatbots-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-ai-chatbots-cz.md](0-GUIDE/03-ai-chatbots-cz.md)
-  01. **Introduction to AI Assistants and Creating Your First GPT Assistant** 📗 [03-01a.md](0-GUIDE/03-01a.md)
+  01. **Introduction to AI Assistants and Creating Your First GPT Assistant** 📗 [03-01a.md](0-GUIDE/03-01a.md), [03-01b.md](0-GUIDE/03-01b.md)
   02. **Capabilities and Limitations of GPT Assistants**
   03. **Vector Databases and Their Applications**
   04. **Multi-Agent Orchestration with LangGraph**
