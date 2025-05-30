@@ -225,7 +225,7 @@
   01. **Introduction to Neural Networks and Generative AI** 📗 [02-01a.md](0-GUIDE/02-01a.md), [02-01b.md](0-GUIDE/02-01b.md)
   02. **Prompt Design and LLM Evaluation** 📗 [02-02a.md](0-GUIDE/02-02a.md)
   03. **Training Data Preparation** 📗 [02-03a.md](0-GUIDE/02-03a.md)
-  04. **OpenAI Models and Fine-tuning**
+  04. **OpenAI Models and Fine-tuning** 📗 [02-04a.md](0-GUIDE/02-04a.md)
   05. **HuggingFace Introduction**
   06. **Advanced Fine-tuning with HuggingFace**
   07. **LangChain – AI Application Development**
