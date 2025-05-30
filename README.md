@@ -229,7 +229,7 @@
   05. **HuggingFace Introduction** 📗 [02-05a.md](0-GUIDE/02-05a.md)
   06. **Advanced Fine-tuning with HuggingFace** 📗 [02-06a.md](0-GUIDE/02-06a.md)
   07. **LangChain – AI Application Development** 📗 [02-07a.md](0-GUIDE/02-07a.md)
-  08. **LangGraph (AI Agents)**
+  08. **LangGraph (AI Agents)** 📗 [02-08a.md](0-GUIDE/02-08a.md)
   09. **Semantic Kernel (AI Agents)**
   10. **Autogen (Advanced AI Agent Framework)**
   11. **AI Agent Development Workshop**
