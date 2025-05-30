@@ -232,7 +232,7 @@
   08. **LangGraph (AI Agents)** 📗 [02-08a.md](0-GUIDE/02-08a.md)
   09. **Semantic Kernel (AI Agents)** 📗 [02-09a.md](0-GUIDE/02-09a.md)
   10. **Autogen (Advanced AI Agent Framework)** 📗 [02-10a.md](0-GUIDE/02-10a.md)
-  11. **AI Agent Development Workshop**
+  11. **AI Agent Development Workshop** 📗 [02-11a.md](0-GUIDE/02-11a.md)
   12. **Summary and Future Directions**
 
 - **3. AI Chatbot Development Course Guide** 📗 [03-ai-chatbots-en.md](0-GUIDE/03-ai-chatbots-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-ai-chatbots-cz.md](0-GUIDE/03-ai-chatbots-cz.md)
