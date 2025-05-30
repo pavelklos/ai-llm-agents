@@ -166,7 +166,7 @@
 - **Basic Streamlit by GitHub Copilot** (controls, data, chart, file uploader, csv) [000-streamlit-basic-copilot.py](streamlit-2/000-streamlit-basic-copilot.py)✅ [PDF](streamlit-2/streamlit-output/000%20Basic%20Streamlit%20by%20GitHub%20Copilot.pdf)
 - **Re-write your text** (openai, prompt template) [001-streamlit-redaction-improver.py](streamlit-2/001-streamlit-redaction-improver.py)✅ [PDF](streamlit-2/streamlit-output/001%20Re-write%20your%20text.pdf)
 - **Blog Post Generator** (openai, prompt template) [002-streamlit-blog-post-generator.py](streamlit-2/002-streamlit-blog-post-generator.py)✅ [PDF](streamlit-2/streamlit-output/002%20Blog%20Post%20Generator.pdf)
-- **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain) [003-streamlit-split-and-summarize.py](streamlit-2/003-streamlit-split-and-summarize.py)✅
+- **AI Long Text Summarizer** (openai, upload file, recursive character text splitter, summarize chain) [003-streamlit-split-and-summarize.py](streamlit-2/003-streamlit-split-and-summarize.py)✅ [PDF](streamlit-2/streamlit-output/003%20AI%20Long%20Text%20Summarizer%20(date-cz).pdf)
 - **Writing Text Summarization** (openai, character text splitter, summarize chain) [004-streamlit-text-summarization.py](streamlit-2/004-streamlit-text-summarization.py)✅
 - **Extract Key Information from Product Reviews** (openai, prompt template, format output) [005-streamlit-extract-json-from-review.py](streamlit-2/005-streamlit-extract-json-from-review.py)✅
 - **Evaluate a RAG App** (openai, upload file, rag with faiss, qa eval chain) [009-streamlit-evaluate-QandA-from-long-document.py](streamlit-2/009-streamlit-evaluate-QandA-from-long-document.py)✅
