@@ -242,7 +242,7 @@
   04. **Multi-Agent Orchestration with LangGraph** 📗 [03-04a.md](0-GUIDE/03-04a.md)
   05. **Advanced API Integration for Dynamic Responses** 📗 [03-05a.md](0-GUIDE/03-05a.md)
   06. **Monitoring and Performance Optimization** 📗 [03-06a.md](0-GUIDE/03-06a.md)
-  07. **Code Integration in GPT Assistant Responses**
+  07. **Code Integration in GPT Assistant Responses** 📗 [03-07a.md](0-GUIDE/03-07a.md)
   08. **Customer Assistant Design and Configuration**
   09. **Testing and Optimization of Customer Assistants**
   10. **Building Emotional Intelligence and Digital Twins**
