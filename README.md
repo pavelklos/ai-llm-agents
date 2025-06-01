@@ -213,7 +213,7 @@
   01. **AI API and First Agent** 📗 [01-01-cs4a.md](0-GUIDE/01-01-cs4a.md) 📗 [01-01a.md](0-GUIDE/01-01a.md)
   02. **Databases for Agents** 📗 [01-02-cs4a.md](0-GUIDE/01-02-cs4a.md) 📗 [01-02a.md](0-GUIDE/01-02a.md)
   03. **Model Context Protocol (MCP)** 📗 [01-03-cs4a.md](0-GUIDE/01-03-cs4a.md) 📗 [01-03a.md](0-GUIDE/01-03a.md)
-  04. **Automation and Workflow with n8n** 📗 [01-04a.md](0-GUIDE/01-04a.md)
+  04. **Automation and Workflow with n8n** 📗 [01-04-cs4a.md](0-GUIDE/01-04-cs4a.md) 📗 [01-04a.md](0-GUIDE/01-04a.md)
   05. **Custom Agent Framework** 📗 [01-05a.md](0-GUIDE/01-05a.md)
   06. **LangChain and LangGraph** 📗 [01-06a.md](0-GUIDE/01-06a.md)
   07. **Semantic Kernel and Autogen** 📗 [01-07a.md](0-GUIDE/01-07a.md)
