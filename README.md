@@ -220,7 +220,7 @@
   08. **AI Agent in Practice: OpenAI Operator Style** 📗 [01-08-cs4a.md](0-GUIDE/01-08-cs4a.md) 📗 [01-08a.md](0-GUIDE/01-08a.md)
   09. **Introduction to Reinforcement Learning** 📗 [01-09-cs4a.md](0-GUIDE/01-09-cs4a.md) 📗 [01-09a.md](0-GUIDE/01-09a.md)
   10. **RL Agent - Practical Project** 📗 [01-10-cs4a.md](0-GUIDE/01-10-cs4a.md) 📗 [01-10a.md](0-GUIDE/01-10a.md)
-  11. **Summary and Discussion** 📗 [01-11a.md](0-GUIDE/01-11a.md)
+  11. **Summary and Discussion** 📗 [01-11-cs4a.md](0-GUIDE/01-11-cs4a.md) 📗 [01-11a.md](0-GUIDE/01-11a.md)
 
 - **2. AI Developer Course Guide** 📗 [02-ai-developer-en.md](0-GUIDE/02-ai-developer-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-ai-developer-cz.md](0-GUIDE/02-ai-developer-cz.md)
   01. **Introduction to Neural Networks and Generative AI** 📗 [02-01a.md](0-GUIDE/02-01a.md), [02-01b.md](0-GUIDE/02-01b.md)
