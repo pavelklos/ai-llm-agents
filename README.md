@@ -224,7 +224,7 @@
 
 - **2. AI Developer Course Guide** 📗 [02-ai-developer-en.md](0-GUIDE/02-ai-developer-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-ai-developer-cz.md](0-GUIDE/02-ai-developer-cz.md)
   01. **Introduction to Neural Networks and Generative AI** 📗 [02-01-cs4a.md](0-GUIDE/02-01-cs4a.md) 📗 [02-01a.md](0-GUIDE/02-01a.md), [02-01b.md](0-GUIDE/02-01b.md)
-  02. **Prompt Design and LLM Evaluation** 📗 [02-02a.md](0-GUIDE/02-02a.md)
+  02. **Prompt Design and LLM Evaluation** 📗 [02-02-cs4a.md](0-GUIDE/02-02-cs4a.md) 📗 [02-02a.md](0-GUIDE/02-02a.md)
   03. **Training Data Preparation** 📗 [02-03a.md](0-GUIDE/02-03a.md)
   04. **OpenAI Models and Fine-tuning** 📗 [02-04a.md](0-GUIDE/02-04a.md)
   05. **HuggingFace Introduction** 📗 [02-05a.md](0-GUIDE/02-05a.md)
