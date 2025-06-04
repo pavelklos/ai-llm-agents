@@ -9,7 +9,7 @@
 - [Streamlit UI (2)](#streamlit-ui-2)
 - [30 Days of Streamlit](#30-days-of-streamlit)
 - [GUIDE (generated code)](#0-guide-generated-by-claude-llm)
-- [PROJECTS (generated code)](#0-projects-generated-by-claude-llm)
+- [PROJECTS (generated code)](#0-projects-generated-by-claude-sonnet-4)
 
 # SAMPLE CODE
 
