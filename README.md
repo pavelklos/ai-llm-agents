@@ -455,3 +455,33 @@
       → Helps companies verify if internal policies comply with external laws and standards.
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (03-03)</small>
+    1. **Enterprise Knowledge Assistant**  
+      (*RAG, Internal docs, FAISS, LangChain, GPT-4, Slack integration*)  
+      A chatbot that retrieves answers from company documents (PDFs, wikis) and provides context-aware responses via Slack.
+    2. **Legal Document Analyzer**  
+      (*RAG, Case law retrieval, BERT embeddings, Weaviate, Mistral-7B*)  
+      RAG system to search through legal precedents and generate summaries or arguments for lawyers.
+    3. **Medical Diagnosis Support Tool**  
+      (*RAG, PubMed/clinical papers, BioBERT, Pinecone, Llama-3*)  
+      Retrieves relevant medical research based on symptoms and suggests potential diagnoses with citations.
+    4. **Academic Research Synthesizer**  
+      (*RAG, ArXiv/Semantic Scholar, Specter embeddings, ChromaDB, GPT-4o*)  
+      Aggregates and explains research papers based on user queries with auto-generated literature reviews.
+    5. **Customer Support Automation**  
+      (*RAG, Zendesk/HelpScout, Sentence-Transformers, Redis, Claude-3*)  
+      Automates ticket responses by pulling from FAQs and past resolved tickets with citation links.
+    6. **Personalized Learning Tutor**  
+      (*RAG, Textbook knowledge base, InstructorXL embeddings, Qdrant, Mixtral*)  
+      Answers student questions with textbook excerpts and generates practice quizzes.
+    7. **Multilingual News Explorer**  
+      (*RAG, News API, multilingual embeddings, Milvus, GPT-4 Turbo*)  
+      Retrieves and summarizes news articles across languages with bias detection.
+    8. **Code Documentation Assistant**  
+      (*RAG, GitHub repos, CodeBERT, LanceDB, StarCoder2*)  
+      Answers programming questions by searching codebases and generating examples.
+    9. **E-commerce Product Recommender**  
+      (*RAG, Product catalog, CLIP embeddings, Elasticsearch, Command R+*)  
+      Conversational product search that understands "I need a gift for my hiking-loving mom".
+    10. **Historical Events Explorer**  
+        (*RAG, Wikipedia/archive.org, Time-aware embeddings, PostgreSQL, Gemini Pro*)  
+        Answers complex historical queries like "What caused the fall of the Berlin Wall?" with sourced timelines.
