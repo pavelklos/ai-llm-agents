@@ -367,6 +367,36 @@
       → A team of AI agents that negotiate and compile optimal travel plans based on user goals and constraints.
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (02-03)</small>
+    1. **Autonomous Research Team**  
+      (*LLM agents, collaborative research, semantic search, knowledge synthesis, Python, LangChain*)  
+      A multi-agent system where AI researchers autonomously gather, analyze, and summarize academic papers.
+    2. **Smart Contract Auditor Squad**  
+      (*Blockchain, Solidity, LLM agents, vulnerability detection, collaborative reporting*)  
+      AI agents simulate a security team auditing smart contracts, identifying bugs and suggesting fixes.
+    3. **AI-Powered Debate Platform**  
+      (*Multi-agent debate, argument synthesis, truth discovery, reinforcement learning*)  
+      LLM agents with opposing viewpoints debate complex topics to uncover balanced conclusions.
+    4. **Dynamic Customer Support Swarm**  
+      (*Multi-agent helpdesk, intent routing, live collaboration, CRM integration*)  
+      AI agents work together to handle customer queries, escalating and sharing context as needed.
+    5. **Generative Game Design Collective**  
+      (*Procedural content generation, LLM agents, Unity/Unreal, collaborative creativity*)  
+      Autonomous AI designers, writers, and testers collaborate to create game narratives and mechanics.
+    6. **AI Venture Capital Simulator**  
+      (*Market analysis, startup evaluation, multi-agent decision-making, financial modeling*)  
+      A simulated VC firm where AI agents scout, evaluate, and negotiate startup investments.
+    7. **Epidemic Response Coordinator**  
+      (*Public health, data analysis, policy simulation, multi-agent cooperation*)  
+      AI agents model disease spread, evaluate interventions, and optimize resource allocation.
+    8. **Legal Case Strategizer**  
+      (*Legal AI, precedent analysis, argument generation, multi-perspective evaluation*)  
+      A virtual law firm where AI agents develop case strategies by analyzing past rulings.
+    9. **Personalized Education Collective**  
+      (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
+      AI tutors with different specialties collaborate to create personalized learning paths.
+    10. **AI Film Production Studio**  
+        (*Multi-modal agents, script generation, storyboarding, virtual production*)  
+        Autonomous AI teams handle screenwriting, casting, and editing for generated short films.
 
 - AI-LLM **RAG** *(Retrieval-Augmented Generation)*
 
