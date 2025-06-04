@@ -265,7 +265,37 @@
     8. **IoT Device Management Platform** (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
     9. **Educational Learning Companion** (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)
     10. **Automated DevOps Pipeline Manager** (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
-
+  - <small>Project selection by [GPT](https://chatgpt.com/) (01-02)</small>
+    1. **Legal Document Assistant**  
+      *(MCP, LangChain, Pinecone, Retrieval-Augmented Generation, PDF Parsing, GPT-4o, Memory, Agents)*  
+      → Upload legal documents (PDF), extract clauses, answer legal queries using structured context.
+    2. **Enterprise Email Summarizer + Action Planner**  
+      *(MCP, OpenAI GPT-4o, Context Windows, Task Memory, Prompt Engineering, LLM Agents)*  
+      → Summarizes company emails, extracts action items, and plans tasks using MCP-based multi-turn context injection.
+    3. **Medical Diagnosis and Treatment Advisor**  
+      *(MCP, MedPrompt, LangGraph, OpenAI GPT-4o, Patient History Memory, Retrieval, JSON Templates)*  
+      → Ingests structured patient data, retrieves similar cases, and generates diagnosis with justification.
+    4. **Codebase Companion for Developers**  
+      *(MCP, LangChain, GPT-4-turbo, VS Code Plugin, RAG, Embedding Index, Git Integration)*  
+      → Interacts with local/global codebase using embeddings, tracks dev context with MCP layers for smarter Q&A.
+    5. **Multi-Document Research Agent**  
+      *(MCP, LangChain Agents, Multi-Modal RAG, Context Pruning, Pinecone, OpenAI Functions)*  
+      → Allows uploading and querying across books, PDFs, articles, and websites with persistent context memory.
+    6. **Customer Support Copilot (Multi-Turn Memory)**  
+      *(MCP, LangGraph, GPT-4o, CRM Integration, Multi-Turn Chat Memory, Tools, Retrieval)*  
+      → Handles long support sessions while maintaining context over past interactions using structured memory.
+    7. **Financial Forecasting Chatbot**  
+      *(MCP, Time-Series Data, LangChain, LLM + Tools, CSV Ingestion, Pandas Agent, GPT-4o)*  
+      → Uses historical data, injects context using MCP for accurate financial forecasting and Q&A.
+    8. **Multi-Agent Game Master (RPG)**  
+      *(MCP, CrewAI, LangGraph, Character Memory, World Context, Function Calling, JSON Tools)*  
+      → Game master for text-based RPGs using persistent character backstories and evolving world state.
+    9. **Scientific Paper Translator & Explainer**  
+      *(MCP, Arxiv API, LangChain, Translator Tool, Citation Retriever, Summary Memory)*  
+      → Parses scientific papers and translates/explains them using retrieved context, citations, and summary layers.
+    10. **Interactive Education Tutor (All Subjects)**  
+      *(MCP, LangChain, Long-Term Memory, Concept Tracking, OpenAI GPT-4o, Gradio UI)*  
+      → Personalized tutor using MCP to track concepts learned, context windows per subject, and goal tracking.
 - AI-LLM **Multi-Agent Systems**
   - TODO: Add Markdown files for each project
 - AI-LLM **RAG** *(Retrieval-Augmented Generation)*
