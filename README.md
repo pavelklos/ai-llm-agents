@@ -401,6 +401,26 @@
 - AI-LLM **RAG** *(Retrieval-Augmented Generation)*
 
   - <small>Project selection by [Claude](https://claude.ai/) (03-01)</small>
+    1. **Intelligent Document Assistant**
+    (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS)
+    2. **Enterprise Knowledge Base Chatbot**
+    (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
+    3. **Legal Research and Case Analysis Platform**
+    (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
+    4. **Medical Literature Review System**
+    (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
+    5. **Code Documentation and Bug Resolution Assistant**
+    (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API)
+    6. **Financial Research and Investment Analysis Tool**
+    (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment)
+    7. **E-learning Content Recommendation Engine**
+    (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
+    8. **Customer Support Knowledge Assistant**
+    (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
+    9. **Scientific Research Paper Discovery Platform**
+    (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
+    10. **Real Estate Property Intelligence System**
+    (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (03-02)</small>
 
