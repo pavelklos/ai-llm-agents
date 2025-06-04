@@ -240,7 +240,7 @@
 - **3. AI Chatbot Development Course Guide** 📗 [03-ai-chatbots-en.md](0-GUIDE/03-ai-chatbots-en.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-ai-chatbots-cz.md](0-GUIDE/03-ai-chatbots-cz.md)
   01. **Introduction to AI Assistants and Creating Your First GPT Assistant** 📗 [03-01-cs4a.md](0-GUIDE/03-01-cs4a.md) 📗 [03-01a.md](0-GUIDE/03-01a.md), [03-01b.md](0-GUIDE/03-01b.md)
   02. **Capabilities and Limitations of GPT Assistants** 📗 [03-02-cs4a.md](0-GUIDE/03-02-cs4a.md) 📗 [03-02a.md](0-GUIDE/03-02a.md)
-  03. **Vector Databases and Their Applications** 📗 [03-03a.md](0-GUIDE/03-03a.md), [03-03b.md](0-GUIDE/03-03b.md)
+  03. **Vector Databases and Their Applications** 📗 [03-03-cs4a.md](0-GUIDE/03-03-cs4a.md) 📗 [03-03a.md](0-GUIDE/03-03a.md), [03-03b.md](0-GUIDE/03-03b.md)
   04. **Multi-Agent Orchestration with LangGraph** 📗 [03-04a.md](0-GUIDE/03-04a.md)
   05. **Advanced API Integration for Dynamic Responses** 📗 [03-05a.md](0-GUIDE/03-05a.md)
   06. **Monitoring and Performance Optimization** 📗 [03-06a.md](0-GUIDE/03-06a.md)
