@@ -423,5 +423,35 @@
     (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (03-02)</small>
+    1. **Legal Document Assistant**  
+      *(RAG, LangChain, OpenAI GPT-4o, Pinecone, PDF Parsing, Prompt Engineering, Semantic Search)*  
+      → AI assistant for answering legal questions from a repository of contracts and legal documents.
+    2. **Medical Research Summarizer**  
+      *(RAG, LlamaIndex, PubMed API, HuggingFace Transformers, BioBERT, Vector Databases, Summarization)*  
+      → Summarizes and answers questions using biomedical research papers and studies.
+    3. **Enterprise Knowledge Chatbot**  
+      *(RAG, LangChain, Azure OpenAI, SharePoint, FAISS, Authentication, Multi-user Chat)*  
+      → Internal chatbot that helps employees access company documents and SOPs securely.
+    4. **Academic Tutor for Students**  
+      *(RAG, Claude Haiku, PDF + DOCX ingestion, Milvus, Streamlit, Flashcards, Quiz Generator)*  
+      → Personalized study assistant that extracts content from textbooks and generates quizzes.
+    5. **Codebase Q&A Bot**  
+      *(RAG, OpenAI GPT-4o, GitHub API, Docstring Parsing, Embeddings, VSCode Extension)*  
+      → AI bot that answers technical questions from your codebase and documentation files.
+    6. **Multilingual Travel Assistant**  
+      *(RAG, GPT-4 Turbo, Translation APIs, Pinecone, CSV/JSON data, Location-based RAG)*  
+      → Answers tourist queries using local attraction guides and multilingual content.
+    7. **Historical Archive Explorer**  
+      *(RAG, Llama 3, OCR, Newspapers Archive, Vector Search, Timeline Generation)*  
+      → Allows users to explore and query historical texts, scanned papers, and rare books.
+    8. **Customer Support Ticket Analyzer**  
+      *(RAG, LangChain, ElasticSearch, Email Parsing, OpenAI Functions, Retrieval Filters)*  
+      → AI that assists support teams by answering and classifying tickets using historical data.
+    9. **Scientific Paper Explorer for Engineers**  
+      *(RAG, LlamaIndex, ArXiv API, Embedding Comparison, Visual Search, Streamlit UI)*  
+      → Engineers can query technical papers and extract specific methods or evaluations.
+    10. **Legal & Regulatory Compliance Checker**  
+      *(RAG, Claude Sonnet, Regulatory PDFs, Pinecone Hybrid Search, LangChain Agents)*  
+      → Helps companies verify if internal policies comply with external laws and standards.
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (03-03)</small>
