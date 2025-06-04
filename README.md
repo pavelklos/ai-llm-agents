@@ -241,7 +241,7 @@
   01. **Introduction to AI Assistants and Creating Your First GPT Assistant** 📗 [03-01-cs4a.md](0-GUIDE/03-01-cs4a.md) 📗 [03-01a.md](0-GUIDE/03-01a.md), [03-01b.md](0-GUIDE/03-01b.md)
   02. **Capabilities and Limitations of GPT Assistants** 📗 [03-02-cs4a.md](0-GUIDE/03-02-cs4a.md) 📗 [03-02a.md](0-GUIDE/03-02a.md)
   03. **Vector Databases and Their Applications** 📗 [03-03-cs4a.md](0-GUIDE/03-03-cs4a.md) 📗 [03-03a.md](0-GUIDE/03-03a.md), [03-03b.md](0-GUIDE/03-03b.md)
-  04. **Multi-Agent Orchestration with LangGraph** 📗 [03-04a.md](0-GUIDE/03-04a.md)
+  04. **Multi-Agent Orchestration with LangGraph** 📗 [03-04-cs4a.md](0-GUIDE/03-04-cs4a.md) 📗 [03-04a.md](0-GUIDE/03-04a.md)
   05. **Advanced API Integration for Dynamic Responses** 📗 [03-05a.md](0-GUIDE/03-05a.md)
   06. **Monitoring and Performance Optimization** 📗 [03-06a.md](0-GUIDE/03-06a.md)
   07. **Code Integration in GPT Assistant Responses** 📗 [03-07a.md](0-GUIDE/03-07a.md)
