@@ -296,6 +296,28 @@
     10. **Interactive Education Tutor (All Subjects)**  
       *(MCP, LangChain, Long-Term Memory, Concept Tracking, OpenAI GPT-4o, Gradio UI)*  
       → Personalized tutor using MCP to track concepts learned, context windows per subject, and goal tracking.
+  - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (01-03)</small>
+    1. **MCP-Powered Dynamic Chatbot Framework**  
+      (*MCP, Conversational AI, Context-Aware Dialogs, RAG, Fine-Tuning, LangChain*)
+    2. **Automated Legal Document Analyzer with MCP**  
+      (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
+    3. **Personalized Learning Assistant Using MCP**  
+      (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
+    4. **MCP-Based Multi-Agent Simulation Environment**  
+      (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
+    5. **Enterprise Knowledge Management with MCP**  
+      (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
+    6. **AI-Powered Research Paper Summarization (MCP-Driven)**  
+      (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
+    7. **Context-Aware Code Generation & Debugging Tool**  
+      (*MCP, GitHub Copilot Alternative, AST Parsing, Error Correction, MCP-Guided Prompts*)
+    8. **MCP-Enhanced Multilingual Translation System**  
+      (*MCP, Low-Resource Languages, Context Retention, LLM Alignment, OPUS Models*)
+    9. **Dynamic Storytelling & Interactive Fiction Platform**  
+      (*MCP, Narrative Generation, User-Driven Plotlines, MCP Memory Layers, Stable Diffusion*)
+    10. **MCP-Optimized Fraud Detection for Financial Transactions**  
+        (*MCP, Anomaly Detection, Graph Neural Networks, Explainable AI, Synthetic Data*)
+
 - AI-LLM **Multi-Agent Systems**
   - TODO: Add Markdown files for each project
 - AI-LLM **RAG** *(Retrieval-Augmented Generation)*
