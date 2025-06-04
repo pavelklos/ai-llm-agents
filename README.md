@@ -463,6 +463,47 @@
     (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
     10. **Real Estate Property Intelligence System**
     (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
+    ---
+    11. **Smart Recipe and Nutrition Advisor**
+    (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
+    12. **Travel Planning and Destination Guide**
+    (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
+    13. **Personal Fashion and Style Consultant**
+    (RAG, Clothing Catalogs, Style Trends, Body Type Analysis, Color Matching, Pinterest API, Image Recognition, Wardrobe Management)
+    14. **Automotive Diagnostic and Repair Assistant**
+    (RAG, Vehicle Manuals, Error Codes, Parts Catalogs, Maintenance Schedules, OBD-II Integration, 3D Model Visualization, Repair Videos)
+    15. **Gaming Strategy and Walkthrough Helper**
+    (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
+    16. **Mental Health and Wellness Companion**
+    (RAG, Therapy Techniques, Mindfulness Content, Mood Tracking, Crisis Resources, Psychology Research, SAMHSA Guidelines, Privacy Protection)
+    17. **Home Improvement and DIY Project Guide**
+    (RAG, Construction Tutorials, Tool Recommendations, Safety Guidelines, Material Cost Estimation, Home Depot API, Project Planning, Skill Assessment)
+    18. **Language Learning Conversation Partner**
+    (RAG, Grammar Rules, Cultural Context, Pronunciation Guides, Translation Memory, Google Translate API, Speech Recognition, Progress Tracking)
+    19. **Pet Care and Veterinary Information System**
+    (RAG, Animal Health Records, Breed Information, Vaccination Schedules, Emergency Care, Veterinary Literature, Pet Insurance, Behavioral Analysis)
+    20. **Agricultural Crop Management Advisor**
+    (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
+    21. **Music Discovery and Analysis Platform**
+    (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
+    22. **Social Media Content Strategy Assistant**
+    (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
+    23. **Environmental Impact Assessment Tool**
+    (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
+    24. **Sports Analytics and Performance Tracker**
+    (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
+    25. **Art History and Museum Guide**
+    (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
+    26. **Genealogy and Family History Research**
+    (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
+    27. **Cryptocurrency and Blockchain Intelligence**
+    (RAG, Market Analysis, White Papers, Trading Patterns, DeFi Protocols, CoinGecko API, Smart Contract Analysis, Risk Assessment)
+    28. **Event Planning and Venue Management**
+    (RAG, Vendor Directories, Budget Planning, Guest Lists, Venue Specifications, Eventbrite API, Catering Menus, Timeline Management)
+    29. **Podcast Content Discovery and Analysis**
+    (RAG, Episode Transcripts, Host Information, Topic Categorization, Listener Reviews, Spotify Podcast API, Audio Processing, Recommendation Engine)
+    30. **Urban Planning and Smart City Solutions**
+    (RAG, Population Data, Infrastructure Reports, Traffic Patterns, Zoning Laws, City Planning Documents, GIS Integration, Public Transportation)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (03-02)</small>
     1. **Legal Document Assistant**  
