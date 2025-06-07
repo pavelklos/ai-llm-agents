@@ -227,7 +227,7 @@
   01. **Introduction to Neural Networks and Generative AI** 📗 [02-01-cs4a.md](0-GUIDE/02-01-cs4a.md) 📗 [02-01a.md](0-GUIDE/02-01a.md), [02-01b.md](0-GUIDE/02-01b.md) 📗 [02-01-cwa.md](0-GUIDE/02-01-cwa.md)
   02. **Prompt Design and LLM Evaluation** 📗 [02-02-cs4a.md](0-GUIDE/02-02-cs4a.md) 📗 [02-02a.md](0-GUIDE/02-02a.md) 📗 [02-02-cwa.md](0-GUIDE/02-02-cwa.md)
   03. **Training Data Preparation** 📗 [02-03-cs4a.md](0-GUIDE/02-03-cs4a.md) 📗 [02-03a.md](0-GUIDE/02-03a.md) 📗 [02-03-cwa.md](0-GUIDE/02-03-cwa.md)
-  04. **OpenAI Models and Fine-tuning** 📗 [02-04-cs4a.md](0-GUIDE/02-04-cs4a.md) 📗 [02-04a.md](0-GUIDE/02-04a.md)
+  04. **OpenAI Models and Fine-tuning** 📗 [02-04-cs4a.md](0-GUIDE/02-04-cs4a.md) 📗 [02-04a.md](0-GUIDE/02-04a.md) 📗 [02-04-cwa.md](0-GUIDE/02-04-cwa.md)
   05. **HuggingFace Introduction** 📗 [02-05-cs4a.md](0-GUIDE/02-05-cs4a.md) 📗 [02-05a.md](0-GUIDE/02-05a.md)
   06. **Advanced Fine-tuning with HuggingFace** 📗 [02-06-cs4a.md](0-GUIDE/02-06-cs4a.md) 📗 [02-06a.md](0-GUIDE/02-06a.md)
   07. **LangChain – AI Application Development** 📗 [02-07-cs4a.md](0-GUIDE/02-07-cs4a.md) 📗 [02-07a.md](0-GUIDE/02-07a.md)
