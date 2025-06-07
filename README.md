@@ -242,7 +242,7 @@
   02. **Capabilities and Limitations of GPT Assistants** 📗 [03-02-cs4a.md](0-GUIDE/03-02-cs4a.md) 📗 [03-02a.md](0-GUIDE/03-02a.md) 📗 [03-02-cwa.md](0-GUIDE/03-02-cwa.md)
   03. **Vector Databases and Their Applications** 📗 [03-03-cs4a.md](0-GUIDE/03-03-cs4a.md) 📗 [03-03a.md](0-GUIDE/03-03a.md), [03-03b.md](0-GUIDE/03-03b.md) 📗 [03-03-cwa.md](0-GUIDE/03-03-cwa.md)
   04. **Multi-Agent Orchestration with LangGraph** 📗 [03-04-cs4a.md](0-GUIDE/03-04-cs4a.md) 📗 [03-04a.md](0-GUIDE/03-04a.md) 📗 [03-04-cwa.md](0-GUIDE/03-04-cwa.md)
-  05. **Advanced API Integration for Dynamic Responses** 📗 [03-05-cs4a.md](0-GUIDE/03-05-cs4a.md) 📗 [03-05a.md](0-GUIDE/03-05a.md)
+  05. **Advanced API Integration for Dynamic Responses** 📗 [03-05-cs4a.md](0-GUIDE/03-05-cs4a.md) 📗 [03-05a.md](0-GUIDE/03-05a.md) 📗 [03-05-cwa.md](0-GUIDE/03-05-cwa.md)
   06. **Monitoring and Performance Optimization** 📗 [03-06-cs4a.md](0-GUIDE/03-06-cs4a.md) 📗 [03-06a.md](0-GUIDE/03-06a.md)
   07. **Code Integration in GPT Assistant Responses** 📗 [03-07-cs4a.md](0-GUIDE/03-07-cs4a.md) 📗 [03-07a.md](0-GUIDE/03-07a.md)
   08. **Customer Assistant Design and Configuration** 📗 [03-08-cs4a.md](0-GUIDE/03-08-cs4a.md) 📗 [03-08a.md](0-GUIDE/03-08a.md)
