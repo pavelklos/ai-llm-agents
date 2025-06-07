@@ -246,7 +246,7 @@
   06. **Monitoring and Performance Optimization** 📗 [03-06-cs4a.md](0-GUIDE/03-06-cs4a.md) 📗 [03-06a.md](0-GUIDE/03-06a.md) 📗 [03-06-cwa.md](0-GUIDE/03-06-cwa.md)
   07. **Code Integration in GPT Assistant Responses** 📗 [03-07-cs4a.md](0-GUIDE/03-07-cs4a.md) 📗 [03-07a.md](0-GUIDE/03-07a.md) 📗 [03-07-cwa.md](0-GUIDE/03-07-cwa.md)
   08. **Customer Assistant Design and Configuration** 📗 [03-08-cs4a.md](0-GUIDE/03-08-cs4a.md) 📗 [03-08a.md](0-GUIDE/03-08a.md) 📗 [03-08-cwa.md](0-GUIDE/03-08-cwa.md)
-  09. **Testing and Optimization of Customer Assistants** 📗 [03-09-cs4a.md](0-GUIDE/03-09-cs4a.md) 📗 [03-09a.md](0-GUIDE/03-09a.md)
+  09. **Testing and Optimization of Customer Assistants** 📗 [03-09-cs4a.md](0-GUIDE/03-09-cs4a.md) 📗 [03-09a.md](0-GUIDE/03-09a.md) 📗 [03-09-cwa.md](0-GUIDE/03-09-cwa.md)
   10. **Building Emotional Intelligence and Digital Twins** 📗 [03-10-cs4a.md](0-GUIDE/03-10-cs4a.md) 📗 [03-10a.md](0-GUIDE/03-10a.md)
   11. **Future Development Planning and Advanced Applications** 📗 [03-11-cs4a.md](0-GUIDE/03-11-cs4a.md) 📗 [03-11a.md](0-GUIDE/03-11a.md)
 
