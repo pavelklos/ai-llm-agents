@@ -259,7 +259,7 @@
       (MCP, IDE integration, code analysis, Git repositories, documentation generation, TypeScript/Python)
     2. **Personal Knowledge Manager** 📗 [01-01-02.md](0-PROJECTS/01-01-02.md)  
       (MCP, vector databases, RAG, document indexing, semantic search, note-taking, Obsidian/Notion integration)
-    3. **Enterprise Data Analytics Dashboard**  
+    3. **Enterprise Data Analytics Dashboard**📗 [01-01-03.md](0-PROJECTS/01-01-03.md)  
       (MCP, SQL databases, business intelligence, data visualization, real-time reporting, PostgreSQL/MySQL)
     4. **Multi-Agent Customer Support System**  
       (MCP, agent orchestration, ticket management, knowledge base integration, CRM systems, Zendesk/Salesforce)
