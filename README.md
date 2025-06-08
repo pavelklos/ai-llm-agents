@@ -638,6 +638,36 @@
     30. **Interactive Data Explorer using LLM** *(data analysis, pandas agent, CSV QA, chart generation)*
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (04-03)</small>
+    1. **AI Code Reviewer** (LLM, static analysis, GitHub integration)  
+    2. **Medical Chatbot** (HIPAA compliance, symptom checker, RAG)  
+    3. **Legal Document Summarizer** (NER, contract analysis, LangChain)  
+    4. **AI Dungeon Master** (text adventure, GPT-4, interactive storytelling)  
+    5. **Automated Technical Writer** (Markdown generation, docstrings, Sphinx)  
+    6. **Multilingual Podcast Transcriber** (ASR, translation, Whisper)  
+    7. **AI Interview Coach** (speech analysis, emotion detection, feedback)  
+    8. **Financial Report Analyzer** (LLM agents, pandas, earnings calls)  
+    9. **Personalized Learning Tutor** (adaptive learning, knowledge graphs)  
+    10. **AI Meme Generator** (CLIP, diffusion models, cultural context)  
+    11. **Automated Bug Triage** (JIRA integration, error classification)  
+    12. **Scientific Paper Explorer** (arXiv API, knowledge extraction)  
+    13. **AI Fashion Advisor** (computer vision, style transfer, e-commerce)  
+    14. **Codebase Documentation Bot** (repo crawling, UML generation)  
+    15. **AI Debate Simulator** (argument mining, pro/con generation)  
+    16. **Automated Meeting Minutes** (diarization, agenda extraction)  
+    17. **AI Music Composer** (MIDI generation, music theory)  
+    18. **Ethical AI Auditor** (bias detection, model cards)  
+    19. **Recipe Generator** (ingredient substitution, dietary constraints)  
+    20. **AI Sports Analyst** (statistics prediction, commentary generation)  
+    21. **Automated Poetry Workshop** (meter analysis, style imitation)  
+    22. **AI Plant Doctor** (image classification, gardening advice)  
+    23. **Privacy-Preserving Chat** (federated learning, on-device LLM)  
+    24. **AI Career Counselor** (skills gap analysis, roadmap generation)  
+    25. **Historical Figure Chatbot** (biographical RAG, period-accurate speech)  
+    26. **Automated API Builder** (OpenAPI spec generation, FastAPI)  
+    27. **AI Standup Comedy Writer** (joke structure, audience adaptation)  
+    28. **3D Model Generator from Text** (NeRF, Blender integration)  
+    29. **AI Town (Virtual Society)** (multi-agent systems, emergent behavior)  
+    30. **Cognitive Behavioral Therapy Bot** (mood tracking, CBT techniques)  
 
 - **AI-AGENTS**
   
