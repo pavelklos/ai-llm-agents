@@ -273,7 +273,7 @@
       (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
     9. **Educational Learning Companion** 📗 [01-01-09.md](0-PROJECTS/01-01-09.md)  
       (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)
-    10. **Automated DevOps Pipeline Manager**  
+    10. **Automated DevOps Pipeline Manager** 📗 [01-01-10.md](0-PROJECTS/01-01-10.md)  
       (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
     ---
     11. **Smart City Traffic Optimization** (MCP, traffic sensors, route planning, congestion prediction, smart signals, urban mobility, Google Maps API)
