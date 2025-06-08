@@ -255,7 +255,7 @@
 - AI-LLM **MCP** *(Model Context Protocol)*
   
   - <small>Project selection by [Claude](https://claude.ai/) (01-01)</small>
-    1. **Smart Code Assistant** 📗 [01-01-01a.md](0-PROJECTS/01-01-01a.md), [01-01-01b.md](0-PROJECTS/01-01-01b.md)  
+    1. **Smart Code Assistant** 📗 [01-01-01a.md](0-PROJECTS/01-01-01a.md), [01-01-01b.md](0-PROJECTS/01-01-01b.md), [01-01-01c.md](0-PROJECTS/01-01-01c.md)  
       (MCP, IDE integration, code analysis, Git repositories, documentation generation, TypeScript/Python)
     2. **Personal Knowledge Manager**  
       (MCP, vector databases, RAG, document indexing, semantic search, note-taking, Obsidian/Notion integration)
