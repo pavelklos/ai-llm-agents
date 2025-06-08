@@ -255,16 +255,26 @@
 - AI-LLM **MCP** *(Model Context Protocol)*
   
   - <small>Project selection by [Claude](https://claude.ai/) (01-01)</small>
-    1. **Smart Code Assistant** (MCP, IDE integration, code analysis, Git repositories, documentation generation, TypeScript/Python)
-    2. **Personal Knowledge Manager** (MCP, vector databases, RAG, document indexing, semantic search, note-taking, Obsidian/Notion integration)
-    3. **Enterprise Data Analytics Dashboard** (MCP, SQL databases, business intelligence, data visualization, real-time reporting, PostgreSQL/MySQL)
-    4. **Multi-Agent Customer Support System** (MCP, agent orchestration, ticket management, knowledge base integration, CRM systems, Zendesk/Salesforce)
-    5. **Content Creation & SEO Optimizer** (MCP, web scraping, keyword analysis, content planning, social media APIs, WordPress/Shopify)
-    6. **Financial Trading Assistant** (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)
-    7. **Healthcare Documentation System** (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)
-    8. **IoT Device Management Platform** (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
-    9. **Educational Learning Companion** (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)
-    10. **Automated DevOps Pipeline Manager** (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
+    1. **Smart Code Assistant**  
+      (MCP, IDE integration, code analysis, Git repositories, documentation generation, TypeScript/Python)
+    2. **Personal Knowledge Manager**  
+      (MCP, vector databases, RAG, document indexing, semantic search, note-taking, Obsidian/Notion integration)
+    3. **Enterprise Data Analytics Dashboard**  
+      (MCP, SQL databases, business intelligence, data visualization, real-time reporting, PostgreSQL/MySQL)
+    4. **Multi-Agent Customer Support System**  
+      (MCP, agent orchestration, ticket management, knowledge base integration, CRM systems, Zendesk/Salesforce)
+    5. **Content Creation & SEO Optimizer**  
+      (MCP, web scraping, keyword analysis, content planning, social media APIs, WordPress/Shopify)
+    6. **Financial Trading Assistant**  
+      (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)
+    7. **Healthcare Documentation System**  
+      (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)
+    8. **IoT Device Management Platform**  
+      (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
+    9. **Educational Learning Companion**  
+      (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)
+    10. **Automated DevOps Pipeline Manager**  
+      (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
     ---
     11. **Smart City Traffic Optimization** (MCP, traffic sensors, route planning, congestion prediction, smart signals, urban mobility, Google Maps API)
     12. **AI-Powered Legal Research Assistant** (MCP, case law databases, contract analysis, legal precedents, document review, LexisNexis/Westlaw)
