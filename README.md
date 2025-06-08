@@ -265,7 +265,7 @@
       (MCP, agent orchestration, ticket management, knowledge base integration, CRM systems, Zendesk/Salesforce)
     5. **Content Creation & SEO Optimizer** 📗 [01-01-05.md](0-PROJECTS/01-01-05.md)  
       (MCP, web scraping, keyword analysis, content planning, social media APIs, WordPress/Shopify)
-    6. **Financial Trading Assistant**  
+    6. **Financial Trading Assistant** 📗 [01-01-06.md](0-PROJECTS/01-01-06.md)  
       (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)
     7. **Healthcare Documentation System**  
       (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)
