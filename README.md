@@ -269,7 +269,7 @@
       (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)
     7. **Healthcare Documentation System** 📗 [01-01-07.md](0-PROJECTS/01-01-07.md)  
       (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)
-    8. **IoT Device Management Platform**  
+    8. **IoT Device Management Platform** 📗 [01-01-08.md](0-PROJECTS/01-01-08.md)  
       (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
     9. **Educational Learning Companion**  
       (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)
