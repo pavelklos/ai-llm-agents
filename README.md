@@ -263,7 +263,7 @@
       (MCP, SQL databases, business intelligence, data visualization, real-time reporting, PostgreSQL/MySQL)
     4. **Multi-Agent Customer Support System** 📗 [01-01-04.md](0-PROJECTS/01-01-04.md)  
       (MCP, agent orchestration, ticket management, knowledge base integration, CRM systems, Zendesk/Salesforce)
-    5. **Content Creation & SEO Optimizer**  
+    5. **Content Creation & SEO Optimizer** 📗 [01-01-05.md](0-PROJECTS/01-01-05.md)  
       (MCP, web scraping, keyword analysis, content planning, social media APIs, WordPress/Shopify)
     6. **Financial Trading Assistant**  
       (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)
