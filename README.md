@@ -612,6 +612,36 @@
 - **AI-AGENTS**
   
   - <small>Project selection by [Claude](https://claude.ai/) (05-01)</small>
+    1. **Autonomous Trading Agent** (market analysis, risk management, portfolio optimization, execution strategies)
+    2. **Smart Home Automation Agent** (IoT integration, energy optimization, security monitoring, predictive maintenance)
+    3. **Personal Finance Management Agent** (expense tracking, budget optimization, investment advice, financial goal planning)
+    4. **Recruitment Screening Agent** (resume analysis, candidate matching, interview scheduling, skill assessment)
+    5. **Supply Chain Optimization Agent** (inventory management, demand forecasting, supplier evaluation, logistics coordination)
+    6. **Social Media Management Agent** (content scheduling, engagement monitoring, trend analysis, influencer identification)
+    7. **Customer Service Escalation Agent** (issue classification, priority routing, resolution tracking, satisfaction monitoring)
+    8. **E-commerce Price Monitoring Agent** (competitor analysis, dynamic pricing, market trends, profit optimization)
+    9. **Content Moderation Agent** (spam detection, harmful content filtering, community guidelines enforcement, user behavior analysis)
+    10. **Research Data Collection Agent** (web scraping, data validation, source verification, automated reporting)
+    11. **IT Infrastructure Monitoring Agent** (system health monitoring, anomaly detection, automated troubleshooting, performance optimization)
+    12. **Learning Path Recommendation Agent** (skill gap analysis, course suggestions, progress tracking, adaptive learning)
+    13. **Investment Portfolio Rebalancing Agent** (risk assessment, asset allocation, market timing, tax optimization)
+    14. **Medical Appointment Scheduling Agent** (calendar integration, provider matching, insurance verification, reminder systems)
+    15. **Content Creation Workflow Agent** (topic research, outline generation, fact-checking, publication scheduling)
+    16. **Email Marketing Campaign Agent** (audience segmentation, A/B testing, send time optimization, performance analysis)
+    17. **Fraud Detection Agent** (transaction monitoring, pattern recognition, risk scoring, alert generation)
+    18. **Project Management Assistant Agent** (task prioritization, resource allocation, deadline tracking, team coordination)
+    19. **SEO Optimization Agent** (keyword research, content analysis, backlink monitoring, ranking optimization)
+    20. **Inventory Replenishment Agent** (stock level monitoring, supplier coordination, demand prediction, cost optimization)
+    21. **Quality Assurance Testing Agent** (test case generation, bug detection, regression testing, performance monitoring)
+    22. **Lead Generation Agent** (prospect identification, contact enrichment, qualification scoring, outreach automation)
+    23. **Event Planning Coordination Agent** (venue booking, vendor management, guest coordination, timeline optimization)
+    24. **Data Pipeline Monitoring Agent** (ETL process monitoring, data quality checks, error handling, performance optimization)
+    25. **Competitive Intelligence Agent** (market research, competitor monitoring, pricing analysis, feature comparison)
+    26. **Knowledge Base Maintenance Agent** (content updates, accuracy verification, user feedback integration, search optimization)
+    27. **Backup and Recovery Agent** (automated backups, disaster recovery, data integrity checks, recovery testing)
+    28. **Compliance Monitoring Agent** (regulatory tracking, policy enforcement, audit preparation, risk assessment)
+    29. **Network Security Agent** (threat detection, vulnerability scanning, incident response, security policy enforcement)
+    30. **Customer Onboarding Agent** (welcome sequences, document collection, account setup, training delivery)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (05-02)</small>
 
