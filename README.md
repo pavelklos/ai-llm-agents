@@ -257,7 +257,7 @@
   - <small>Project selection by [Claude](https://claude.ai/) (01-01)</small>
     1. **Smart Code Assistant** 📗 [01-01-01a.md](0-PROJECTS/01-01-01a.md), [01-01-01b.md](0-PROJECTS/01-01-01b.md), [01-01-01c.md](0-PROJECTS/01-01-01c.md)  
       (MCP, IDE integration, code analysis, Git repositories, documentation generation, TypeScript/Python)
-    2. **Personal Knowledge Manager**  
+    2. **Personal Knowledge Manager** 📗 [01-01-02.md](0-PROJECTS/01-01-02.md)  
       (MCP, vector databases, RAG, document indexing, semantic search, note-taking, Obsidian/Notion integration)
     3. **Enterprise Data Analytics Dashboard**  
       (MCP, SQL databases, business intelligence, data visualization, real-time reporting, PostgreSQL/MySQL)
