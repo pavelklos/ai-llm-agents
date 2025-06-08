@@ -271,7 +271,7 @@
       (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)
     8. **IoT Device Management Platform** 📗 [01-01-08.md](0-PROJECTS/01-01-08.md)  
       (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
-    9. **Educational Learning Companion**  
+    9. **Educational Learning Companion** 📗 [01-01-09.md](0-PROJECTS/01-01-09.md)  
       (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)
     10. **Automated DevOps Pipeline Manager**  
       (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
