@@ -267,7 +267,7 @@
       (MCP, web scraping, keyword analysis, content planning, social media APIs, WordPress/Shopify)
     6. **Financial Trading Assistant** 📗 [01-01-06.md](0-PROJECTS/01-01-06.md)  
       (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)
-    7. **Healthcare Documentation System**  
+    7. **Healthcare Documentation System** 📗 [01-01-07.md](0-PROJECTS/01-01-07.md)  
       (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)
     8. **IoT Device Management Platform**  
       (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)
