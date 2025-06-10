@@ -310,7 +310,7 @@
     4. **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md)  
       *(MCP, LangChain, GPT-4-turbo, VS Code Plugin, RAG, Embedding Index, Git Integration)*  
       → Interacts with local/global codebase using embeddings, tracks dev context with MCP layers for smarter Q&A.
-    5. **Multi-Document Research Agent**  
+    5. **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md)  
       *(MCP, LangChain Agents, Multi-Modal RAG, Context Pruning, Pinecone, OpenAI Functions)*  
       → Allows uploading and querying across books, PDFs, articles, and websites with persistent context memory.
     6. **Customer Support Copilot (Multi-Turn Memory)**  
