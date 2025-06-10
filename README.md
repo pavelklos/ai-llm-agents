@@ -298,7 +298,7 @@
     30. **Quantum Computing Simulator** (MCP, quantum algorithms, circuit optimization, error correction, quantum machine learning, IBM Qiskit/Google Cirq)
   
   - <small>Project selection by [GPT](https://chatgpt.com/) (01-02)</small>
-    1. **Legal Document Assistant**  
+    1. **Legal Document Assistant** 📗 [01-02-01.md](0-PROJECTS/01-02-01.md)  
       *(MCP, LangChain, Pinecone, Retrieval-Augmented Generation, PDF Parsing, GPT-4o, Memory, Agents)*  
       → Upload legal documents (PDF), extract clauses, answer legal queries using structured context.
     2. **Enterprise Email Summarizer + Action Planner**  
