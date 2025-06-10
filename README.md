@@ -313,7 +313,7 @@
     5. **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md)  
       *(MCP, LangChain Agents, Multi-Modal RAG, Context Pruning, Pinecone, OpenAI Functions)*  
       → Allows uploading and querying across books, PDFs, articles, and websites with persistent context memory.
-    6. **Customer Support Copilot (Multi-Turn Memory)**  
+    6. **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md)  
       *(MCP, LangGraph, GPT-4o, CRM Integration, Multi-Turn Chat Memory, Tools, Retrieval)*  
       → Handles long support sessions while maintaining context over past interactions using structured memory.
     7. **Financial Forecasting Chatbot**  
