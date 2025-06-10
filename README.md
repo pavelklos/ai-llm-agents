@@ -316,7 +316,7 @@
     6. **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md)  
       *(MCP, LangGraph, GPT-4o, CRM Integration, Multi-Turn Chat Memory, Tools, Retrieval)*  
       → Handles long support sessions while maintaining context over past interactions using structured memory.
-    7. **Financial Forecasting Chatbot**  
+    7. **Financial Forecasting Chatbot** 📗 [01-02-07.md](0-PROJECTS/01-02-07.md)  
       *(MCP, Time-Series Data, LangChain, LLM + Tools, CSV Ingestion, Pandas Agent, GPT-4o)*  
       → Uses historical data, injects context using MCP for accurate financial forecasting and Q&A.
     8. **Multi-Agent Game Master (RPG)**  
