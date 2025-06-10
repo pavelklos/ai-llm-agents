@@ -304,7 +304,7 @@
     2. **Enterprise Email Summarizer + Action Planner** 📗 [01-02-02.md](0-PROJECTS/01-02-02.md)  
       *(MCP, OpenAI GPT-4o, Context Windows, Task Memory, Prompt Engineering, LLM Agents)*  
       → Summarizes company emails, extracts action items, and plans tasks using MCP-based multi-turn context injection.
-    3. **Medical Diagnosis and Treatment Advisor**  
+    3. **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md)  
       *(MCP, MedPrompt, LangGraph, OpenAI GPT-4o, Patient History Memory, Retrieval, JSON Templates)*  
       → Ingests structured patient data, retrieves similar cases, and generates diagnosis with justification.
     4. **Codebase Companion for Developers**  
