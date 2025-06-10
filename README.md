@@ -322,7 +322,7 @@
     8. **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md)  
       *(MCP, CrewAI, LangGraph, Character Memory, World Context, Function Calling, JSON Tools)*  
       → Game master for text-based RPGs using persistent character backstories and evolving world state.
-    9. **Scientific Paper Translator & Explainer**  
+    9. **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md)  
       *(MCP, Arxiv API, LangChain, Translator Tool, Citation Retriever, Summary Memory)*  
       → Parses scientific papers and translates/explains them using retrieved context, citations, and summary layers.
     10. **Interactive Education Tutor (All Subjects)**  
