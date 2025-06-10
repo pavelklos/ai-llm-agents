@@ -325,7 +325,7 @@
     9. **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md)  
       *(MCP, Arxiv API, LangChain, Translator Tool, Citation Retriever, Summary Memory)*  
       → Parses scientific papers and translates/explains them using retrieved context, citations, and summary layers.
-    10. **Interactive Education Tutor (All Subjects)**  
+    10. **Interactive Education Tutor (All Subjects)** 📗 [01-02-10.md](0-PROJECTS/01-02-10.md)  
       *(MCP, LangChain, Long-Term Memory, Concept Tracking, OpenAI GPT-4o, Gradio UI)*  
       → Personalized tutor using MCP to track concepts learned, context windows per subject, and goal tracking.
   
