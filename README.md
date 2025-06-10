@@ -300,34 +300,34 @@
     30. **Quantum Computing Simulator** (MCP, quantum algorithms, circuit optimization, error correction, quantum machine learning, IBM Qiskit/Google Cirq)
   
   - <small>Project selection by [GPT](https://chatgpt.com/) (01-02)</small>
-    1. **Legal Document Assistant** 📗 [01-02-01.md](0-PROJECTS/01-02-01.md)  
+    - **Legal Document Assistant** 📗 [01-02-01.md](0-PROJECTS/01-02-01.md)  
       *(MCP, LangChain, Pinecone, Retrieval-Augmented Generation, PDF Parsing, GPT-4o, Memory, Agents)*  
       → Upload legal documents (PDF), extract clauses, answer legal queries using structured context.
-    2. **Enterprise Email Summarizer + Action Planner** 📗 [01-02-02.md](0-PROJECTS/01-02-02.md)  
+    - **Enterprise Email Summarizer + Action Planner** 📗 [01-02-02.md](0-PROJECTS/01-02-02.md)  
       *(MCP, OpenAI GPT-4o, Context Windows, Task Memory, Prompt Engineering, LLM Agents)*  
       → Summarizes company emails, extracts action items, and plans tasks using MCP-based multi-turn context injection.
-    3. **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md)  
+    - **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md)  
       *(MCP, MedPrompt, LangGraph, OpenAI GPT-4o, Patient History Memory, Retrieval, JSON Templates)*  
       → Ingests structured patient data, retrieves similar cases, and generates diagnosis with justification.
-    4. **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md)  
+    - **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md)  
       *(MCP, LangChain, GPT-4-turbo, VS Code Plugin, RAG, Embedding Index, Git Integration)*  
       → Interacts with local/global codebase using embeddings, tracks dev context with MCP layers for smarter Q&A.
-    5. **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md)  
+    - **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md)  
       *(MCP, LangChain Agents, Multi-Modal RAG, Context Pruning, Pinecone, OpenAI Functions)*  
       → Allows uploading and querying across books, PDFs, articles, and websites with persistent context memory.
-    6. **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md)  
+    - **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md)  
       *(MCP, LangGraph, GPT-4o, CRM Integration, Multi-Turn Chat Memory, Tools, Retrieval)*  
       → Handles long support sessions while maintaining context over past interactions using structured memory.
-    7. **Financial Forecasting Chatbot** 📗 [01-02-07.md](0-PROJECTS/01-02-07.md)  
+    - **Financial Forecasting Chatbot** 📗 [01-02-07.md](0-PROJECTS/01-02-07.md)  
       *(MCP, Time-Series Data, LangChain, LLM + Tools, CSV Ingestion, Pandas Agent, GPT-4o)*  
       → Uses historical data, injects context using MCP for accurate financial forecasting and Q&A.
-    8. **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md)  
+    - **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md)  
       *(MCP, CrewAI, LangGraph, Character Memory, World Context, Function Calling, JSON Tools)*  
       → Game master for text-based RPGs using persistent character backstories and evolving world state.
-    9. **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md)  
+    - **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md)  
       *(MCP, Arxiv API, LangChain, Translator Tool, Citation Retriever, Summary Memory)*  
       → Parses scientific papers and translates/explains them using retrieved context, citations, and summary layers.
-    10. **Interactive Education Tutor (All Subjects)** 📗 [01-02-10.md](0-PROJECTS/01-02-10.md)  
+    - **Interactive Education Tutor (All Subjects)** 📗 [01-02-10.md](0-PROJECTS/01-02-10.md)  
       *(MCP, LangChain, Long-Term Memory, Concept Tracking, OpenAI GPT-4o, Gradio UI)*  
       → Personalized tutor using MCP to track concepts learned, context windows per subject, and goal tracking.
   
