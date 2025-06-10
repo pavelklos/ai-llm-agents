@@ -307,7 +307,7 @@
     3. **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md)  
       *(MCP, MedPrompt, LangGraph, OpenAI GPT-4o, Patient History Memory, Retrieval, JSON Templates)*  
       → Ingests structured patient data, retrieves similar cases, and generates diagnosis with justification.
-    4. **Codebase Companion for Developers**  
+    4. **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md)  
       *(MCP, LangChain, GPT-4-turbo, VS Code Plugin, RAG, Embedding Index, Git Integration)*  
       → Interacts with local/global codebase using embeddings, tracks dev context with MCP layers for smarter Q&A.
     5. **Multi-Document Research Agent**  
