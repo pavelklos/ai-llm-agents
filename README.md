@@ -319,7 +319,7 @@
     7. **Financial Forecasting Chatbot** 📗 [01-02-07.md](0-PROJECTS/01-02-07.md)  
       *(MCP, Time-Series Data, LangChain, LLM + Tools, CSV Ingestion, Pandas Agent, GPT-4o)*  
       → Uses historical data, injects context using MCP for accurate financial forecasting and Q&A.
-    8. **Multi-Agent Game Master (RPG)**  
+    8. **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md)  
       *(MCP, CrewAI, LangGraph, Character Memory, World Context, Function Calling, JSON Tools)*  
       → Game master for text-based RPGs using persistent character backstories and evolving world state.
     9. **Scientific Paper Translator & Explainer**  
