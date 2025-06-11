@@ -346,7 +346,7 @@
       (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
     7. **Context-Aware Code Generation & Debugging Tool** 📗 [01-03-07.md](0-PROJECTS/01-03-07.md)  
       (*MCP, GitHub Copilot Alternative, AST Parsing, Error Correction, MCP-Guided Prompts*)
-    8. **MCP-Enhanced Multilingual Translation System**  
+    8. **MCP-Enhanced Multilingual Translation System** 📗 [01-03-08.md](0-PROJECTS/01-03-08.md)  
       (*MCP, Low-Resource Languages, Context Retention, LLM Alignment, OPUS Models*)
     9. **Dynamic Storytelling & Interactive Fiction Platform**  
       (*MCP, Narrative Generation, User-Driven Plotlines, MCP Memory Layers, Stable Diffusion*)
