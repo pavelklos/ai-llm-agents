@@ -342,7 +342,7 @@
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
     5. **Enterprise Knowledge Management with MCP** 📗 [01-03-05.md](0-PROJECTS/01-03-05.md)  
       (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
-    6. **AI-Powered Research Paper Summarization (MCP-Driven)**  
+    6. **AI-Powered Research Paper Summarization (MCP-Driven)** 📗 [01-03-06.md](0-PROJECTS/01-03-06.md)  
       (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
     7. **Context-Aware Code Generation & Debugging Tool**  
       (*MCP, GitHub Copilot Alternative, AST Parsing, Error Correction, MCP-Guided Prompts*)
