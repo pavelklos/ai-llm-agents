@@ -340,7 +340,7 @@
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
     4. **MCP-Based Multi-Agent Simulation Environment** 📗 [01-03-04.md](0-PROJECTS/01-03-04.md)  
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
-    5. **Enterprise Knowledge Management with MCP**  
+    5. **Enterprise Knowledge Management with MCP** 📗 [01-03-05.md](0-PROJECTS/01-03-05.md)  
       (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
     6. **AI-Powered Research Paper Summarization (MCP-Driven)**  
       (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
