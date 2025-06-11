@@ -334,7 +334,7 @@
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (01-03)</small>
     1. **MCP-Powered Dynamic Chatbot Framework** 📗 [01-03-01.md](0-PROJECTS/01-03-01.md)  
       (*MCP, Conversational AI, Context-Aware Dialogs, RAG, Fine-Tuning, LangChain*)
-    2. **Automated Legal Document Analyzer with MCP**  
+    2. **Automated Legal Document Analyzer with MCP** 📗 [01-03-02.md](0-PROJECTS/01-03-02.md)  
       (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
     3. **Personalized Learning Assistant Using MCP**  
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
