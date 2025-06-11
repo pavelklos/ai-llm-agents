@@ -338,7 +338,7 @@
       (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
     3. **Personalized Learning Assistant Using MCP** 📗 [01-03-03.md](0-PROJECTS/01-03-03.md)  
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
-    4. **MCP-Based Multi-Agent Simulation Environment**  
+    4. **MCP-Based Multi-Agent Simulation Environment** 📗 [01-03-04.md](0-PROJECTS/01-03-04.md)  
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
     5. **Enterprise Knowledge Management with MCP**  
       (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
