@@ -332,7 +332,7 @@
       → Personalized tutor using MCP to track concepts learned, context windows per subject, and goal tracking.
   
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (01-03)</small>
-    1. **MCP-Powered Dynamic Chatbot Framework**  
+    1. **MCP-Powered Dynamic Chatbot Framework** 📗 [01-03-01.md](0-PROJECTS/01-03-01.md)  
       (*MCP, Conversational AI, Context-Aware Dialogs, RAG, Fine-Tuning, LangChain*)
     2. **Automated Legal Document Analyzer with MCP**  
       (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
