@@ -351,7 +351,7 @@
     9. **Dynamic Storytelling & Interactive Fiction Platform**  
       (*MCP, Narrative Generation, User-Driven Plotlines, MCP Memory Layers, Stable Diffusion*)
     10. **MCP-Optimized Fraud Detection for Financial Transactions**  
-        (*MCP, Anomaly Detection, Graph Neural Networks, Explainable AI, Synthetic Data*)
+      (*MCP, Anomaly Detection, Graph Neural Networks, Explainable AI, Synthetic Data*)
 
 - AI-LLM **Multi-Agent Systems**
 
