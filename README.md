@@ -350,7 +350,7 @@
       (*MCP, Low-Resource Languages, Context Retention, LLM Alignment, OPUS Models*)
     9. **Dynamic Storytelling & Interactive Fiction Platform** 📗 [01-03-09.md](0-PROJECTS/01-03-09.md)  
       (*MCP, Narrative Generation, User-Driven Plotlines, MCP Memory Layers, Stable Diffusion*)
-    10. **MCP-Optimized Fraud Detection for Financial Transactions**  
+    10. **MCP-Optimized Fraud Detection for Financial Transactions** 📗 [01-03-10a.md](0-PROJECTS/01-03-10a.md)  
       (*MCP, Anomaly Detection, Graph Neural Networks, Explainable AI, Synthetic Data*)
 
 - AI-LLM **Multi-Agent Systems**
