@@ -336,7 +336,7 @@
       (*MCP, Conversational AI, Context-Aware Dialogs, RAG, Fine-Tuning, LangChain*)
     2. **Automated Legal Document Analyzer with MCP** 📗 [01-03-02.md](0-PROJECTS/01-03-02.md)  
       (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
-    3. **Personalized Learning Assistant Using MCP**  
+    3. **Personalized Learning Assistant Using MCP** 📗 [01-03-03.md](0-PROJECTS/01-03-03.md)  
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
     4. **MCP-Based Multi-Agent Simulation Environment**  
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
