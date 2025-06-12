@@ -368,7 +368,7 @@
       (Logistics Coordination, Inventory Management, Demand Forecasting, Supplier Negotiation, Risk Assessment Agents)
     6. **Personalized Learning Management System** 📗 [02-01-06.md](0-PROJECTS/02-01-06.md)  
       (Adaptive Learning, Content Curation, Student Assessment, Progress Tracking, Educational Resource Coordination)
-    7. **Healthcare Diagnosis and Treatment Planning**  
+    7. **Healthcare Diagnosis and Treatment Planning** 📗 [02-01-07.md](0-PROJECTS/02-01-07.md)  
       (Medical Knowledge Integration, Symptom Analysis, Treatment Recommendation, Drug Interaction Checking, Clinical Decision Support)
     8. **Real Estate Market Analysis and Recommendation Engine**  
       (Property Valuation, Market Trend Analysis, Investment Advisory, Neighborhood Assessment, Client Matching)
