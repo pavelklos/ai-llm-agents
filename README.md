@@ -366,7 +366,7 @@
       (Natural Language Processing, Sentiment Analysis, Ticket Routing, Escalation Management, Multi-channel Support)
     5. **Supply Chain Optimization Platform** 📗 [02-01-05.md](0-PROJECTS/02-01-05.md)  
       (Logistics Coordination, Inventory Management, Demand Forecasting, Supplier Negotiation, Risk Assessment Agents)
-    6. **Personalized Learning Management System**  
+    6. **Personalized Learning Management System** 📗 [02-01-06.md](0-PROJECTS/02-01-06.md)  
       (Adaptive Learning, Content Curation, Student Assessment, Progress Tracking, Educational Resource Coordination)
     7. **Healthcare Diagnosis and Treatment Planning**  
       (Medical Knowledge Integration, Symptom Analysis, Treatment Recommendation, Drug Interaction Checking, Clinical Decision Support)
