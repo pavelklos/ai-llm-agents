@@ -360,7 +360,7 @@
       (Financial Markets, Risk Management, Portfolio Optimization, Real-time Decision Making, Market Analysis Agents)
     2. **Smart City Traffic Management System** 📗 [02-01-02.md](0-PROJECTS/02-01-02.md)  
       (IoT Integration, Traffic Flow Optimization, Emergency Response Coordination, Predictive Analytics, Urban Planning Agents)
-    3. **Collaborative Research Assistant Network**  
+    3. **Collaborative Research Assistant Network** 📗 [02-01-03.md](0-PROJECTS/02-01-03.md)  
       (Knowledge Discovery, Literature Review, Hypothesis Generation, Peer Review, Academic Research Coordination)
     4. **Distributed Customer Service Ecosystem**  
       (Natural Language Processing, Sentiment Analysis, Ticket Routing, Escalation Management, Multi-channel Support)
