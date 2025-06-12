@@ -356,7 +356,7 @@
 - AI-LLM **Multi-Agent Systems**
 
   - <small>Project selection by [Claude](https://claude.ai/) (02-01)</small>
-    1. **Autonomous Trading Floor Simulation**  
+    1. **Autonomous Trading Floor Simulation** 📗 [02-01-01.md](0-PROJECTS/02-01-01.md)  
       (Financial Markets, Risk Management, Portfolio Optimization, Real-time Decision Making, Market Analysis Agents)
     2. **Smart City Traffic Management System**  
       (IoT Integration, Traffic Flow Optimization, Emergency Response Coordination, Predictive Analytics, Urban Planning Agents)
