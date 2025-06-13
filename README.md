@@ -412,7 +412,7 @@
     5. **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md)  
       *(LangChain, Vectorstore Retrieval, Agent Hand-off, LLM Tool Use, E-Commerce API, Multi-LLM Setup)*  
       → Agents for order tracking, returns, product info, and escalation working in coordination to resolve customer queries.
-    6. **Scientific Paper Reviewer Committee**  
+    6. **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md)  
       *(Autonomous Agents, Role-Playing Reviewers, LLM+Tool Use, Citation Verification, Markdown Reports, Critique Chains)*  
       → Reviewer agents simulate peer review with feedback, scoring, and revision suggestions for academic submissions.
     7. **Smart City Infrastructure Management**  
