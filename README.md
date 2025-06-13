@@ -403,7 +403,7 @@
     2. **AI Legal Document Analyzer** 📗 [02-02-02.md](0-PROJECTS/02-02-02.md)  
       *(LLM Agents, Document QA, Retrieval, Legal NLP, Memory Graphs, Semantic Search, Claude Sonnet, LangGraph)*  
       → Team of legal-AI agents parsing legal documents to extract clauses, detect risks, and recommend actions.
-    3. **Financial Market Analysis and Decision Support**  
+    3. **Financial Market Analysis and Decision Support** 📗 [02-02-03.md](0-PROJECTS/02-02-03.md)  
       *(Multi-Agent Collaboration, Real-Time Data, Forecasting, News Scraping, Trading APIs, Agent Communication, OpenAI + Anthropic)*  
       → Agents specialize in trends, risk analysis, news sentiment, and portfolio balancing for human financial advisors.
     4. **AI Game Master for Text-Based RPGs**  
