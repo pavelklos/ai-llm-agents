@@ -397,34 +397,34 @@
     30. **Smart Tourism and Travel Planning Ecosystem** (Multi-Agent Systems, Destination Recommendation, Itinerary Optimization, Cultural Experience Curation, Budget Management, Real-time Travel Assistance)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (02-02)</small>
-    1. **Autonomous Research Team Assistant** 📗 [02-02-01.md](0-PROJECTS/02-02-01.md)  
+    - **Autonomous Research Team Assistant** 📗 [02-02-01.md](0-PROJECTS/02-02-01.md)  
       *(RAG, LangChain Agents, Pinecone, OpenAI GPT-4o, Task Decomposition, Memory, Tool Use, Web Search)*  
       → Multi-agent system that autonomously performs academic research, dividing tasks among agents (e.g., summarizer, fact-checker, citation retriever).
-    2. **AI Legal Document Analyzer** 📗 [02-02-02.md](0-PROJECTS/02-02-02.md)  
+    - **AI Legal Document Analyzer** 📗 [02-02-02.md](0-PROJECTS/02-02-02.md)  
       *(LLM Agents, Document QA, Retrieval, Legal NLP, Memory Graphs, Semantic Search, Claude Sonnet, LangGraph)*  
       → Team of legal-AI agents parsing legal documents to extract clauses, detect risks, and recommend actions.
-    3. **Financial Market Analysis and Decision Support** 📗 [02-02-03.md](0-PROJECTS/02-02-03.md)  
+    - **Financial Market Analysis and Decision Support** 📗 [02-02-03.md](0-PROJECTS/02-02-03.md)  
       *(Multi-Agent Collaboration, Real-Time Data, Forecasting, News Scraping, Trading APIs, Agent Communication, OpenAI + Anthropic)*  
       → Agents specialize in trends, risk analysis, news sentiment, and portfolio balancing for human financial advisors.
-    4. **AI Game Master for Text-Based RPGs** 📗 [02-02-04.md](0-PROJECTS/02-02-04.md)  
+    - **AI Game Master for Text-Based RPGs** 📗 [02-02-04.md](0-PROJECTS/02-02-04.md)  
       *(LLM Agents, Role-Based Reasoning, Memory, Game State Engine, Prompt Engineering, React Framework, Text-to-Action)*  
       → Game master and multiple character agents co-create an evolving narrative in an interactive RPG.
-    5. **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md)  
+    - **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md)  
       *(LangChain, Vectorstore Retrieval, Agent Hand-off, LLM Tool Use, E-Commerce API, Multi-LLM Setup)*  
       → Agents for order tracking, returns, product info, and escalation working in coordination to resolve customer queries.
-    6. **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md)  
+    - **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md)  
       *(Autonomous Agents, Role-Playing Reviewers, LLM+Tool Use, Citation Verification, Markdown Reports, Critique Chains)*  
       → Reviewer agents simulate peer review with feedback, scoring, and revision suggestions for academic submissions.
-    7. **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md)  
+    - **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md)  
       *(Sensor Data Simulation, AI Agents, Planning, Multi-Agent Communication, UMAP/GraphQL, Decision Making)*  
       → Agents oversee traffic, energy, and safety systems—collaborating to optimize city-wide resources and alerts.
-    8. **AI Debate Team** 📗 [02-02-08.md](0-PROJECTS/02-02-08.md)  
+    - **AI Debate Team** 📗 [02-02-08.md](0-PROJECTS/02-02-08.md)  
       *(Multi-Agent Prompt Chaining, Role-Specific LLMs, Memory, Persuasion Logic, GPT-4o, Claude, Open Debate APIs)*  
       → Pro and con agents prepare and argue on a topic in structured debate format with live audience Q&A moderation.
-    9. **AI Software Engineering Team** 📗 [02-02-09.md](0-PROJECTS/02-02-09.md)  
+    - **AI Software Engineering Team** 📗 [02-02-09.md](0-PROJECTS/02-02-09.md)  
       *(LLM Agents for Code Writing, Code Review, Debugging, Test Generation, GitHub API, LangGraph, Code Interpreter)*  
       → Agents emulate developer roles (coder, reviewer, tester) working on a collaborative software project.
-    10. **Multi-Agent Travel Planner** 📗 [02-02-10.md](0-PROJECTS/02-02-10.md)  
+    - **Multi-Agent Travel Planner** 📗 [02-02-10.md](0-PROJECTS/02-02-10.md)  
       *(Agents for Flight, Hotel, Activity, Budget Planning, External API Calls, Natural Language Queries, User Preference Memory)*  
       → A team of AI agents that negotiate and compile optimal travel plans based on user goals and constraints.
 
