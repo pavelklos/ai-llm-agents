@@ -424,7 +424,7 @@
     9. **AI Software Engineering Team** 📗 [02-02-09.md](0-PROJECTS/02-02-09.md)  
       *(LLM Agents for Code Writing, Code Review, Debugging, Test Generation, GitHub API, LangGraph, Code Interpreter)*  
       → Agents emulate developer roles (coder, reviewer, tester) working on a collaborative software project.
-    10. **Multi-Agent Travel Planner**  
+    10. **Multi-Agent Travel Planner** 📗 [02-02-10.md](0-PROJECTS/02-02-10.md)  
       *(Agents for Flight, Hotel, Activity, Budget Planning, External API Calls, Natural Language Queries, User Preference Memory)*  
       → A team of AI agents that negotiate and compile optimal travel plans based on user goals and constraints.
 
