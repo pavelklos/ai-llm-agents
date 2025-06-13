@@ -421,7 +421,7 @@
     8. **AI Debate Team** 📗 [02-02-08.md](0-PROJECTS/02-02-08.md)  
       *(Multi-Agent Prompt Chaining, Role-Specific LLMs, Memory, Persuasion Logic, GPT-4o, Claude, Open Debate APIs)*  
       → Pro and con agents prepare and argue on a topic in structured debate format with live audience Q&A moderation.
-    9. **AI Software Engineering Team**  
+    9. **AI Software Engineering Team** 📗 [02-02-09.md](0-PROJECTS/02-02-09.md)  
       *(LLM Agents for Code Writing, Code Review, Debugging, Test Generation, GitHub API, LangGraph, Code Interpreter)*  
       → Agents emulate developer roles (coder, reviewer, tester) working on a collaborative software project.
     10. **Multi-Agent Travel Planner**  
