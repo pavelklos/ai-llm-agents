@@ -409,7 +409,7 @@
     4. **AI Game Master for Text-Based RPGs** 📗 [02-02-04.md](0-PROJECTS/02-02-04.md)  
       *(LLM Agents, Role-Based Reasoning, Memory, Game State Engine, Prompt Engineering, React Framework, Text-to-Action)*  
       → Game master and multiple character agents co-create an evolving narrative in an interactive RPG.
-    5. **Customer Support AI Team for E-Commerce**  
+    5. **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md)  
       *(LangChain, Vectorstore Retrieval, Agent Hand-off, LLM Tool Use, E-Commerce API, Multi-LLM Setup)*  
       → Agents for order tracking, returns, product info, and escalation working in coordination to resolve customer queries.
     6. **Scientific Paper Reviewer Committee**  
