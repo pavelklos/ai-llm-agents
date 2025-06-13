@@ -406,7 +406,7 @@
     3. **Financial Market Analysis and Decision Support** 📗 [02-02-03.md](0-PROJECTS/02-02-03.md)  
       *(Multi-Agent Collaboration, Real-Time Data, Forecasting, News Scraping, Trading APIs, Agent Communication, OpenAI + Anthropic)*  
       → Agents specialize in trends, risk analysis, news sentiment, and portfolio balancing for human financial advisors.
-    4. **AI Game Master for Text-Based RPGs**  
+    4. **AI Game Master for Text-Based RPGs** 📗 [02-02-04.md](0-PROJECTS/02-02-04.md)  
       *(LLM Agents, Role-Based Reasoning, Memory, Game State Engine, Prompt Engineering, React Framework, Text-to-Action)*  
       → Game master and multiple character agents co-create an evolving narrative in an interactive RPG.
     5. **Customer Support AI Team for E-Commerce**  
