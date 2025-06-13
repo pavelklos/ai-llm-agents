@@ -415,7 +415,7 @@
     6. **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md)  
       *(Autonomous Agents, Role-Playing Reviewers, LLM+Tool Use, Citation Verification, Markdown Reports, Critique Chains)*  
       → Reviewer agents simulate peer review with feedback, scoring, and revision suggestions for academic submissions.
-    7. **Smart City Infrastructure Management**  
+    7. **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md)  
       *(Sensor Data Simulation, AI Agents, Planning, Multi-Agent Communication, UMAP/GraphQL, Decision Making)*  
       → Agents oversee traffic, energy, and safety systems—collaborating to optimize city-wide resources and alerts.
     8. **AI Debate Team**  
