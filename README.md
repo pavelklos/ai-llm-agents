@@ -444,7 +444,7 @@
     5. **Generative Game Design Collective** 📗 [02-03-05.md](0-PROJECTS/02-03-05.md)  
       (*Procedural content generation, LLM agents, Unity/Unreal, collaborative creativity*)  
       Autonomous AI designers, writers, and testers collaborate to create game narratives and mechanics.
-    6. **AI Venture Capital Simulator**  
+    6. **AI Venture Capital Simulator** 📗 [02-03-06.md](0-PROJECTS/02-03-06.md)  
       (*Market analysis, startup evaluation, multi-agent decision-making, financial modeling*)  
       A simulated VC firm where AI agents scout, evaluate, and negotiate startup investments.
     7. **Epidemic Response Coordinator**  
