@@ -429,34 +429,34 @@
       → A team of AI agents that negotiate and compile optimal travel plans based on user goals and constraints.
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (02-03)</small>
-    1. **Autonomous Research Team** 📗 [02-03-01.md](0-PROJECTS/02-03-01.md)  
+    - **Autonomous Research Team** 📗 [02-03-01.md](0-PROJECTS/02-03-01.md)  
       (*LLM agents, collaborative research, semantic search, knowledge synthesis, Python, LangChain*)  
       A multi-agent system where AI researchers autonomously gather, analyze, and summarize academic papers.
-    2. **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md)  
+    - **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md)  
       (*Blockchain, Solidity, LLM agents, vulnerability detection, collaborative reporting*)  
       AI agents simulate a security team auditing smart contracts, identifying bugs and suggesting fixes.
-    3. **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md)  
+    - **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md)  
       (*Multi-agent debate, argument synthesis, truth discovery, reinforcement learning*)  
       LLM agents with opposing viewpoints debate complex topics to uncover balanced conclusions.
-    4. **Dynamic Customer Support Swarm** 📗 [02-03-04.md](0-PROJECTS/02-03-04.md)  
+    - **Dynamic Customer Support Swarm** 📗 [02-03-04.md](0-PROJECTS/02-03-04.md)  
       (*Multi-agent helpdesk, intent routing, live collaboration, CRM integration*)  
       AI agents work together to handle customer queries, escalating and sharing context as needed.
-    5. **Generative Game Design Collective** 📗 [02-03-05.md](0-PROJECTS/02-03-05.md)  
+    - **Generative Game Design Collective** 📗 [02-03-05.md](0-PROJECTS/02-03-05.md)  
       (*Procedural content generation, LLM agents, Unity/Unreal, collaborative creativity*)  
       Autonomous AI designers, writers, and testers collaborate to create game narratives and mechanics.
-    6. **AI Venture Capital Simulator** 📗 [02-03-06.md](0-PROJECTS/02-03-06.md)  
+    - **AI Venture Capital Simulator** 📗 [02-03-06.md](0-PROJECTS/02-03-06.md)  
       (*Market analysis, startup evaluation, multi-agent decision-making, financial modeling*)  
       A simulated VC firm where AI agents scout, evaluate, and negotiate startup investments.
-    7. **Epidemic Response Coordinator** 📗 [02-03-07.md](0-PROJECTS/02-03-07.md)  
+    - **Epidemic Response Coordinator** 📗 [02-03-07.md](0-PROJECTS/02-03-07.md)  
       (*Public health, data analysis, policy simulation, multi-agent cooperation*)  
       AI agents model disease spread, evaluate interventions, and optimize resource allocation.
-    8. **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md)  
+    - **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md)  
       (*Legal AI, precedent analysis, argument generation, multi-perspective evaluation*)  
       A virtual law firm where AI agents develop case strategies by analyzing past rulings.
-    9. **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md)  
+    - **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md)  
       (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
       AI tutors with different specialties collaborate to create personalized learning paths.
-    10. **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md)  
+    - **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md)  
         (*Multi-modal agents, script generation, storyboarding, virtual production*)  
         Autonomous AI teams handle screenwriting, casting, and editing for generated short films.
 
