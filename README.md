@@ -435,7 +435,7 @@
     2. **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md)  
       (*Blockchain, Solidity, LLM agents, vulnerability detection, collaborative reporting*)  
       AI agents simulate a security team auditing smart contracts, identifying bugs and suggesting fixes.
-    3. **AI-Powered Debate Platform**  
+    3. **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md)  
       (*Multi-agent debate, argument synthesis, truth discovery, reinforcement learning*)  
       LLM agents with opposing viewpoints debate complex topics to uncover balanced conclusions.
     4. **Dynamic Customer Support Swarm**  
