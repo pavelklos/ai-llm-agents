@@ -432,7 +432,7 @@
     1. **Autonomous Research Team** 📗 [02-03-01.md](0-PROJECTS/02-03-01.md)  
       (*LLM agents, collaborative research, semantic search, knowledge synthesis, Python, LangChain*)  
       A multi-agent system where AI researchers autonomously gather, analyze, and summarize academic papers.
-    2. **Smart Contract Auditor Squad**  
+    2. **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md)  
       (*Blockchain, Solidity, LLM agents, vulnerability detection, collaborative reporting*)  
       AI agents simulate a security team auditing smart contracts, identifying bugs and suggesting fixes.
     3. **AI-Powered Debate Platform**  
