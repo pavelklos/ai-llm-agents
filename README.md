@@ -456,7 +456,7 @@
     9. **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md)  
       (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
       AI tutors with different specialties collaborate to create personalized learning paths.
-    10. **AI Film Production Studio**  
+    10. **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md)  
         (*Multi-modal agents, script generation, storyboarding, virtual production*)  
         Autonomous AI teams handle screenwriting, casting, and editing for generated short films.
 
