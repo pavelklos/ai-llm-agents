@@ -447,7 +447,7 @@
     6. **AI Venture Capital Simulator** 📗 [02-03-06.md](0-PROJECTS/02-03-06.md)  
       (*Market analysis, startup evaluation, multi-agent decision-making, financial modeling*)  
       A simulated VC firm where AI agents scout, evaluate, and negotiate startup investments.
-    7. **Epidemic Response Coordinator**  
+    7. **Epidemic Response Coordinator** 📗 [02-03-07.md](0-PROJECTS/02-03-07.md)  
       (*Public health, data analysis, policy simulation, multi-agent cooperation*)  
       AI agents model disease spread, evaluate interventions, and optimize resource allocation.
     8. **Legal Case Strategizer**  
