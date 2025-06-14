@@ -450,7 +450,7 @@
     7. **Epidemic Response Coordinator** 📗 [02-03-07.md](0-PROJECTS/02-03-07.md)  
       (*Public health, data analysis, policy simulation, multi-agent cooperation*)  
       AI agents model disease spread, evaluate interventions, and optimize resource allocation.
-    8. **Legal Case Strategizer**  
+    8. **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md)  
       (*Legal AI, precedent analysis, argument generation, multi-perspective evaluation*)  
       A virtual law firm where AI agents develop case strategies by analyzing past rulings.
     9. **Personalized Education Collective**  
