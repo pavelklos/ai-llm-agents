@@ -453,7 +453,7 @@
     8. **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md)  
       (*Legal AI, precedent analysis, argument generation, multi-perspective evaluation*)  
       A virtual law firm where AI agents develop case strategies by analyzing past rulings.
-    9. **Personalized Education Collective**  
+    9. **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md)  
       (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
       AI tutors with different specialties collaborate to create personalized learning paths.
     10. **AI Film Production Studio**  
