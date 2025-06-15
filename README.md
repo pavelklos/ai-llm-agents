@@ -472,7 +472,7 @@
     - **Medical Literature Review System**
     (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance) 📗 [03-01-04.md](0-PROJECTS/03-01-04.md)
     - **Code Documentation and Bug Resolution Assistant**
-    (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API)
+    (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API) 📗 [03-01-05.md](0-PROJECTS/03-01-05.md)
     - **Financial Research and Investment Analysis Tool**
     (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment)
     - **E-learning Content Recommendation Engine**
