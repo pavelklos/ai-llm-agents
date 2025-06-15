@@ -474,7 +474,7 @@
     - **Code Documentation and Bug Resolution Assistant**
     (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API) 📗 [03-01-05.md](0-PROJECTS/03-01-05.md)
     - **Financial Research and Investment Analysis Tool**
-    (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment)
+    (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment) 📗 [03-01-06.md](0-PROJECTS/03-01-06.md)
     - **E-learning Content Recommendation Engine**
     (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
     - **Customer Support Knowledge Assistant**
