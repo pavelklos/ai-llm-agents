@@ -466,7 +466,7 @@
     - **Intelligent Document Assistant**
     (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS) 📗 [03-01-01.md](0-PROJECTS/03-01-01.md)
     - **Enterprise Knowledge Base Chatbot**
-    (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
+    (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API) 📗 [03-01-02.md](0-PROJECTS/03-01-02.md)
     - **Legal Research and Case Analysis Platform**
     (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
     - **Medical Literature Review System**
