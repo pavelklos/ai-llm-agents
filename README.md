@@ -468,7 +468,7 @@
     - **Enterprise Knowledge Base Chatbot**
     (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API) 📗 [03-01-02.md](0-PROJECTS/03-01-02.md)
     - **Legal Research and Case Analysis Platform**
-    (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
+    (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER) 📗 [03-01-03.md](0-PROJECTS/03-01-03.md)
     - **Medical Literature Review System**
     (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
     - **Code Documentation and Bug Resolution Assistant**
