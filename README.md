@@ -457,32 +457,32 @@
       (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
       AI tutors with different specialties collaborate to create personalized learning paths.
     - **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md)  
-        (*Multi-modal agents, script generation, storyboarding, virtual production*)  
-        Autonomous AI teams handle screenwriting, casting, and editing for generated short films.
+      (*Multi-modal agents, script generation, storyboarding, virtual production*)  
+      Autonomous AI teams handle screenwriting, casting, and editing for generated short films.
 
 - AI-LLM **RAG** *(Retrieval-Augmented Generation)*
 
   - <small>Project selection by [Claude](https://claude.ai/) (03-01)</small>
-    - **Intelligent Document Assistant**
-    (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS) 📗 [03-01-01.md](0-PROJECTS/03-01-01.md)
-    - **Enterprise Knowledge Base Chatbot**
-    (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API) 📗 [03-01-02.md](0-PROJECTS/03-01-02.md)
-    - **Legal Research and Case Analysis Platform**
-    (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER) 📗 [03-01-03.md](0-PROJECTS/03-01-03.md)
-    - **Medical Literature Review System**
-    (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance) 📗 [03-01-04.md](0-PROJECTS/03-01-04.md)
-    - **Code Documentation and Bug Resolution Assistant**
-    (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API) 📗 [03-01-05.md](0-PROJECTS/03-01-05.md)
-    - **Financial Research and Investment Analysis Tool**
-    (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment) 📗 [03-01-06.md](0-PROJECTS/03-01-06.md)
-    - **E-learning Content Recommendation Engine**
-    (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning) 📗 [03-01-07.md](0-PROJECTS/03-01-07.md)
-    - **Customer Support Knowledge Assistant**
-    (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language) 📗 [03-01-08.md](0-PROJECTS/03-01-08.md)
-    - **Scientific Research Paper Discovery Platform**
-    (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering) 📗 [03-01-09.md](0-PROJECTS/03-01-09.md)
-    - **Real Estate Property Intelligence System**
-    (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings) 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)
+    - **Intelligent Document Assistant** 📗 [03-01-01.md](0-PROJECTS/03-01-01.md)  
+      (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS)
+    - **Enterprise Knowledge Base Chatbot** 📗 [03-01-02.md](0-PROJECTS/03-01-02.md)  
+      (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
+    - **Legal Research and Case Analysis Platform** 📗 [03-01-03.md](0-PROJECTS/03-01-03.md)  
+      (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
+    - **Medical Literature Review System** 📗 [03-01-04.md](0-PROJECTS/03-01-04.md)  
+      (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
+    - **Code Documentation and Bug Resolution Assistant** 📗 [03-01-05.md](0-PROJECTS/03-01-05.md)  
+      (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API)
+    - **Financial Research and Investment Analysis Tool** 📗 [03-01-06.md](0-PROJECTS/03-01-06.md)  
+      (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment)
+    - **E-learning Content Recommendation Engine** 📗 [03-01-07.md](0-PROJECTS/03-01-07.md)  
+      (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
+    - **Customer Support Knowledge Assistant** 📗 [03-01-08.md](0-PROJECTS/03-01-08.md)  
+      (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
+    - **Scientific Research Paper Discovery Platform** 📗 [03-01-09.md](0-PROJECTS/03-01-09.md)  
+      (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
+    - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)  
+      (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
     ---
     11. **Smart Recipe and Nutrition Advisor**
     (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
