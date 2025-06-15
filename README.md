@@ -470,7 +470,7 @@
     - **Legal Research and Case Analysis Platform**
     (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER) 📗 [03-01-03.md](0-PROJECTS/03-01-03.md)
     - **Medical Literature Review System**
-    (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
+    (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance) 📗 [03-01-04.md](0-PROJECTS/03-01-04.md)
     - **Code Documentation and Bug Resolution Assistant**
     (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API)
     - **Financial Research and Investment Analysis Tool**
