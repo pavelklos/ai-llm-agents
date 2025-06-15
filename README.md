@@ -478,7 +478,7 @@
     - **E-learning Content Recommendation Engine**
     (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning) 📗 [03-01-07.md](0-PROJECTS/03-01-07.md)
     - **Customer Support Knowledge Assistant**
-    (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
+    (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language) 📗 [03-01-08.md](0-PROJECTS/03-01-08.md)
     - **Scientific Research Paper Discovery Platform**
     (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
     - **Real Estate Property Intelligence System**
