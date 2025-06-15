@@ -476,7 +476,7 @@
     - **Financial Research and Investment Analysis Tool**
     (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment) 📗 [03-01-06.md](0-PROJECTS/03-01-06.md)
     - **E-learning Content Recommendation Engine**
-    (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
+    (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning) 📗 [03-01-07.md](0-PROJECTS/03-01-07.md)
     - **Customer Support Knowledge Assistant**
     (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
     - **Scientific Research Paper Discovery Platform**
