@@ -480,7 +480,7 @@
     - **Customer Support Knowledge Assistant**
     (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language) 📗 [03-01-08.md](0-PROJECTS/03-01-08.md)
     - **Scientific Research Paper Discovery Platform**
-    (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
+    (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering) 📗 [03-01-09.md](0-PROJECTS/03-01-09.md)
     - **Real Estate Property Intelligence System**
     (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
     ---
