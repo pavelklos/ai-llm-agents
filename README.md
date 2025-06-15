@@ -482,7 +482,7 @@
     - **Scientific Research Paper Discovery Platform**
     (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering) 📗 [03-01-09.md](0-PROJECTS/03-01-09.md)
     - **Real Estate Property Intelligence System**
-    (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
+    (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings) 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)
     ---
     11. **Smart Recipe and Nutrition Advisor**
     (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
