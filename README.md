@@ -464,7 +464,7 @@
 
   - <small>Project selection by [Claude](https://claude.ai/) (03-01)</small>
     - **Intelligent Document Assistant**
-    (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS)
+    (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS) 📗 [03-01-01.md](0-PROJECTS/03-01-01.md)
     - **Enterprise Knowledge Base Chatbot**
     (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
     - **Legal Research and Case Analysis Platform**
