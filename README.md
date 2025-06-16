@@ -532,7 +532,7 @@
     2. **Medical Research Summarizer** 📗 [03-02-02.md](0-PROJECTS/03-02-02.md)  
       *(RAG, LlamaIndex, PubMed API, HuggingFace Transformers, BioBERT, Vector Databases, Summarization)*  
       → Summarizes and answers questions using biomedical research papers and studies.
-    3. **Enterprise Knowledge Chatbot**  
+    3. **Enterprise Knowledge Chatbot** 📗 [03-02-03.md](0-PROJECTS/03-02-03.md)  
       *(RAG, LangChain, Azure OpenAI, SharePoint, FAISS, Authentication, Multi-user Chat)*  
       → Internal chatbot that helps employees access company documents and SOPs securely.
     4. **Academic Tutor for Students**  
