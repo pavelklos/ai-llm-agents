@@ -553,7 +553,7 @@
     9. **Scientific Paper Explorer for Engineers** 📗 [03-02-09.md](0-PROJECTS/03-02-09.md)  
       *(RAG, LlamaIndex, ArXiv API, Embedding Comparison, Visual Search, Streamlit UI)*  
       → Engineers can query technical papers and extract specific methods or evaluations.
-    10. **Legal & Regulatory Compliance Checker**  
+    10. **Legal & Regulatory Compliance Checker** 📗 [03-02-10.md](0-PROJECTS/03-02-10.md)  
       *(RAG, Claude Sonnet, Regulatory PDFs, Pinecone Hybrid Search, LangChain Agents)*  
       → Helps companies verify if internal policies comply with external laws and standards.
 
