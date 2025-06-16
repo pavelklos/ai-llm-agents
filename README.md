@@ -538,7 +538,7 @@
     4. **Academic Tutor for Students** 📗 [03-02-04.md](0-PROJECTS/03-02-04.md)  
       *(RAG, Claude Haiku, PDF + DOCX ingestion, Milvus, Streamlit, Flashcards, Quiz Generator)*  
       → Personalized study assistant that extracts content from textbooks and generates quizzes.
-    5. **Codebase Q&A Bot**  
+    5. **Codebase Q&A Bot** 📗 [03-02-05.md](0-PROJECTS/03-02-05.md)  
       *(RAG, OpenAI GPT-4o, GitHub API, Docstring Parsing, Embeddings, VSCode Extension)*  
       → AI bot that answers technical questions from your codebase and documentation files.
     6. **Multilingual Travel Assistant**  
