@@ -541,7 +541,7 @@
     5. **Codebase Q&A Bot** 📗 [03-02-05.md](0-PROJECTS/03-02-05.md)  
       *(RAG, OpenAI GPT-4o, GitHub API, Docstring Parsing, Embeddings, VSCode Extension)*  
       → AI bot that answers technical questions from your codebase and documentation files.
-    6. **Multilingual Travel Assistant**  
+    6. **Multilingual Travel Assistant** 📗 [03-02-06.md](0-PROJECTS/03-02-06.md)  
       *(RAG, GPT-4 Turbo, Translation APIs, Pinecone, CSV/JSON data, Location-based RAG)*  
       → Answers tourist queries using local attraction guides and multilingual content.
     7. **Historical Archive Explorer**  
