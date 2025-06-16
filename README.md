@@ -544,7 +544,7 @@
     6. **Multilingual Travel Assistant** 📗 [03-02-06.md](0-PROJECTS/03-02-06.md)  
       *(RAG, GPT-4 Turbo, Translation APIs, Pinecone, CSV/JSON data, Location-based RAG)*  
       → Answers tourist queries using local attraction guides and multilingual content.
-    7. **Historical Archive Explorer**  
+    7. **Historical Archive Explorer** 📗 [03-02-07.md](0-PROJECTS/03-02-07.md)  
       *(RAG, Llama 3, OCR, Newspapers Archive, Vector Search, Timeline Generation)*  
       → Allows users to explore and query historical texts, scanned papers, and rare books.
     8. **Customer Support Ticket Analyzer**  
