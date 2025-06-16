@@ -550,7 +550,7 @@
     8. **Customer Support Ticket Analyzer** 📗 [03-02-08.md](0-PROJECTS/03-02-08.md)  
       *(RAG, LangChain, ElasticSearch, Email Parsing, OpenAI Functions, Retrieval Filters)*  
       → AI that assists support teams by answering and classifying tickets using historical data.
-    9. **Scientific Paper Explorer for Engineers**  
+    9. **Scientific Paper Explorer for Engineers** 📗 [03-02-09.md](0-PROJECTS/03-02-09.md)  
       *(RAG, LlamaIndex, ArXiv API, Embedding Comparison, Visual Search, Streamlit UI)*  
       → Engineers can query technical papers and extract specific methods or evaluations.
     10. **Legal & Regulatory Compliance Checker**  
