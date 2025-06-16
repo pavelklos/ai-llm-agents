@@ -526,7 +526,7 @@
     (RAG, Population Data, Infrastructure Reports, Traffic Patterns, Zoning Laws, City Planning Documents, GIS Integration, Public Transportation)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (03-02)</small>
-    1. **Legal Document Assistant**  
+    1. **Legal Document Assistant** 📗 [03-02-01.md](0-PROJECTS/03-02-01.md)  
       *(RAG, LangChain, OpenAI GPT-4o, Pinecone, PDF Parsing, Prompt Engineering, Semantic Search)*  
       → AI assistant for answering legal questions from a repository of contracts and legal documents.
     2. **Medical Research Summarizer**  
