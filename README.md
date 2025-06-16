@@ -547,7 +547,7 @@
     7. **Historical Archive Explorer** 📗 [03-02-07.md](0-PROJECTS/03-02-07.md)  
       *(RAG, Llama 3, OCR, Newspapers Archive, Vector Search, Timeline Generation)*  
       → Allows users to explore and query historical texts, scanned papers, and rare books.
-    8. **Customer Support Ticket Analyzer**  
+    8. **Customer Support Ticket Analyzer** 📗 [03-02-08.md](0-PROJECTS/03-02-08.md)  
       *(RAG, LangChain, ElasticSearch, Email Parsing, OpenAI Functions, Retrieval Filters)*  
       → AI that assists support teams by answering and classifying tickets using historical data.
     9. **Scientific Paper Explorer for Engineers**  
