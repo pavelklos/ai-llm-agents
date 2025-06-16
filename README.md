@@ -529,7 +529,7 @@
     1. **Legal Document Assistant** 📗 [03-02-01.md](0-PROJECTS/03-02-01.md)  
       *(RAG, LangChain, OpenAI GPT-4o, Pinecone, PDF Parsing, Prompt Engineering, Semantic Search)*  
       → AI assistant for answering legal questions from a repository of contracts and legal documents.
-    2. **Medical Research Summarizer**  
+    2. **Medical Research Summarizer** 📗 [03-02-02.md](0-PROJECTS/03-02-02.md)  
       *(RAG, LlamaIndex, PubMed API, HuggingFace Transformers, BioBERT, Vector Databases, Summarization)*  
       → Summarizes and answers questions using biomedical research papers and studies.
     3. **Enterprise Knowledge Chatbot**  
