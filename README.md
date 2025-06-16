@@ -535,7 +535,7 @@
     3. **Enterprise Knowledge Chatbot** 📗 [03-02-03.md](0-PROJECTS/03-02-03.md)  
       *(RAG, LangChain, Azure OpenAI, SharePoint, FAISS, Authentication, Multi-user Chat)*  
       → Internal chatbot that helps employees access company documents and SOPs securely.
-    4. **Academic Tutor for Students**  
+    4. **Academic Tutor for Students** 📗 [03-02-04.md](0-PROJECTS/03-02-04.md)  
       *(RAG, Claude Haiku, PDF + DOCX ingestion, Milvus, Streamlit, Flashcards, Quiz Generator)*  
       → Personalized study assistant that extracts content from textbooks and generates quizzes.
     5. **Codebase Q&A Bot**  
