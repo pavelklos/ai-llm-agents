@@ -582,7 +582,7 @@
     - **Code Documentation Assistant** 📗 [03-03-08.md](0-PROJECTS/03-03-08.md)  
       (*RAG, GitHub repos, CodeBERT, LanceDB, StarCoder2*)  
       Answers programming questions by searching codebases and generating examples.
-    - **E-commerce Product Recommender**  
+    - **E-commerce Product Recommender** 📗 [03-03-09.md](0-PROJECTS/03-03-09.md)  
       (*RAG, Product catalog, CLIP embeddings, Elasticsearch, Command R+*)  
       Conversational product search that understands "I need a gift for my hiking-loving mom".
     - **Historical Events Explorer**  
