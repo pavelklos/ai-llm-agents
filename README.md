@@ -561,7 +561,7 @@
     - **Enterprise Knowledge Assistant** 📗 [03-03-01.md](0-PROJECTS/03-03-01.md)  
       (*RAG, Internal docs, FAISS, LangChain, GPT-4, Slack integration*)  
       A chatbot that retrieves answers from company documents (PDFs, wikis) and provides context-aware responses via Slack.
-    - **Legal Document Analyzer**  
+    - **Legal Document Analyzer** 📗 [03-03-02.md](0-PROJECTS/03-03-02.md)  
       (*RAG, Case law retrieval, BERT embeddings, Weaviate, Mistral-7B*)  
       RAG system to search through legal precedents and generate summaries or arguments for lawyers.
     - **Medical Diagnosis Support Tool**  
