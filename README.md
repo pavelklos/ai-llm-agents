@@ -558,7 +558,7 @@
       → Helps companies verify if internal policies comply with external laws and standards.
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (03-03)</small>
-    - **Enterprise Knowledge Assistant**  
+    - **Enterprise Knowledge Assistant** 📗 [03-03-01.md](0-PROJECTS/03-03-01.md)  
       (*RAG, Internal docs, FAISS, LangChain, GPT-4, Slack integration*)  
       A chatbot that retrieves answers from company documents (PDFs, wikis) and provides context-aware responses via Slack.
     - **Legal Document Analyzer**  
