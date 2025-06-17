@@ -564,7 +564,7 @@
     - **Legal Document Analyzer** 📗 [03-03-02.md](0-PROJECTS/03-03-02.md)  
       (*RAG, Case law retrieval, BERT embeddings, Weaviate, Mistral-7B*)  
       RAG system to search through legal precedents and generate summaries or arguments for lawyers.
-    - **Medical Diagnosis Support Tool**  
+    - **Medical Diagnosis Support Tool** 📗 [03-03-03.md](0-PROJECTS/03-03-03.md)  
       (*RAG, PubMed/clinical papers, BioBERT, Pinecone, Llama-3*)  
       Retrieves relevant medical research based on symptoms and suggests potential diagnoses with citations.
     - **Academic Research Synthesizer**  
