@@ -576,7 +576,7 @@
     - **Personalized Learning Tutor** 📗 [03-03-06.md](0-PROJECTS/03-03-06.md)  
       (*RAG, Textbook knowledge base, InstructorXL embeddings, Qdrant, Mixtral*)  
       Answers student questions with textbook excerpts and generates practice quizzes.
-    - **Multilingual News Explorer**  
+    - **Multilingual News Explorer** 📗 [03-03-07.md](0-PROJECTS/03-03-07.md)  
       (*RAG, News API, multilingual embeddings, Milvus, GPT-4 Turbo*)  
       Retrieves and summarizes news articles across languages with bias detection.
     - **Code Documentation Assistant**  
