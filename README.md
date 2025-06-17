@@ -579,7 +579,7 @@
     - **Multilingual News Explorer** 📗 [03-03-07.md](0-PROJECTS/03-03-07.md)  
       (*RAG, News API, multilingual embeddings, Milvus, GPT-4 Turbo*)  
       Retrieves and summarizes news articles across languages with bias detection.
-    - **Code Documentation Assistant**  
+    - **Code Documentation Assistant** 📗 [03-03-08.md](0-PROJECTS/03-03-08.md)  
       (*RAG, GitHub repos, CodeBERT, LanceDB, StarCoder2*)  
       Answers programming questions by searching codebases and generating examples.
     - **E-commerce Product Recommender**  
