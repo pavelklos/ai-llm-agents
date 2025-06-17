@@ -573,7 +573,7 @@
     - **Customer Support Automation** 📗 [03-03-05.md](0-PROJECTS/03-03-05.md)  
       (*RAG, Zendesk/HelpScout, Sentence-Transformers, Redis, Claude-3*)  
       Automates ticket responses by pulling from FAQs and past resolved tickets with citation links.
-    - **Personalized Learning Tutor**  
+    - **Personalized Learning Tutor** 📗 [03-03-06.md](0-PROJECTS/03-03-06.md)  
       (*RAG, Textbook knowledge base, InstructorXL embeddings, Qdrant, Mixtral*)  
       Answers student questions with textbook excerpts and generates practice quizzes.
     - **Multilingual News Explorer**  
