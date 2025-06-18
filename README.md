@@ -286,7 +286,7 @@
       (MCP, Solidity analysis, vulnerability detection, gas optimization, Web3 integration, Ethereum/Polygon)
     - **Mental Health Monitoring Platform** 📗 [01-01-15.md](0-PROJECTS/01-01-15.md)  
       (MCP, mood tracking, behavioral analysis, therapy recommendations, crisis intervention, wearable devices)
-    - **Agricultural Crop Management System**  
+    - **Agricultural Crop Management System** 📗 [01-01-16.md](0-PROJECTS/01-01-16.md)  
       (MCP, satellite imagery, soil sensors, weather data, yield prediction, precision farming, John Deere APIs)
     - **Voice-Activated Home Automation**  
       (MCP, natural language processing, IoT device control, voice recognition, smart home protocols, Alexa/Google Assistant)
