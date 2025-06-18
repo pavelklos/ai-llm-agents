@@ -278,7 +278,7 @@
     ---
     - **Smart City Traffic Optimization** 📗 [01-01-11.md](0-PROJECTS/01-01-11.md)  
       (MCP, traffic sensors, route planning, congestion prediction, smart signals, urban mobility, Google Maps API)
-    - **AI-Powered Legal Research Assistant**  
+    - **AI-Powered Legal Research Assistant** 📗 [01-01-12.md](0-PROJECTS/01-01-12.md)  
       (MCP, case law databases, contract analysis, legal precedents, document review, LexisNexis/Westlaw)
     - **Virtual Reality Training Simulator**  
       (MCP, VR environments, skill assessment, immersive learning, Unity/Unreal Engine, haptic feedback)
