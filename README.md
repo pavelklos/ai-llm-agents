@@ -294,7 +294,7 @@
       (MCP, threat detection, vulnerability scanning, incident response, SIEM integration, malware analysis)
     - **Digital Art Generation Studio** 📗 [01-01-19.md](0-PROJECTS/01-01-19.md)  
       (MCP, style transfer, image synthesis, creative collaboration, NFT marketplace, Stable Diffusion/DALL-E)
-    - **Supply Chain Optimization Engine**  
+    - **Supply Chain Optimization Engine** 📗 [01-01-20.md](0-PROJECTS/01-01-20.md)  
       (MCP, logistics tracking, inventory management, demand forecasting, supplier networks, SAP/Oracle integration)
     - **Scientific Research Data Analyzer**  
       (MCP, research papers, hypothesis generation, experiment design, statistical analysis, academic databases)
