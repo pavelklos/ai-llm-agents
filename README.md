@@ -292,7 +292,7 @@
       (MCP, natural language processing, IoT device control, voice recognition, smart home protocols, Alexa/Google Assistant)
     - **Cybersecurity Threat Intelligence Hub** 📗 [01-01-18.md](0-PROJECTS/01-01-18.md)  
       (MCP, threat detection, vulnerability scanning, incident response, SIEM integration, malware analysis)
-    - **Digital Art Generation Studio**  
+    - **Digital Art Generation Studio** 📗 [01-01-19.md](0-PROJECTS/01-01-19.md)  
       (MCP, style transfer, image synthesis, creative collaboration, NFT marketplace, Stable Diffusion/DALL-E)
     - **Supply Chain Optimization Engine**  
       (MCP, logistics tracking, inventory management, demand forecasting, supplier networks, SAP/Oracle integration)
