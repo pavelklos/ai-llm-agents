@@ -280,7 +280,7 @@
       (MCP, traffic sensors, route planning, congestion prediction, smart signals, urban mobility, Google Maps API)
     - **AI-Powered Legal Research Assistant** 📗 [01-01-12.md](0-PROJECTS/01-01-12.md)  
       (MCP, case law databases, contract analysis, legal precedents, document review, LexisNexis/Westlaw)
-    - **Virtual Reality Training Simulator**  
+    - **Virtual Reality Training Simulator** 📗 [01-01-13.md](0-PROJECTS/01-01-13.md)  
       (MCP, VR environments, skill assessment, immersive learning, Unity/Unreal Engine, haptic feedback)
     - **Blockchain Smart Contract Auditor**  
       (MCP, Solidity analysis, vulnerability detection, gas optimization, Web3 integration, Ethereum/Polygon)
