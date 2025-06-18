@@ -288,7 +288,7 @@
       (MCP, mood tracking, behavioral analysis, therapy recommendations, crisis intervention, wearable devices)
     - **Agricultural Crop Management System** 📗 [01-01-16.md](0-PROJECTS/01-01-16.md)  
       (MCP, satellite imagery, soil sensors, weather data, yield prediction, precision farming, John Deere APIs)
-    - **Voice-Activated Home Automation**  
+    - **Voice-Activated Home Automation** 📗 [01-01-17.md](0-PROJECTS/01-01-17.md)  
       (MCP, natural language processing, IoT device control, voice recognition, smart home protocols, Alexa/Google Assistant)
     - **Cybersecurity Threat Intelligence Hub**  
       (MCP, threat detection, vulnerability scanning, incident response, SIEM integration, malware analysis)
