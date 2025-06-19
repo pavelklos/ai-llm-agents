@@ -296,7 +296,7 @@
       (MCP, style transfer, image synthesis, creative collaboration, NFT marketplace, Stable Diffusion/DALL-E)
     - **Supply Chain Optimization Engine** 📗 [01-01-20.md](0-PROJECTS/01-01-20.md)  
       (MCP, logistics tracking, inventory management, demand forecasting, supplier networks, SAP/Oracle integration)
-    - **Scientific Research Data Analyzer**  
+    - **Scientific Research Data Analyzer** 📗 [01-01-21.md](0-PROJECTS/01-01-21.md)  
       (MCP, research papers, hypothesis generation, experiment design, statistical analysis, academic databases)
     - **Real Estate Market Predictor**  
       (MCP, property valuation, market trends, demographic analysis, investment opportunities, Zillow/Redfin APIs)
