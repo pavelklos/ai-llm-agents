@@ -304,7 +304,7 @@
       (MCP, player behavior analysis, dynamic difficulty adjustment, personalized content, gaming APIs, Steam/Epic Games)
     - **Environmental Monitoring Network** 📗 [01-01-24.md](0-PROJECTS/01-01-24.md)  
       (MCP, air quality sensors, climate data, pollution tracking, environmental compliance, EPA databases)
-    - **Language Learning Immersion Platform**  
+    - **Language Learning Immersion Platform** 📗 [01-01-25.md](0-PROJECTS/01-01-25.md)  
       (MCP, speech recognition, pronunciation coaching, cultural context, adaptive curriculum, Duolingo/Babbel)
     - **3D Modeling Automation Tool**  
       (MCP, CAD integration, parametric design, manufacturing optimization, Blender/AutoCAD, 3D printing)
