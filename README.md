@@ -397,7 +397,7 @@
     ---
     - **Autonomous Game Development Studio** 📗 [02-01-11.md](0-PROJECTS/02-01-11.md)  
       (Multi-Agent Systems, Procedural Content Generation, Game Balance Testing, Player Behavior Analysis, Narrative Generation, Art Asset Creation)
-    - **Smart Agriculture Ecosystem**  
+    - **Smart Agriculture Ecosystem** 📗 [02-01-12.md](0-PROJECTS/02-01-12.md)  
       (Multi-Agent Systems, Crop Monitoring, Weather Prediction, Pest Detection, Irrigation Optimization, Harvest Timing Coordination)
     - **Virtual Event Planning and Management Platform**  
       (Multi-Agent Systems, Venue Selection, Speaker Coordination, Attendee Engagement, Schedule Optimization, Technical Support Automation)
