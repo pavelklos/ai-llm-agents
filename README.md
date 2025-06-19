@@ -306,7 +306,7 @@
       (MCP, air quality sensors, climate data, pollution tracking, environmental compliance, EPA databases)
     - **Language Learning Immersion Platform** 📗 [01-01-25.md](0-PROJECTS/01-01-25.md)  
       (MCP, speech recognition, pronunciation coaching, cultural context, adaptive curriculum, Duolingo/Babbel)
-    - **3D Modeling Automation Tool**  
+    - **3D Modeling Automation Tool** 📗 [01-01-26.md](0-PROJECTS/01-01-26.md)  
       (MCP, CAD integration, parametric design, manufacturing optimization, Blender/AutoCAD, 3D printing)
     - **Music Composition Assistant**  
       (MCP, audio analysis, melody generation, chord progressions, genre classification, Spotify/Apple Music APIs)
