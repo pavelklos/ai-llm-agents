@@ -310,7 +310,7 @@
       (MCP, CAD integration, parametric design, manufacturing optimization, Blender/AutoCAD, 3D printing)
     - **Music Composition Assistant** 📗 [01-01-27.md](0-PROJECTS/01-01-27.md)  
       (MCP, audio analysis, melody generation, chord progressions, genre classification, Spotify/Apple Music APIs)
-    - **Drone Fleet Management System**  
+    - **Drone Fleet Management System** 📗 [01-01-28.md](0-PROJECTS/01-01-28.md)  
       (MCP, flight path optimization, autonomous navigation, payload delivery, airspace compliance, DJI/Parrot SDKs)
     - **Social Media Sentiment Analyzer**  
       (MCP, brand monitoring, trend analysis, influencer identification, crisis management, Twitter/Instagram APIs)
