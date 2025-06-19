@@ -312,7 +312,7 @@
       (MCP, audio analysis, melody generation, chord progressions, genre classification, Spotify/Apple Music APIs)
     - **Drone Fleet Management System** 📗 [01-01-28.md](0-PROJECTS/01-01-28.md)  
       (MCP, flight path optimization, autonomous navigation, payload delivery, airspace compliance, DJI/Parrot SDKs)
-    - **Social Media Sentiment Analyzer**  
+    - **Social Media Sentiment Analyzer** 📗 [01-01-29.md](0-PROJECTS/01-01-29.md)  
       (MCP, brand monitoring, trend analysis, influencer identification, crisis management, Twitter/Instagram APIs)
     - **Quantum Computing Simulator**  
       (MCP, quantum algorithms, circuit optimization, error correction, quantum machine learning, IBM Qiskit/Google Cirq)
