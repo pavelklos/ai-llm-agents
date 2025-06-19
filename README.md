@@ -308,7 +308,7 @@
       (MCP, speech recognition, pronunciation coaching, cultural context, adaptive curriculum, Duolingo/Babbel)
     - **3D Modeling Automation Tool** 📗 [01-01-26.md](0-PROJECTS/01-01-26.md)  
       (MCP, CAD integration, parametric design, manufacturing optimization, Blender/AutoCAD, 3D printing)
-    - **Music Composition Assistant**  
+    - **Music Composition Assistant** 📗 [01-01-27.md](0-PROJECTS/01-01-27.md)  
       (MCP, audio analysis, melody generation, chord progressions, genre classification, Spotify/Apple Music APIs)
     - **Drone Fleet Management System**  
       (MCP, flight path optimization, autonomous navigation, payload delivery, airspace compliance, DJI/Parrot SDKs)
