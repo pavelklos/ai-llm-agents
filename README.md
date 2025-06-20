@@ -425,7 +425,7 @@
       (Multi-Agent Systems, Competency Assessment, Project Matching, Team Formation, Performance Evaluation, Career Development)
     - **Smart Waste Management and Recycling System** 📗 [02-01-25.md](0-PROJECTS/02-01-25.md)  
       (Multi-Agent Systems, Collection Route Optimization, Material Sorting, Environmental Impact Assessment, Resource Recovery, Sustainability Tracking)
-    - **Autonomous Film and Video Production Assistant**  
+    - **Autonomous Film and Video Production Assistant** 📗 [02-01-26.md](0-PROJECTS/02-01-26.md)  
       (Multi-Agent Systems, Script Analysis, Scene Planning, Casting Suggestions, Post-production Coordination, Distribution Strategy)
     - **Multi-Agent Food Safety and Nutrition Platform**  
       (Multi-Agent Systems, Ingredient Analysis, Allergen Detection, Nutritional Optimization, Recipe Generation, Dietary Compliance)
