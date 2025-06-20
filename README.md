@@ -421,7 +421,7 @@
       (Multi-Agent Systems, Melody Generation, Arrangement Creation, Audio Mixing, Genre Adaptation, Artist Collaboration)
     - **Virtual Mental Health Support Network** 📗 [02-01-23.md](0-PROJECTS/02-01-23.md)  
       (Multi-Agent Systems, Mood Tracking, Therapeutic Intervention, Crisis Detection, Resource Recommendation, Progress Monitoring)
-    - **Decentralized Skill-Based Matchmaking Platform**  
+    - **Decentralized Skill-Based Matchmaking Platform** 📗 [02-01-24.md](0-PROJECTS/02-01-24.md)  
       (Multi-Agent Systems, Competency Assessment, Project Matching, Team Formation, Performance Evaluation, Career Development)
     - **Smart Waste Management and Recycling System**  
       (Multi-Agent Systems, Collection Route Optimization, Material Sorting, Environmental Impact Assessment, Resource Recovery, Sustainability Tracking)
