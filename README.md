@@ -401,7 +401,7 @@
       (Multi-Agent Systems, Crop Monitoring, Weather Prediction, Pest Detection, Irrigation Optimization, Harvest Timing Coordination)
     - **Virtual Event Planning and Management Platform** 📗 [02-01-13.md](0-PROJECTS/02-01-13.md)  
       (Multi-Agent Systems, Venue Selection, Speaker Coordination, Attendee Engagement, Schedule Optimization, Technical Support Automation)
-    - **Decentralized News Verification Network**  
+    - **Decentralized News Verification Network** 📗 [02-01-14.md](0-PROJECTS/02-01-14.md)  
       (Multi-Agent Systems, Fact-checking, Source Verification, Bias Detection, Information Credibility Scoring, Misinformation Flagging)
     - **Autonomous Legal Document Review System**  
       (Multi-Agent Systems, Contract Analysis, Compliance Checking, Legal Precedent Research, Risk Assessment, Document Generation)
