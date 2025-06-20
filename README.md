@@ -399,7 +399,7 @@
       (Multi-Agent Systems, Procedural Content Generation, Game Balance Testing, Player Behavior Analysis, Narrative Generation, Art Asset Creation)
     - **Smart Agriculture Ecosystem** 📗 [02-01-12.md](0-PROJECTS/02-01-12.md)  
       (Multi-Agent Systems, Crop Monitoring, Weather Prediction, Pest Detection, Irrigation Optimization, Harvest Timing Coordination)
-    - **Virtual Event Planning and Management Platform**  
+    - **Virtual Event Planning and Management Platform** 📗 [02-01-13.md](0-PROJECTS/02-01-13.md)  
       (Multi-Agent Systems, Venue Selection, Speaker Coordination, Attendee Engagement, Schedule Optimization, Technical Support Automation)
     - **Decentralized News Verification Network**  
       (Multi-Agent Systems, Fact-checking, Source Verification, Bias Detection, Information Credibility Scoring, Misinformation Flagging)
