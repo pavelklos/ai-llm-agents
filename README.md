@@ -524,46 +524,46 @@
     - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)  
       (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
     ---
-    - **Smart Recipe and Nutrition Advisor**
-    (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
-    - **Travel Planning and Destination Guide**
-    (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
-    - **Personal Fashion and Style Consultant**
-    (RAG, Clothing Catalogs, Style Trends, Body Type Analysis, Color Matching, Pinterest API, Image Recognition, Wardrobe Management)
-    - **Automotive Diagnostic and Repair Assistant**
-    (RAG, Vehicle Manuals, Error Codes, Parts Catalogs, Maintenance Schedules, OBD-II Integration, 3D Model Visualization, Repair Videos)
-    - **Gaming Strategy and Walkthrough Helper**
-    (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
-    - **Mental Health and Wellness Companion**
-    (RAG, Therapy Techniques, Mindfulness Content, Mood Tracking, Crisis Resources, Psychology Research, SAMHSA Guidelines, Privacy Protection)
-    - **Home Improvement and DIY Project Guide**
-    (RAG, Construction Tutorials, Tool Recommendations, Safety Guidelines, Material Cost Estimation, Home Depot API, Project Planning, Skill Assessment)
-    - **Language Learning Conversation Partner**
-    (RAG, Grammar Rules, Cultural Context, Pronunciation Guides, Translation Memory, Google Translate API, Speech Recognition, Progress Tracking)
-    - **Pet Care and Veterinary Information System**
-    (RAG, Animal Health Records, Breed Information, Vaccination Schedules, Emergency Care, Veterinary Literature, Pet Insurance, Behavioral Analysis)
-    - **Agricultural Crop Management Advisor**
-    (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
-    - **Music Discovery and Analysis Platform**
-    (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
-    - **Social Media Content Strategy Assistant**
-    (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
-    - **Environmental Impact Assessment Tool**
-    (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
-    - **Sports Analytics and Performance Tracker**
-    (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
-    - **Art History and Museum Guide**
-    (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
-    - **Genealogy and Family History Research**
-    (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
-    - **Cryptocurrency and Blockchain Intelligence**
-    (RAG, Market Analysis, White Papers, Trading Patterns, DeFi Protocols, CoinGecko API, Smart Contract Analysis, Risk Assessment)
-    - **Event Planning and Venue Management**
-    (RAG, Vendor Directories, Budget Planning, Guest Lists, Venue Specifications, Eventbrite API, Catering Menus, Timeline Management)
-    - **Podcast Content Discovery and Analysis**
-    (RAG, Episode Transcripts, Host Information, Topic Categorization, Listener Reviews, Spotify Podcast API, Audio Processing, Recommendation Engine)
-    - **Urban Planning and Smart City Solutions**
-    (RAG, Population Data, Infrastructure Reports, Traffic Patterns, Zoning Laws, City Planning Documents, GIS Integration, Public Transportation)
+    - **Smart Recipe and Nutrition Advisor**  
+      (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
+    - **Travel Planning and Destination Guide**  
+      (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
+    - **Personal Fashion and Style Consultant**  
+      (RAG, Clothing Catalogs, Style Trends, Body Type Analysis, Color Matching, Pinterest API, Image Recognition, Wardrobe Management)
+    - **Automotive Diagnostic and Repair Assistant**  
+      (RAG, Vehicle Manuals, Error Codes, Parts Catalogs, Maintenance Schedules, OBD-II Integration, 3D Model Visualization, Repair Videos)
+    - **Gaming Strategy and Walkthrough Helper**  
+      (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
+    - **Mental Health and Wellness Companion**  
+      (RAG, Therapy Techniques, Mindfulness Content, Mood Tracking, Crisis Resources, Psychology Research, SAMHSA Guidelines, Privacy Protection)
+    - **Home Improvement and DIY Project Guide**  
+      (RAG, Construction Tutorials, Tool Recommendations, Safety Guidelines, Material Cost Estimation, Home Depot API, Project Planning, Skill Assessment)
+    - **Language Learning Conversation Partner**  
+      (RAG, Grammar Rules, Cultural Context, Pronunciation Guides, Translation Memory, Google Translate API, Speech Recognition, Progress Tracking)
+    - **Pet Care and Veterinary Information System**  
+      (RAG, Animal Health Records, Breed Information, Vaccination Schedules, Emergency Care, Veterinary Literature, Pet Insurance, Behavioral Analysis)
+    - **Agricultural Crop Management Advisor**  
+      (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
+    - **Music Discovery and Analysis Platform**  
+      (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
+    - **Social Media Content Strategy Assistant**  
+      (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
+    - **Environmental Impact Assessment Tool**  
+      (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
+    - **Sports Analytics and Performance Tracker**  
+      (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
+    - **Art History and Museum Guide**  
+      (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
+    - **Genealogy and Family History Research**  
+      (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
+    - **Cryptocurrency and Blockchain Intelligence**  
+      (RAG, Market Analysis, White Papers, Trading Patterns, DeFi Protocols, CoinGecko API, Smart Contract Analysis, Risk Assessment)
+    - **Event Planning and Venue Management**  
+      (RAG, Vendor Directories, Budget Planning, Guest Lists, Venue Specifications, Eventbrite API, Catering Menus, Timeline Management)
+    - **Podcast Content Discovery and Analysis**  
+      (RAG, Episode Transcripts, Host Information, Topic Categorization, Listener Reviews, Spotify Podcast API, Audio Processing, Recommendation Engine)
+    - **Urban Planning and Smart City Solutions**  
+      (RAG, Population Data, Infrastructure Reports, Traffic Patterns, Zoning Laws, City Planning Documents, GIS Integration, Public Transportation)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (03-02)</small>
     - **Legal Document Assistant** 📗 [03-02-01.md](0-PROJECTS/03-02-01.md)  
