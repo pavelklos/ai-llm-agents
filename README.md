@@ -536,7 +536,7 @@
       (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
     - **Mental Health and Wellness Companion** 📗 [03-01-16.md](0-PROJECTS/03-01-16.md)  
       (RAG, Therapy Techniques, Mindfulness Content, Mood Tracking, Crisis Resources, Psychology Research, SAMHSA Guidelines, Privacy Protection)
-    - **Home Improvement and DIY Project Guide**  
+    - **Home Improvement and DIY Project Guide** 📗 [03-01-17.md](0-PROJECTS/03-01-17.md)  
       (RAG, Construction Tutorials, Tool Recommendations, Safety Guidelines, Material Cost Estimation, Home Depot API, Project Planning, Skill Assessment)
     - **Language Learning Conversation Partner**  
       (RAG, Grammar Rules, Cultural Context, Pronunciation Guides, Translation Memory, Google Translate API, Speech Recognition, Progress Tracking)
