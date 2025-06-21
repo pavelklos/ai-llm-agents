@@ -532,7 +532,7 @@
       (RAG, Clothing Catalogs, Style Trends, Body Type Analysis, Color Matching, Pinterest API, Image Recognition, Wardrobe Management)
     - **Automotive Diagnostic and Repair Assistant** 📗 [03-01-14.md](0-PROJECTS/03-01-14.md)  
       (RAG, Vehicle Manuals, Error Codes, Parts Catalogs, Maintenance Schedules, OBD-II Integration, 3D Model Visualization, Repair Videos)
-    - **Gaming Strategy and Walkthrough Helper**  
+    - **Gaming Strategy and Walkthrough Helper** 📗 [03-01-15.md](0-PROJECTS/03-01-15.md)  
       (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
     - **Mental Health and Wellness Companion**  
       (RAG, Therapy Techniques, Mindfulness Content, Mood Tracking, Crisis Resources, Psychology Research, SAMHSA Guidelines, Privacy Protection)
