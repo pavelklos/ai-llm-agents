@@ -530,7 +530,7 @@
       (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
     - **Personal Fashion and Style Consultant** 📗 [03-01-13.md](0-PROJECTS/03-01-13.md)  
       (RAG, Clothing Catalogs, Style Trends, Body Type Analysis, Color Matching, Pinterest API, Image Recognition, Wardrobe Management)
-    - **Automotive Diagnostic and Repair Assistant**  
+    - **Automotive Diagnostic and Repair Assistant** 📗 [03-01-14.md](0-PROJECTS/03-01-14.md)  
       (RAG, Vehicle Manuals, Error Codes, Parts Catalogs, Maintenance Schedules, OBD-II Integration, 3D Model Visualization, Repair Videos)
     - **Gaming Strategy and Walkthrough Helper**  
       (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
