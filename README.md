@@ -524,7 +524,7 @@
     - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)  
       (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
     ---
-    - **Smart Recipe and Nutrition Advisor**  
+    - **Smart Recipe and Nutrition Advisor** 📗 [03-01-11.md](0-PROJECTS/03-01-11.md)  
       (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
     - **Travel Planning and Destination Guide**  
       (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
