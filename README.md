@@ -562,7 +562,7 @@
       (RAG, Vendor Directories, Budget Planning, Guest Lists, Venue Specifications, Eventbrite API, Catering Menus, Timeline Management)
     - **Podcast Content Discovery and Analysis** 📗 [03-01-29a.md](0-PROJECTS/03-01-29a.md), [03-01-29b.md](0-PROJECTS/03-01-29b.md)  
       (RAG, Episode Transcripts, Host Information, Topic Categorization, Listener Reviews, Spotify Podcast API, Audio Processing, Recommendation Engine)
-    - **Urban Planning and Smart City Solutions** 📗 [03-01-30a.md](0-PROJECTS/03-01-30a.md)  
+    - **Urban Planning and Smart City Solutions** 📗 [03-01-30a.md](0-PROJECTS/03-01-30a.md), [03-01-30b.md](0-PROJECTS/03-01-30b.md)  
       (RAG, Population Data, Infrastructure Reports, Traffic Patterns, Zoning Laws, City Planning Documents, GIS Integration, Public Transportation)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (03-02)</small>
