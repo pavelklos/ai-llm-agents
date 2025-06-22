@@ -546,7 +546,7 @@
       (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
     - **Music Discovery and Analysis Platform** 📗 [03-01-21a.md](0-PROJECTS/03-01-21a.md), [03-01-21b.md](0-PROJECTS/03-01-21b.md), [03-01-21c.md](0-PROJECTS/03-01-21c.md), [03-01-21d.md](0-PROJECTS/03-01-21d.md), [03-01-21e.md](0-PROJECTS/03-01-21e.md)  
       (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
-    - **Social Media Content Strategy Assistant** 📗 [03-01-22a.md](0-PROJECTS/03-01-22a.md)  
+    - **Social Media Content Strategy Assistant** 📗 [03-01-22a.md](0-PROJECTS/03-01-22a.md), [03-01-22b.md](0-PROJECTS/03-01-22b.md)  
       (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
     - **Environmental Impact Assessment Tool**  
       (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
