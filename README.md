@@ -550,7 +550,7 @@
       (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
     - **Environmental Impact Assessment Tool** 📗 [03-01-23.md](0-PROJECTS/03-01-23.md)  
       (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
-    - **Sports Analytics and Performance Tracker**  
+    - **Sports Analytics and Performance Tracker** 📗 [03-01-24.md](0-PROJECTS/03-01-24.md)  
       (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
     - **Art History and Museum Guide**  
       (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
