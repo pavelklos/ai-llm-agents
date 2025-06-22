@@ -554,7 +554,7 @@
       (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
     - **Art History and Museum Guide** 📗 [03-01-25a.md](0-PROJECTS/03-01-25a.md), [03-01-25b.md](0-PROJECTS/03-01-25b.md)  
       (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
-    - **Genealogy and Family History Research**  
+    - **Genealogy and Family History Research** 📗 [03-01-26.md](0-PROJECTS/03-01-26.md)  
       (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
     - **Cryptocurrency and Blockchain Intelligence**  
       (RAG, Market Analysis, White Papers, Trading Patterns, DeFi Protocols, CoinGecko API, Smart Contract Analysis, Risk Assessment)
