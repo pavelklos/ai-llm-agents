@@ -544,7 +544,7 @@
       (RAG, Animal Health Records, Breed Information, Vaccination Schedules, Emergency Care, Veterinary Literature, Pet Insurance, Behavioral Analysis)
     - **Agricultural Crop Management Advisor** 📗 [03-01-20.md](0-PROJECTS/03-01-20.md)  
       (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
-    - **Music Discovery and Analysis Platform** 📗 [03-01-21a.md](0-PROJECTS/03-01-21a.md)  
+    - **Music Discovery and Analysis Platform** 📗 [03-01-21a.md](0-PROJECTS/03-01-21a.md), [03-01-21b.md](0-PROJECTS/03-01-21b.md)  
       (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
     - **Social Media Content Strategy Assistant**  
       (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
