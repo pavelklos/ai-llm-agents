@@ -556,7 +556,7 @@
       (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
     - **Genealogy and Family History Research** 📗 [03-01-26.md](0-PROJECTS/03-01-26.md)  
       (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
-    - **Cryptocurrency and Blockchain Intelligence**  
+    - **Cryptocurrency and Blockchain Intelligence** 📗 [03-01-27.md](0-PROJECTS/03-01-27.md)  
       (RAG, Market Analysis, White Papers, Trading Patterns, DeFi Protocols, CoinGecko API, Smart Contract Analysis, Risk Assessment)
     - **Event Planning and Venue Management**  
       (RAG, Vendor Directories, Budget Planning, Guest Lists, Venue Specifications, Eventbrite API, Catering Menus, Timeline Management)
