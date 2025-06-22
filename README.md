@@ -552,7 +552,7 @@
       (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
     - **Sports Analytics and Performance Tracker** 📗 [03-01-24.md](0-PROJECTS/03-01-24.md)  
       (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
-    - **Art History and Museum Guide**  
+    - **Art History and Museum Guide** 📗 [03-01-25a.md](0-PROJECTS/03-01-25a.md)  
       (RAG, Artwork Information, Artist Biographies, Exhibition Catalogs, Cultural Context, Museum APIs, Image Analysis, Virtual Tours)
     - **Genealogy and Family History Research**  
       (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
