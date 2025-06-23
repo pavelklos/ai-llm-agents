@@ -269,7 +269,7 @@
       (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)  
     - **Healthcare Documentation System** 📗 [01-01-07.md](0-PROJECTS/01-01-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-07-CZ.md](0-PROJECTS/01-01-07-CZ.md)  
       (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)  
-    - **IoT Device Management Platform** 📗 [01-01-08.md](0-PROJECTS/01-01-08.md)  
+    - **IoT Device Management Platform** 📗 [01-01-08.md](0-PROJECTS/01-01-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-08-CZ.md](0-PROJECTS/01-01-08-CZ.md)  
       (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)  
     - **Educational Learning Companion** 📗 [01-01-09.md](0-PROJECTS/01-01-09.md)  
       (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)  
