@@ -257,7 +257,7 @@
   - <small>Project selection by [Claude](https://claude.ai/) (01-01)</small>
     - **Smart Code Assistant** 📗 [01-01-01a.md](0-PROJECTS/01-01-01a.md), [01-01-01b.md](0-PROJECTS/01-01-01b.md), [01-01-01c.md](0-PROJECTS/01-01-01c.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-01-CZ.md](0-PROJECTS/01-01-01-CZ.md)  
       (MCP, IDE integration, code analysis, Git repositories, documentation generation, TypeScript/Python)  
-    - **Personal Knowledge Manager** 📗 [01-01-02.md](0-PROJECTS/01-01-02.md)  
+    - **Personal Knowledge Manager** 📗 [01-01-02.md](0-PROJECTS/01-01-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-02-CZ.md](0-PROJECTS/01-01-02-CZ.md)  
       (MCP, vector databases, RAG, document indexing, semantic search, note-taking, Obsidian/Notion integration)  
     - **Enterprise Data Analytics Dashboard** 📗 [01-01-03.md](0-PROJECTS/01-01-03.md)  
       (MCP, SQL databases, business intelligence, data visualization, real-time reporting, PostgreSQL/MySQL)  
