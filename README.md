@@ -265,7 +265,7 @@
       (MCP, agent orchestration, ticket management, knowledge base integration, CRM systems, Zendesk/Salesforce)  
     - **Content Creation & SEO Optimizer** 📗 [01-01-05.md](0-PROJECTS/01-01-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-05-CZ.md](0-PROJECTS/01-01-05-CZ.md)  
       (MCP, web scraping, keyword analysis, content planning, social media APIs, WordPress/Shopify)  
-    - **Financial Trading Assistant** 📗 [01-01-06.md](0-PROJECTS/01-01-06.md)  
+    - **Financial Trading Assistant** 📗 [01-01-06.md](0-PROJECTS/01-01-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-06-CZ.md](0-PROJECTS/01-01-06-CZ.md)  
       (MCP, market data APIs, portfolio management, risk analysis, trading strategies, Bloomberg/Alpha Vantage)  
     - **Healthcare Documentation System** 📗 [01-01-07.md](0-PROJECTS/01-01-07.md)  
       (MCP, medical records, FHIR standards, patient data analysis, compliance monitoring, HIPAA)  
