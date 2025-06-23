@@ -273,7 +273,7 @@
       (MCP, sensor networks, real-time monitoring, device control, MQTT, edge computing, AWS IoT)  
     - **Educational Learning Companion** 📗 [01-01-09.md](0-PROJECTS/01-01-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-09-CZ.md](0-PROJECTS/01-01-09-CZ.md)  
       (MCP, adaptive learning, progress tracking, curriculum management, LMS integration, personalized tutoring)  
-    - **Automated DevOps Pipeline Manager** 📗 [01-01-10.md](0-PROJECTS/01-01-10.md)  
+    - **Automated DevOps Pipeline Manager** 📗 [01-01-10.md](0-PROJECTS/01-01-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-10-CZ.md](0-PROJECTS/01-01-10-CZ.md)  
       (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
     ---
     - **Smart City Traffic Optimization** 📗 [01-01-11.md](0-PROJECTS/01-01-11.md)  
