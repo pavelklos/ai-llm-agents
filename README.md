@@ -276,7 +276,7 @@
     - **Automated DevOps Pipeline Manager** 📗 [01-01-10.md](0-PROJECTS/01-01-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-10-CZ.md](0-PROJECTS/01-01-10-CZ.md)  
       (MCP, CI/CD orchestration, infrastructure monitoring, deployment automation, Docker/Kubernetes, GitHub Actions)
     ---
-    - **Smart City Traffic Optimization** 📗 [01-01-11.md](0-PROJECTS/01-01-11.md)  
+    - **Smart City Traffic Optimization** 📗 [01-01-11.md](0-PROJECTS/01-01-11.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-11-CZ.md](0-PROJECTS/01-01-11-CZ.md)  
       (MCP, traffic sensors, route planning, congestion prediction, smart signals, urban mobility, Google Maps API)
     - **AI-Powered Legal Research Assistant** 📗 [01-01-12.md](0-PROJECTS/01-01-12.md)  
       (MCP, case law databases, contract analysis, legal precedents, document review, LexisNexis/Westlaw)
