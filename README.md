@@ -286,7 +286,7 @@
       (MCP, Solidity analysis, vulnerability detection, gas optimization, Web3 integration, Ethereum/Polygon)
     - **Mental Health Monitoring Platform** 📗 [01-01-15.md](0-PROJECTS/01-01-15.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-15-CZ.md](0-PROJECTS/01-01-15-CZ.md)  
       (MCP, mood tracking, behavioral analysis, therapy recommendations, crisis intervention, wearable devices)
-    - **Agricultural Crop Management System** 📗 [01-01-16.md](0-PROJECTS/01-01-16.md)  
+    - **Agricultural Crop Management System** 📗 [01-01-16.md](0-PROJECTS/01-01-16.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-16-CZ.md](0-PROJECTS/01-01-16-CZ.md)  
       (MCP, satellite imagery, soil sensors, weather data, yield prediction, precision farming, John Deere APIs)
     - **Voice-Activated Home Automation** 📗 [01-01-17.md](0-PROJECTS/01-01-17.md)  
       (MCP, natural language processing, IoT device control, voice recognition, smart home protocols, Alexa/Google Assistant)
