@@ -278,7 +278,7 @@
     ---
     - **Smart City Traffic Optimization** 📗 [01-01-11.md](0-PROJECTS/01-01-11.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-11-CZ.md](0-PROJECTS/01-01-11-CZ.md)  
       (MCP, traffic sensors, route planning, congestion prediction, smart signals, urban mobility, Google Maps API)
-    - **AI-Powered Legal Research Assistant** 📗 [01-01-12.md](0-PROJECTS/01-01-12.md)  
+    - **AI-Powered Legal Research Assistant** 📗 [01-01-12.md](0-PROJECTS/01-01-12.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-12-CZ.md](0-PROJECTS/01-01-12-CZ.md)  
       (MCP, case law databases, contract analysis, legal precedents, document review, LexisNexis/Westlaw)
     - **Virtual Reality Training Simulator** 📗 [01-01-13.md](0-PROJECTS/01-01-13.md)  
       (MCP, VR environments, skill assessment, immersive learning, Unity/Unreal Engine, haptic feedback)
