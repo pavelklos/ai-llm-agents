@@ -290,7 +290,7 @@
       (MCP, satellite imagery, soil sensors, weather data, yield prediction, precision farming, John Deere APIs)
     - **Voice-Activated Home Automation** 📗 [01-01-17.md](0-PROJECTS/01-01-17.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-17-CZ.md](0-PROJECTS/01-01-17-CZ.md)  
       (MCP, natural language processing, IoT device control, voice recognition, smart home protocols, Alexa/Google Assistant)
-    - **Cybersecurity Threat Intelligence Hub** 📗 [01-01-18.md](0-PROJECTS/01-01-18.md)  
+    - **Cybersecurity Threat Intelligence Hub** 📗 [01-01-18.md](0-PROJECTS/01-01-18.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-18-CZ.md](0-PROJECTS/01-01-18-CZ.md)  
       (MCP, threat detection, vulnerability scanning, incident response, SIEM integration, malware analysis)
     - **Digital Art Generation Studio** 📗 [01-01-19.md](0-PROJECTS/01-01-19.md)  
       (MCP, style transfer, image synthesis, creative collaboration, NFT marketplace, Stable Diffusion/DALL-E)
