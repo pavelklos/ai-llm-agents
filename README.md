@@ -284,7 +284,7 @@
       (MCP, VR environments, skill assessment, immersive learning, Unity/Unreal Engine, haptic feedback)
     - **Blockchain Smart Contract Auditor** 📗 [01-01-14.md](0-PROJECTS/01-01-14.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-14-CZ.md](0-PROJECTS/01-01-14-CZ.md)  
       (MCP, Solidity analysis, vulnerability detection, gas optimization, Web3 integration, Ethereum/Polygon)
-    - **Mental Health Monitoring Platform** 📗 [01-01-15.md](0-PROJECTS/01-01-15.md)  
+    - **Mental Health Monitoring Platform** 📗 [01-01-15.md](0-PROJECTS/01-01-15.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-15-CZ.md](0-PROJECTS/01-01-15-CZ.md)  
       (MCP, mood tracking, behavioral analysis, therapy recommendations, crisis intervention, wearable devices)
     - **Agricultural Crop Management System** 📗 [01-01-16.md](0-PROJECTS/01-01-16.md)  
       (MCP, satellite imagery, soil sensors, weather data, yield prediction, precision farming, John Deere APIs)
