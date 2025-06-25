@@ -300,7 +300,7 @@
       (MCP, research papers, hypothesis generation, experiment design, statistical analysis, academic databases)
     - **Real Estate Market Predictor** 📗 [01-01-22.md](0-PROJECTS/01-01-22.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-22-CZ.md](0-PROJECTS/01-01-22-CZ.md)  
       (MCP, property valuation, market trends, demographic analysis, investment opportunities, Zillow/Redfin APIs)
-    - **Gaming AI Companion System** 📗 [01-01-23.md](0-PROJECTS/01-01-23.md)  
+    - **Gaming AI Companion System** 📗 [01-01-23.md](0-PROJECTS/01-01-23.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-23-CZ.md](0-PROJECTS/01-01-23-CZ.md)  
       (MCP, player behavior analysis, dynamic difficulty adjustment, personalized content, gaming APIs, Steam/Epic Games)
     - **Environmental Monitoring Network** 📗 [01-01-24.md](0-PROJECTS/01-01-24.md)  
       (MCP, air quality sensors, climate data, pollution tracking, environmental compliance, EPA databases)
