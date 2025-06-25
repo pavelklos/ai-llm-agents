@@ -314,7 +314,7 @@
       (MCP, flight path optimization, autonomous navigation, payload delivery, airspace compliance, DJI/Parrot SDKs)
     - **Social Media Sentiment Analyzer** 📗 [01-01-29.md](0-PROJECTS/01-01-29.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-29-CZ.md](0-PROJECTS/01-01-29-CZ.md)  
       (MCP, brand monitoring, trend analysis, influencer identification, crisis management, Twitter/Instagram APIs)
-    - **Quantum Computing Simulator** 📗 [01-01-30.md](0-PROJECTS/01-01-30.md)  
+    - **Quantum Computing Simulator** 📗 [01-01-30.md](0-PROJECTS/01-01-30.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-30-CZ.md](0-PROJECTS/01-01-30-CZ.md)  
       (MCP, quantum algorithms, circuit optimization, error correction, quantum machine learning, IBM Qiskit/Google Cirq)
   
   - <small>Project selection by [GPT](https://chatgpt.com/) (01-02)</small>
