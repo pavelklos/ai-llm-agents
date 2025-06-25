@@ -304,7 +304,7 @@
       (MCP, player behavior analysis, dynamic difficulty adjustment, personalized content, gaming APIs, Steam/Epic Games)
     - **Environmental Monitoring Network** 📗 [01-01-24.md](0-PROJECTS/01-01-24.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-24-CZ.md](0-PROJECTS/01-01-24-CZ.md)  
       (MCP, air quality sensors, climate data, pollution tracking, environmental compliance, EPA databases)
-    - **Language Learning Immersion Platform** 📗 [01-01-25.md](0-PROJECTS/01-01-25.md)  
+    - **Language Learning Immersion Platform** 📗 [01-01-25.md](0-PROJECTS/01-01-25.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-25-CZ.md](0-PROJECTS/01-01-25-CZ.md)  
       (MCP, speech recognition, pronunciation coaching, cultural context, adaptive curriculum, Duolingo/Babbel)
     - **3D Modeling Automation Tool** 📗 [01-01-26.md](0-PROJECTS/01-01-26.md)  
       (MCP, CAD integration, parametric design, manufacturing optimization, Blender/AutoCAD, 3D printing)
