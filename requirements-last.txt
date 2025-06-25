@@ -110,6 +110,7 @@ google-resumable-media==2.7.2
 googleapis-common-protos==1.69.1
 gpsoauth==1.1.1
 gptcache==0.1.44
+gpxpy==1.6.2
 gradio==5.21.0
 gradio_client==1.7.2
 graphql-core==3.2.6
