@@ -312,7 +312,7 @@
       (MCP, audio analysis, melody generation, chord progressions, genre classification, Spotify/Apple Music APIs)
     - **Drone Fleet Management System** 📗 [01-01-28.md](0-PROJECTS/01-01-28.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-28-CZ.md](0-PROJECTS/01-01-28-CZ.md)  
       (MCP, flight path optimization, autonomous navigation, payload delivery, airspace compliance, DJI/Parrot SDKs)
-    - **Social Media Sentiment Analyzer** 📗 [01-01-29.md](0-PROJECTS/01-01-29.md)  
+    - **Social Media Sentiment Analyzer** 📗 [01-01-29.md](0-PROJECTS/01-01-29.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-01-29-CZ.md](0-PROJECTS/01-01-29-CZ.md)  
       (MCP, brand monitoring, trend analysis, influencer identification, crisis management, Twitter/Instagram APIs)
     - **Quantum Computing Simulator** 📗 [01-01-30.md](0-PROJECTS/01-01-30.md)  
       (MCP, quantum algorithms, circuit optimization, error correction, quantum machine learning, IBM Qiskit/Google Cirq)
