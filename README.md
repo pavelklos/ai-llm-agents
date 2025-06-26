@@ -330,7 +330,7 @@
     - **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-04-CZ.md](0-PROJECTS/01-02-04-CZ.md)  
       *(MCP, LangChain, GPT-4-turbo, VS Code Plugin, RAG, Embedding Index, Git Integration)*  
       → Interacts with local/global codebase using embeddings, tracks dev context with MCP layers for smarter Q&A.
-    - **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md)  
+    - **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-05-CZ.md](0-PROJECTS/01-02-05-CZ.md)  
       *(MCP, LangChain Agents, Multi-Modal RAG, Context Pruning, Pinecone, OpenAI Functions)*  
       → Allows uploading and querying across books, PDFs, articles, and websites with persistent context memory.
     - **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md)  
