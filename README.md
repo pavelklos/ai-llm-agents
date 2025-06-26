@@ -339,7 +339,7 @@
     - **Financial Forecasting Chatbot** 📗 [01-02-07.md](0-PROJECTS/01-02-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-07-CZ.md](0-PROJECTS/01-02-07-CZ.md)  
       *(MCP, Time-Series Data, LangChain, LLM + Tools, CSV Ingestion, Pandas Agent, GPT-4o)*  
       → Uses historical data, injects context using MCP for accurate financial forecasting and Q&A.
-    - **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md)  
+    - **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-08-CZ.md](0-PROJECTS/01-02-08-CZ.md)  
       *(MCP, CrewAI, LangGraph, Character Memory, World Context, Function Calling, JSON Tools)*  
       → Game master for text-based RPGs using persistent character backstories and evolving world state.
     - **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md)  
