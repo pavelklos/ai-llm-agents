@@ -327,7 +327,7 @@
     - **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-03-CZ.md](0-PROJECTS/01-02-03-CZ.md)  
       *(MCP, MedPrompt, LangGraph, OpenAI GPT-4o, Patient History Memory, Retrieval, JSON Templates)*  
       → Ingests structured patient data, retrieves similar cases, and generates diagnosis with justification.
-    - **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md)  
+    - **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-04-CZ.md](0-PROJECTS/01-02-04-CZ.md)  
       *(MCP, LangChain, GPT-4-turbo, VS Code Plugin, RAG, Embedding Index, Git Integration)*  
       → Interacts with local/global codebase using embeddings, tracks dev context with MCP layers for smarter Q&A.
     - **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md)  
