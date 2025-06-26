@@ -333,7 +333,7 @@
     - **Multi-Document Research Agent** 📗 [01-02-05.md](0-PROJECTS/01-02-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-05-CZ.md](0-PROJECTS/01-02-05-CZ.md)  
       *(MCP, LangChain Agents, Multi-Modal RAG, Context Pruning, Pinecone, OpenAI Functions)*  
       → Allows uploading and querying across books, PDFs, articles, and websites with persistent context memory.
-    - **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md)  
+    - **Customer Support Copilot (Multi-Turn Memory)** 📗 [01-02-06.md](0-PROJECTS/01-02-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-06-CZ.md](0-PROJECTS/01-02-06-CZ.md)  
       *(MCP, LangGraph, GPT-4o, CRM Integration, Multi-Turn Chat Memory, Tools, Retrieval)*  
       → Handles long support sessions while maintaining context over past interactions using structured memory.
     - **Financial Forecasting Chatbot** 📗 [01-02-07.md](0-PROJECTS/01-02-07.md)  
