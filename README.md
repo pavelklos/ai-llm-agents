@@ -321,7 +321,7 @@
     - **Legal Document Assistant** 📗 [01-02-01.md](0-PROJECTS/01-02-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-01-CZ.md](0-PROJECTS/01-02-01-CZ.md)  
       *(MCP, LangChain, Pinecone, Retrieval-Augmented Generation, PDF Parsing, GPT-4o, Memory, Agents)*  
       → Upload legal documents (PDF), extract clauses, answer legal queries using structured context.
-    - **Enterprise Email Summarizer + Action Planner** 📗 [01-02-02.md](0-PROJECTS/01-02-02.md)  
+    - **Enterprise Email Summarizer + Action Planner** 📗 [01-02-02.md](0-PROJECTS/01-02-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-02-CZ.md](0-PROJECTS/01-02-02-CZ.md)  
       *(MCP, OpenAI GPT-4o, Context Windows, Task Memory, Prompt Engineering, LLM Agents)*  
       → Summarizes company emails, extracts action items, and plans tasks using MCP-based multi-turn context injection.
     - **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md)  
