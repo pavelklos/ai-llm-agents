@@ -324,7 +324,7 @@
     - **Enterprise Email Summarizer + Action Planner** 📗 [01-02-02.md](0-PROJECTS/01-02-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-02-CZ.md](0-PROJECTS/01-02-02-CZ.md)  
       *(MCP, OpenAI GPT-4o, Context Windows, Task Memory, Prompt Engineering, LLM Agents)*  
       → Summarizes company emails, extracts action items, and plans tasks using MCP-based multi-turn context injection.
-    - **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md)  
+    - **Medical Diagnosis and Treatment Advisor** 📗 [01-02-03.md](0-PROJECTS/01-02-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-03-CZ.md](0-PROJECTS/01-02-03-CZ.md)  
       *(MCP, MedPrompt, LangGraph, OpenAI GPT-4o, Patient History Memory, Retrieval, JSON Templates)*  
       → Ingests structured patient data, retrieves similar cases, and generates diagnosis with justification.
     - **Codebase Companion for Developers** 📗 [01-02-04.md](0-PROJECTS/01-02-04.md)  
