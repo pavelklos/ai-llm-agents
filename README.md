@@ -342,7 +342,7 @@
     - **Multi-Agent Game Master (RPG)** 📗 [01-02-08.md](0-PROJECTS/01-02-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-08-CZ.md](0-PROJECTS/01-02-08-CZ.md)  
       *(MCP, CrewAI, LangGraph, Character Memory, World Context, Function Calling, JSON Tools)*  
       → Game master for text-based RPGs using persistent character backstories and evolving world state.
-    - **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md)  
+    - **Scientific Paper Translator & Explainer** 📗 [01-02-09.md](0-PROJECTS/01-02-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-02-09-CZ.md](0-PROJECTS/01-02-09-CZ.md)  
       *(MCP, Arxiv API, LangChain, Translator Tool, Citation Retriever, Summary Memory)*  
       → Parses scientific papers and translates/explains them using retrieved context, citations, and summary layers.
     - **Interactive Education Tutor (All Subjects)** 📗 [01-02-10.md](0-PROJECTS/01-02-10.md)  
