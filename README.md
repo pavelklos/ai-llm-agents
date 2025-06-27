@@ -358,7 +358,7 @@
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
     - **MCP-Based Multi-Agent Simulation Environment** 📗 [01-03-04.md](0-PROJECTS/01-03-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-04-CZ.md](0-PROJECTS/01-03-04-CZ.md)  
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
-    - **Enterprise Knowledge Management with MCP** 📗 [01-03-05.md](0-PROJECTS/01-03-05.md)  
+    - **Enterprise Knowledge Management with MCP** 📗 [01-03-05.md](0-PROJECTS/01-03-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-05-CZ.md](0-PROJECTS/01-03-05-CZ.md)  
       (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
     - **AI-Powered Research Paper Summarization (MCP-Driven)** 📗 [01-03-06.md](0-PROJECTS/01-03-06.md)  
       (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
