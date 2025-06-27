@@ -356,7 +356,7 @@
       (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
     - **Personalized Learning Assistant Using MCP** 📗 [01-03-03.md](0-PROJECTS/01-03-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-03-CZ.md](0-PROJECTS/01-03-03-CZ.md)  
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
-    - **MCP-Based Multi-Agent Simulation Environment** 📗 [01-03-04.md](0-PROJECTS/01-03-04.md)  
+    - **MCP-Based Multi-Agent Simulation Environment** 📗 [01-03-04.md](0-PROJECTS/01-03-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-04-CZ.md](0-PROJECTS/01-03-04-CZ.md)  
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
     - **Enterprise Knowledge Management with MCP** 📗 [01-03-05.md](0-PROJECTS/01-03-05.md)  
       (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
