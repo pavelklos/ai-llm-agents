@@ -360,7 +360,7 @@
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
     - **Enterprise Knowledge Management with MCP** 📗 [01-03-05.md](0-PROJECTS/01-03-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-05-CZ.md](0-PROJECTS/01-03-05-CZ.md)  
       (*MCP, Vector Databases, Document Embeddings, Retrieval-Augmented Generation, LlamaIndex*)
-    - **AI-Powered Research Paper Summarization (MCP-Driven)** 📗 [01-03-06.md](0-PROJECTS/01-03-06.md)  
+    - **AI-Powered Research Paper Summarization (MCP-Driven)** 📗 [01-03-06.md](0-PROJECTS/01-03-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-06-CZ.md](0-PROJECTS/01-03-06-CZ.md)  
       (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
     - **Context-Aware Code Generation & Debugging Tool** 📗 [01-03-07.md](0-PROJECTS/01-03-07.md)  
       (*MCP, GitHub Copilot Alternative, AST Parsing, Error Correction, MCP-Guided Prompts*)
