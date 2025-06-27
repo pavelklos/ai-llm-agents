@@ -364,7 +364,7 @@
       (*MCP, Academic NLP, Abstractive Summarization, Citation Graphs, BERTopic*)
     - **Context-Aware Code Generation & Debugging Tool** 📗 [01-03-07.md](0-PROJECTS/01-03-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-07-CZ.md](0-PROJECTS/01-03-07-CZ.md)  
       (*MCP, GitHub Copilot Alternative, AST Parsing, Error Correction, MCP-Guided Prompts*)
-    - **MCP-Enhanced Multilingual Translation System** 📗 [01-03-08.md](0-PROJECTS/01-03-08.md)  
+    - **MCP-Enhanced Multilingual Translation System** 📗 [01-03-08.md](0-PROJECTS/01-03-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-08-CZ.md](0-PROJECTS/01-03-08-CZ.md)  
       (*MCP, Low-Resource Languages, Context Retention, LLM Alignment, OPUS Models*)
     - **Dynamic Storytelling & Interactive Fiction Platform** 📗 [01-03-09.md](0-PROJECTS/01-03-09.md)  
       (*MCP, Narrative Generation, User-Driven Plotlines, MCP Memory Layers, Stable Diffusion*)
