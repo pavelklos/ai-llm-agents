@@ -354,7 +354,7 @@
       (*MCP, Conversational AI, Context-Aware Dialogs, RAG, Fine-Tuning, LangChain*)
     - **Automated Legal Document Analyzer with MCP** 📗 [01-03-02.md](0-PROJECTS/01-03-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-02-CZ.md](0-PROJECTS/01-03-02-CZ.md)  
       (*MCP, NLP, Contract Review, Semantic Search, Zero-Shot Classification, Haystack*)
-    - **Personalized Learning Assistant Using MCP** 📗 [01-03-03.md](0-PROJECTS/01-03-03.md)  
+    - **Personalized Learning Assistant Using MCP** 📗 [01-03-03.md](0-PROJECTS/01-03-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [01-03-03-CZ.md](0-PROJECTS/01-03-03-CZ.md)  
       (*MCP, Adaptive Education, Knowledge Graphs, GPT-4 Integration, Feedback Loops*)
     - **MCP-Based Multi-Agent Simulation Environment** 📗 [01-03-04.md](0-PROJECTS/01-03-04.md)  
       (*MCP, Autonomous Agents, Game Theory, Emergent Behavior, LLM Orchestration*)
