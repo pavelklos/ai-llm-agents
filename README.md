@@ -382,7 +382,7 @@
       (Knowledge Discovery, Literature Review, Hypothesis Generation, Peer Review, Academic Research Coordination)
     - **Distributed Customer Service Ecosystem** 📗 [02-01-04.md](0-PROJECTS/02-01-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-04-CZ.md](0-PROJECTS/02-01-04-CZ.md)  
       (Natural Language Processing, Sentiment Analysis, Ticket Routing, Escalation Management, Multi-channel Support)
-    - **Supply Chain Optimization Platform** 📗 [02-01-05.md](0-PROJECTS/02-01-05.md)  
+    - **Supply Chain Optimization Platform** 📗 [02-01-05.md](0-PROJECTS/02-01-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-05-CZ.md](0-PROJECTS/02-01-05-CZ.md)  
       (Logistics Coordination, Inventory Management, Demand Forecasting, Supplier Negotiation, Risk Assessment Agents)
     - **Personalized Learning Management System** 📗 [02-01-06.md](0-PROJECTS/02-01-06.md)  
       (Adaptive Learning, Content Curation, Student Assessment, Progress Tracking, Educational Resource Coordination)
