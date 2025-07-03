@@ -388,7 +388,7 @@
       (Adaptive Learning, Content Curation, Student Assessment, Progress Tracking, Educational Resource Coordination)
     - **Healthcare Diagnosis and Treatment Planning** 📗 [02-01-07.md](0-PROJECTS/02-01-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-07-CZ.md](0-PROJECTS/02-01-07-CZ.md)  
       (Medical Knowledge Integration, Symptom Analysis, Treatment Recommendation, Drug Interaction Checking, Clinical Decision Support)
-    - **Real Estate Market Analysis and Recommendation Engine** 📗 [02-01-08.md](0-PROJECTS/02-01-08.md)  
+    - **Real Estate Market Analysis and Recommendation Engine** 📗 [02-01-08.md](0-PROJECTS/02-01-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-08-CZ.md](0-PROJECTS/02-01-08-CZ.md)  
       (Property Valuation, Market Trend Analysis, Investment Advisory, Neighborhood Assessment, Client Matching)
     - **Cybersecurity Threat Detection and Response Network** 📗 [02-01-09.md](0-PROJECTS/02-01-09.md)  
       (Anomaly Detection, Threat Intelligence, Incident Response, Vulnerability Assessment, Security Policy Enforcement)
