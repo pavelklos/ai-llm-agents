@@ -386,7 +386,7 @@
       (Logistics Coordination, Inventory Management, Demand Forecasting, Supplier Negotiation, Risk Assessment Agents)
     - **Personalized Learning Management System** 📗 [02-01-06.md](0-PROJECTS/02-01-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-06-CZ.md](0-PROJECTS/02-01-06-CZ.md)  
       (Adaptive Learning, Content Curation, Student Assessment, Progress Tracking, Educational Resource Coordination)
-    - **Healthcare Diagnosis and Treatment Planning** 📗 [02-01-07.md](0-PROJECTS/02-01-07.md)  
+    - **Healthcare Diagnosis and Treatment Planning** 📗 [02-01-07.md](0-PROJECTS/02-01-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-07-CZ.md](0-PROJECTS/02-01-07-CZ.md)  
       (Medical Knowledge Integration, Symptom Analysis, Treatment Recommendation, Drug Interaction Checking, Clinical Decision Support)
     - **Real Estate Market Analysis and Recommendation Engine** 📗 [02-01-08.md](0-PROJECTS/02-01-08.md)  
       (Property Valuation, Market Trend Analysis, Investment Advisory, Neighborhood Assessment, Client Matching)
