@@ -378,7 +378,7 @@
       (Financial Markets, Risk Management, Portfolio Optimization, Real-time Decision Making, Market Analysis Agents)
     - **Smart City Traffic Management System** 📗 [02-01-02.md](0-PROJECTS/02-01-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-02-CZ.md](0-PROJECTS/02-01-02-CZ.md)  
       (IoT Integration, Traffic Flow Optimization, Emergency Response Coordination, Predictive Analytics, Urban Planning Agents)
-    - **Collaborative Research Assistant Network** 📗 [02-01-03.md](0-PROJECTS/02-01-03.md)  
+    - **Collaborative Research Assistant Network** 📗 [02-01-03.md](0-PROJECTS/02-01-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-03-CZ.md](0-PROJECTS/02-01-03-CZ.md)  
       (Knowledge Discovery, Literature Review, Hypothesis Generation, Peer Review, Academic Research Coordination)
     - **Distributed Customer Service Ecosystem** 📗 [02-01-04.md](0-PROJECTS/02-01-04.md)  
       (Natural Language Processing, Sentiment Analysis, Ticket Routing, Escalation Management, Multi-channel Support)
