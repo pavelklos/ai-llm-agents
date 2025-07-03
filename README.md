@@ -392,7 +392,7 @@
       (Property Valuation, Market Trend Analysis, Investment Advisory, Neighborhood Assessment, Client Matching)
     - **Cybersecurity Threat Detection and Response Network** 📗 [02-01-09.md](0-PROJECTS/02-01-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-09-CZ.md](0-PROJECTS/02-01-09-CZ.md)  
       (Anomaly Detection, Threat Intelligence, Incident Response, Vulnerability Assessment, Security Policy Enforcement)
-    - **Content Creation and Marketing Automation Hub** 📗 [02-01-10.md](0-PROJECTS/02-01-10.md)  
+    - **Content Creation and Marketing Automation Hub** 📗 [02-01-10.md](0-PROJECTS/02-01-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-10-CZ.md](0-PROJECTS/02-01-10-CZ.md)  
       (Content Strategy, SEO Optimization, Social Media Management, Campaign Performance Analysis, Brand Voice Consistency)
     ---
     - **Autonomous Game Development Studio** 📗 [02-01-11.md](0-PROJECTS/02-01-11.md)  
