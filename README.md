@@ -390,7 +390,7 @@
       (Medical Knowledge Integration, Symptom Analysis, Treatment Recommendation, Drug Interaction Checking, Clinical Decision Support)
     - **Real Estate Market Analysis and Recommendation Engine** 📗 [02-01-08.md](0-PROJECTS/02-01-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-08-CZ.md](0-PROJECTS/02-01-08-CZ.md)  
       (Property Valuation, Market Trend Analysis, Investment Advisory, Neighborhood Assessment, Client Matching)
-    - **Cybersecurity Threat Detection and Response Network** 📗 [02-01-09.md](0-PROJECTS/02-01-09.md)  
+    - **Cybersecurity Threat Detection and Response Network** 📗 [02-01-09.md](0-PROJECTS/02-01-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-09-CZ.md](0-PROJECTS/02-01-09-CZ.md)  
       (Anomaly Detection, Threat Intelligence, Incident Response, Vulnerability Assessment, Security Policy Enforcement)
     - **Content Creation and Marketing Automation Hub** 📗 [02-01-10.md](0-PROJECTS/02-01-10.md)  
       (Content Strategy, SEO Optimization, Social Media Management, Campaign Performance Analysis, Brand Voice Consistency)
