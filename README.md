@@ -380,7 +380,7 @@
       (IoT Integration, Traffic Flow Optimization, Emergency Response Coordination, Predictive Analytics, Urban Planning Agents)
     - **Collaborative Research Assistant Network** 📗 [02-01-03.md](0-PROJECTS/02-01-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-03-CZ.md](0-PROJECTS/02-01-03-CZ.md)  
       (Knowledge Discovery, Literature Review, Hypothesis Generation, Peer Review, Academic Research Coordination)
-    - **Distributed Customer Service Ecosystem** 📗 [02-01-04.md](0-PROJECTS/02-01-04.md)  
+    - **Distributed Customer Service Ecosystem** 📗 [02-01-04.md](0-PROJECTS/02-01-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-04-CZ.md](0-PROJECTS/02-01-04-CZ.md)  
       (Natural Language Processing, Sentiment Analysis, Ticket Routing, Escalation Management, Multi-channel Support)
     - **Supply Chain Optimization Platform** 📗 [02-01-05.md](0-PROJECTS/02-01-05.md)  
       (Logistics Coordination, Inventory Management, Demand Forecasting, Supplier Negotiation, Risk Assessment Agents)
