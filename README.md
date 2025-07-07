@@ -407,7 +407,7 @@
       (Multi-Agent Systems, Contract Analysis, Compliance Checking, Legal Precedent Research, Risk Assessment, Document Generation)
     - **Smart Home Energy Management Collective** 📗 [02-01-16.md](0-PROJECTS/02-01-16.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-16-CZ.md](0-PROJECTS/02-01-16-CZ.md)  
       (Multi-Agent Systems, Appliance Coordination, Energy Usage Optimization, Grid Integration, Renewable Energy Scheduling, Cost Minimization)
-    - **Multi-Language Translation and Localization Hub** 📗 [02-01-17.md](0-PROJECTS/02-01-17.md)  
+    - **Multi-Language Translation and Localization Hub** 📗 [02-01-17.md](0-PROJECTS/02-01-17.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-17-CZ.md](0-PROJECTS/02-01-17-CZ.md)  
       (Multi-Agent Systems, Cultural Adaptation, Context Preservation, Quality Assurance, Domain Specialization, Real-time Collaboration)
     - **Autonomous Software Testing and QA Framework** 📗 [02-01-18.md](0-PROJECTS/02-01-18.md)  
       (Multi-Agent Systems, Test Case Generation, Bug Detection, Performance Testing, Security Vulnerability Scanning, Regression Testing)
