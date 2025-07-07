@@ -413,7 +413,7 @@
       (Multi-Agent Systems, Test Case Generation, Bug Detection, Performance Testing, Security Vulnerability Scanning, Regression Testing)
     - **Virtual Personal Stylist Network** 📗 [02-01-19.md](0-PROJECTS/02-01-19.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-19-CZ.md](0-PROJECTS/02-01-19-CZ.md)  
       (Multi-Agent Systems, Fashion Trend Analysis, Body Type Assessment, Color Coordination, Budget Optimization, Wardrobe Planning)
-    - **Collaborative Scientific Experiment Design Platform** 📗 [02-01-20.md](0-PROJECTS/02-01-20.md)  
+    - **Collaborative Scientific Experiment Design Platform** 📗 [02-01-20.md](0-PROJECTS/02-01-20.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-20-CZ.md](0-PROJECTS/02-01-20-CZ.md)  
       (Multi-Agent Systems, Hypothesis Formation, Methodology Validation, Data Collection Planning, Statistical Analysis, Result Interpretation)
     - **Smart Manufacturing Quality Control System** 📗 [02-01-21.md](0-PROJECTS/02-01-21.md)  
       (Multi-Agent Systems, Defect Detection, Process Optimization, Predictive Maintenance, Resource Allocation, Production Scheduling)
