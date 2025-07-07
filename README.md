@@ -401,7 +401,7 @@
       (Multi-Agent Systems, Crop Monitoring, Weather Prediction, Pest Detection, Irrigation Optimization, Harvest Timing Coordination)
     - **Virtual Event Planning and Management Platform** 📗 [02-01-13.md](0-PROJECTS/02-01-13.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-13-CZ.md](0-PROJECTS/02-01-13-CZ.md)  
       (Multi-Agent Systems, Venue Selection, Speaker Coordination, Attendee Engagement, Schedule Optimization, Technical Support Automation)
-    - **Decentralized News Verification Network** 📗 [02-01-14.md](0-PROJECTS/02-01-14.md)  
+    - **Decentralized News Verification Network** 📗 [02-01-14.md](0-PROJECTS/02-01-14.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-14-CZ.md](0-PROJECTS/02-01-14-CZ.md)  
       (Multi-Agent Systems, Fact-checking, Source Verification, Bias Detection, Information Credibility Scoring, Misinformation Flagging)
     - **Autonomous Legal Document Review System** 📗 [02-01-15.md](0-PROJECTS/02-01-15.md)  
       (Multi-Agent Systems, Contract Analysis, Compliance Checking, Legal Precedent Research, Risk Assessment, Document Generation)
