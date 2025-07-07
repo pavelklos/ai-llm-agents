@@ -403,7 +403,7 @@
       (Multi-Agent Systems, Venue Selection, Speaker Coordination, Attendee Engagement, Schedule Optimization, Technical Support Automation)
     - **Decentralized News Verification Network** 📗 [02-01-14.md](0-PROJECTS/02-01-14.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-14-CZ.md](0-PROJECTS/02-01-14-CZ.md)  
       (Multi-Agent Systems, Fact-checking, Source Verification, Bias Detection, Information Credibility Scoring, Misinformation Flagging)
-    - **Autonomous Legal Document Review System** 📗 [02-01-15.md](0-PROJECTS/02-01-15.md)  
+    - **Autonomous Legal Document Review System** 📗 [02-01-15.md](0-PROJECTS/02-01-15.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-15-CZ.md](0-PROJECTS/02-01-15-CZ.md)  
       (Multi-Agent Systems, Contract Analysis, Compliance Checking, Legal Precedent Research, Risk Assessment, Document Generation)
     - **Smart Home Energy Management Collective** 📗 [02-01-16.md](0-PROJECTS/02-01-16.md)  
       (Multi-Agent Systems, Appliance Coordination, Energy Usage Optimization, Grid Integration, Renewable Energy Scheduling, Cost Minimization)
