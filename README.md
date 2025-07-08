@@ -433,7 +433,7 @@
       (Multi-Agent Systems, Scenario Generation, Performance Assessment, Skill Gap Analysis, Training Path Optimization, Certification Management)
     - **Autonomous Patent Research and Innovation Hub** 📗 [02-01-29.md](0-PROJECTS/02-01-29.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-29-CZ.md](0-PROJECTS/02-01-29-CZ.md)  
       (Multi-Agent Systems, Prior Art Discovery, Invention Analysis, Patent Landscape Mapping, Innovation Opportunity Identification, IP Strategy Development)
-    - **Smart Tourism and Travel Planning Ecosystem** 📗 [02-01-30.md](0-PROJECTS/02-01-30.md)  
+    - **Smart Tourism and Travel Planning Ecosystem** 📗 [02-01-30.md](0-PROJECTS/02-01-30.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-30-CZ.md](0-PROJECTS/02-01-30-CZ.md)  
       (Multi-Agent Systems, Destination Recommendation, Itinerary Optimization, Cultural Experience Curation, Budget Management, Real-time Travel Assistance)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (02-02)</small>
