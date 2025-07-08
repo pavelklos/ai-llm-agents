@@ -429,7 +429,7 @@
       (Multi-Agent Systems, Script Analysis, Scene Planning, Casting Suggestions, Post-production Coordination, Distribution Strategy)
     - **Multi-Agent Food Safety and Nutrition Platform** 📗 [02-01-27.md](0-PROJECTS/02-01-27.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-27-CZ.md](0-PROJECTS/02-01-27-CZ.md)  
       (Multi-Agent Systems, Ingredient Analysis, Allergen Detection, Nutritional Optimization, Recipe Generation, Dietary Compliance)
-    - **Virtual Reality Training Simulation Coordinator** 📗 [02-01-28.md](0-PROJECTS/02-01-28.md)  
+    - **Virtual Reality Training Simulation Coordinator** 📗 [02-01-28.md](0-PROJECTS/02-01-28.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-28-CZ.md](0-PROJECTS/02-01-28-CZ.md)  
       (Multi-Agent Systems, Scenario Generation, Performance Assessment, Skill Gap Analysis, Training Path Optimization, Certification Management)
     - **Autonomous Patent Research and Innovation Hub** 📗 [02-01-29.md](0-PROJECTS/02-01-29.md)  
       (Multi-Agent Systems, Prior Art Discovery, Invention Analysis, Patent Landscape Mapping, Innovation Opportunity Identification, IP Strategy Development)
