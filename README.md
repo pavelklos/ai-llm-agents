@@ -417,7 +417,7 @@
       (Multi-Agent Systems, Hypothesis Formation, Methodology Validation, Data Collection Planning, Statistical Analysis, Result Interpretation)
     - **Smart Manufacturing Quality Control System** 📗 [02-01-21.md](0-PROJECTS/02-01-21.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-21-CZ.md](0-PROJECTS/02-01-21-CZ.md)  
       (Multi-Agent Systems, Defect Detection, Process Optimization, Predictive Maintenance, Resource Allocation, Production Scheduling)
-    - **Autonomous Music Composition and Production Studio** 📗 [02-01-22.md](0-PROJECTS/02-01-22.md)  
+    - **Autonomous Music Composition and Production Studio** 📗 [02-01-22.md](0-PROJECTS/02-01-22.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-22-CZ.md](0-PROJECTS/02-01-22-CZ.md)  
       (Multi-Agent Systems, Melody Generation, Arrangement Creation, Audio Mixing, Genre Adaptation, Artist Collaboration)
     - **Virtual Mental Health Support Network** 📗 [02-01-23.md](0-PROJECTS/02-01-23.md)  
       (Multi-Agent Systems, Mood Tracking, Therapeutic Intervention, Crisis Detection, Resource Recommendation, Progress Monitoring)
