@@ -423,7 +423,7 @@
       (Multi-Agent Systems, Mood Tracking, Therapeutic Intervention, Crisis Detection, Resource Recommendation, Progress Monitoring)
     - **Decentralized Skill-Based Matchmaking Platform** 📗 [02-01-24.md](0-PROJECTS/02-01-24.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-24-CZ.md](0-PROJECTS/02-01-24-CZ.md)  
       (Multi-Agent Systems, Competency Assessment, Project Matching, Team Formation, Performance Evaluation, Career Development)
-    - **Smart Waste Management and Recycling System** 📗 [02-01-25.md](0-PROJECTS/02-01-25.md)  
+    - **Smart Waste Management and Recycling System** 📗 [02-01-25.md](0-PROJECTS/02-01-25.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-01-25-CZ.md](0-PROJECTS/02-01-25-CZ.md)  
       (Multi-Agent Systems, Collection Route Optimization, Material Sorting, Environmental Impact Assessment, Resource Recovery, Sustainability Tracking)
     - **Autonomous Film and Video Production Assistant** 📗 [02-01-26.md](0-PROJECTS/02-01-26.md)  
       (Multi-Agent Systems, Script Analysis, Scene Planning, Casting Suggestions, Post-production Coordination, Distribution Strategy)
