@@ -449,7 +449,7 @@
     - **AI Game Master for Text-Based RPGs** 📗 [02-02-04.md](0-PROJECTS/02-02-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-04-CZ.md](0-PROJECTS/02-02-04-CZ.md)  
       *(LLM Agents, Role-Based Reasoning, Memory, Game State Engine, Prompt Engineering, React Framework, Text-to-Action)*  
       → Game master and multiple character agents co-create an evolving narrative in an interactive RPG.
-    - **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md)  
+    - **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-05-CZ.md](0-PROJECTS/02-02-05-CZ.md)  
       *(LangChain, Vectorstore Retrieval, Agent Hand-off, LLM Tool Use, E-Commerce API, Multi-LLM Setup)*  
       → Agents for order tracking, returns, product info, and escalation working in coordination to resolve customer queries.
     - **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md)  
