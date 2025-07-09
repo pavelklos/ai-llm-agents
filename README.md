@@ -440,7 +440,7 @@
     - **Autonomous Research Team Assistant** 📗 [02-02-01.md](0-PROJECTS/02-02-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-01-CZ.md](0-PROJECTS/02-02-01-CZ.md)  
       *(RAG, LangChain Agents, Pinecone, OpenAI GPT-4o, Task Decomposition, Memory, Tool Use, Web Search)*  
       → Multi-agent system that autonomously performs academic research, dividing tasks among agents (e.g., summarizer, fact-checker, citation retriever).
-    - **AI Legal Document Analyzer** 📗 [02-02-02.md](0-PROJECTS/02-02-02.md)  
+    - **AI Legal Document Analyzer** 📗 [02-02-02.md](0-PROJECTS/02-02-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-02-CZ.md](0-PROJECTS/02-02-02-CZ.md)  
       *(LLM Agents, Document QA, Retrieval, Legal NLP, Memory Graphs, Semantic Search, Claude Sonnet, LangGraph)*  
       → Team of legal-AI agents parsing legal documents to extract clauses, detect risks, and recommend actions.
     - **Financial Market Analysis and Decision Support** 📗 [02-02-03.md](0-PROJECTS/02-02-03.md)  
