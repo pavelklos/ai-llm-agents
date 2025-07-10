@@ -452,7 +452,7 @@
     - **Customer Support AI Team for E-Commerce** 📗 [02-02-05.md](0-PROJECTS/02-02-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-05-CZ.md](0-PROJECTS/02-02-05-CZ.md)  
       *(LangChain, Vectorstore Retrieval, Agent Hand-off, LLM Tool Use, E-Commerce API, Multi-LLM Setup)*  
       → Agents for order tracking, returns, product info, and escalation working in coordination to resolve customer queries.
-    - **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md)  
+    - **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-06-CZ.md](0-PROJECTS/02-02-06-CZ.md)  
       *(Autonomous Agents, Role-Playing Reviewers, LLM+Tool Use, Citation Verification, Markdown Reports, Critique Chains)*  
       → Reviewer agents simulate peer review with feedback, scoring, and revision suggestions for academic submissions.
     - **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md)  
