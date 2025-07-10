@@ -458,7 +458,7 @@
     - **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-07-CZ.md](0-PROJECTS/02-02-07-CZ.md)  
       *(Sensor Data Simulation, AI Agents, Planning, Multi-Agent Communication, UMAP/GraphQL, Decision Making)*  
       → Agents oversee traffic, energy, and safety systems—collaborating to optimize city-wide resources and alerts.
-    - **AI Debate Team** 📗 [02-02-08.md](0-PROJECTS/02-02-08.md)  
+    - **AI Debate Team** 📗 [02-02-08.md](0-PROJECTS/02-02-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-08-CZ.md](0-PROJECTS/02-02-08-CZ.md)  
       *(Multi-Agent Prompt Chaining, Role-Specific LLMs, Memory, Persuasion Logic, GPT-4o, Claude, Open Debate APIs)*  
       → Pro and con agents prepare and argue on a topic in structured debate format with live audience Q&A moderation.
     - **AI Software Engineering Team** 📗 [02-02-09.md](0-PROJECTS/02-02-09.md)  
