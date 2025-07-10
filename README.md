@@ -455,7 +455,7 @@
     - **Scientific Paper Reviewer Committee** 📗 [02-02-06.md](0-PROJECTS/02-02-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-06-CZ.md](0-PROJECTS/02-02-06-CZ.md)  
       *(Autonomous Agents, Role-Playing Reviewers, LLM+Tool Use, Citation Verification, Markdown Reports, Critique Chains)*  
       → Reviewer agents simulate peer review with feedback, scoring, and revision suggestions for academic submissions.
-    - **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md)  
+    - **Smart City Infrastructure Management** 📗 [02-02-07.md](0-PROJECTS/02-02-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-02-07-CZ.md](0-PROJECTS/02-02-07-CZ.md)  
       *(Sensor Data Simulation, AI Agents, Planning, Multi-Agent Communication, UMAP/GraphQL, Decision Making)*  
       → Agents oversee traffic, energy, and safety systems—collaborating to optimize city-wide resources and alerts.
     - **AI Debate Team** 📗 [02-02-08.md](0-PROJECTS/02-02-08.md)  
