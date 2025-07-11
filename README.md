@@ -469,7 +469,7 @@
       → A team of AI agents that negotiate and compile optimal travel plans based on user goals and constraints.
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (02-03)</small>
-    - **Autonomous Research Team** 📗 [02-03-01.md](0-PROJECTS/02-03-01.md)  
+    - **Autonomous Research Team** 📗 [02-03-01.md](0-PROJECTS/02-03-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-01-CZ.md](0-PROJECTS/02-03-01-CZ.md)  
       (*LLM agents, collaborative research, semantic search, knowledge synthesis, Python, LangChain*)  
       A multi-agent system where AI researchers autonomously gather, analyze, and summarize academic papers.
     - **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md)  
