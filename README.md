@@ -475,7 +475,7 @@
     - **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-02-CZ.md](0-PROJECTS/02-03-02-CZ.md)  
       (*Blockchain, Solidity, LLM agents, vulnerability detection, collaborative reporting*)  
       AI agents simulate a security team auditing smart contracts, identifying bugs and suggesting fixes.
-    - **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md)  
+    - **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-03-CZ.md](0-PROJECTS/02-03-03-CZ.md)  
       (*Multi-agent debate, argument synthesis, truth discovery, reinforcement learning*)  
       LLM agents with opposing viewpoints debate complex topics to uncover balanced conclusions.
     - **Dynamic Customer Support Swarm** 📗 [02-03-04.md](0-PROJECTS/02-03-04.md)  
