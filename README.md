@@ -478,7 +478,7 @@
     - **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-03-CZ.md](0-PROJECTS/02-03-03-CZ.md)  
       (*Multi-agent debate, argument synthesis, truth discovery, reinforcement learning*)  
       LLM agents with opposing viewpoints debate complex topics to uncover balanced conclusions.
-    - **Dynamic Customer Support Swarm** 📗 [02-03-04.md](0-PROJECTS/02-03-04.md)  
+    - **Dynamic Customer Support Swarm** 📗 [02-03-04.md](0-PROJECTS/02-03-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-04-CZ.md](0-PROJECTS/02-03-04-CZ.md)  
       (*Multi-agent helpdesk, intent routing, live collaboration, CRM integration*)  
       AI agents work together to handle customer queries, escalating and sharing context as needed.
     - **Generative Game Design Collective** 📗 [02-03-05.md](0-PROJECTS/02-03-05.md)  
