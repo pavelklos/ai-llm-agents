@@ -472,7 +472,7 @@
     - **Autonomous Research Team** 📗 [02-03-01.md](0-PROJECTS/02-03-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-01-CZ.md](0-PROJECTS/02-03-01-CZ.md)  
       (*LLM agents, collaborative research, semantic search, knowledge synthesis, Python, LangChain*)  
       A multi-agent system where AI researchers autonomously gather, analyze, and summarize academic papers.
-    - **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md)  
+    - **Smart Contract Auditor Squad** 📗 [02-03-02.md](0-PROJECTS/02-03-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-02-CZ.md](0-PROJECTS/02-03-02-CZ.md)  
       (*Blockchain, Solidity, LLM agents, vulnerability detection, collaborative reporting*)  
       AI agents simulate a security team auditing smart contracts, identifying bugs and suggesting fixes.
     - **AI-Powered Debate Platform** 📗 [02-03-03.md](0-PROJECTS/02-03-03.md)  
