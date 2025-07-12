@@ -493,7 +493,7 @@
     - **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-08-CZ.md](0-PROJECTS/02-03-08-CZ.md)  
       (*Legal AI, precedent analysis, argument generation, multi-perspective evaluation*)  
       A virtual law firm where AI agents develop case strategies by analyzing past rulings.
-    - **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md)  
+    - **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-09-CZ.md](0-PROJECTS/02-03-09-CZ.md)  
       (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
       AI tutors with different specialties collaborate to create personalized learning paths.
     - **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md)  
