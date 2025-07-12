@@ -484,7 +484,7 @@
     - **Generative Game Design Collective** 📗 [02-03-05.md](0-PROJECTS/02-03-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-05-CZ.md](0-PROJECTS/02-03-05-CZ.md)  
       (*Procedural content generation, LLM agents, Unity/Unreal, collaborative creativity*)  
       Autonomous AI designers, writers, and testers collaborate to create game narratives and mechanics.
-    - **AI Venture Capital Simulator** 📗 [02-03-06.md](0-PROJECTS/02-03-06.md)  
+    - **AI Venture Capital Simulator** 📗 [02-03-06.md](0-PROJECTS/02-03-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-06-CZ.md](0-PROJECTS/02-03-06-CZ.md)  
       (*Market analysis, startup evaluation, multi-agent decision-making, financial modeling*)  
       A simulated VC firm where AI agents scout, evaluate, and negotiate startup investments.
     - **Epidemic Response Coordinator** 📗 [02-03-07.md](0-PROJECTS/02-03-07.md)  
