@@ -496,7 +496,7 @@
     - **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-09-CZ.md](0-PROJECTS/02-03-09-CZ.md)  
       (*Adaptive learning, LLM tutors, multi-agent curriculum design, knowledge assessment*)  
       AI tutors with different specialties collaborate to create personalized learning paths.
-    - **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md)  
+    - **AI Film Production Studio** 📗 [02-03-10.md](0-PROJECTS/02-03-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-10-CZ.md](0-PROJECTS/02-03-10-CZ.md)  
       (*Multi-modal agents, script generation, storyboarding, virtual production*)  
       Autonomous AI teams handle screenwriting, casting, and editing for generated short films.
 
