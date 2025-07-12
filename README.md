@@ -490,7 +490,7 @@
     - **Epidemic Response Coordinator** 📗 [02-03-07.md](0-PROJECTS/02-03-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-07-CZ.md](0-PROJECTS/02-03-07-CZ.md)  
       (*Public health, data analysis, policy simulation, multi-agent cooperation*)  
       AI agents model disease spread, evaluate interventions, and optimize resource allocation.
-    - **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md)  
+    - **Legal Case Strategizer** 📗 [02-03-08.md](0-PROJECTS/02-03-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [02-03-08-CZ.md](0-PROJECTS/02-03-08-CZ.md)  
       (*Legal AI, precedent analysis, argument generation, multi-perspective evaluation*)  
       A virtual law firm where AI agents develop case strategies by analyzing past rulings.
     - **Personalized Education Collective** 📗 [02-03-09.md](0-PROJECTS/02-03-09.md)  
