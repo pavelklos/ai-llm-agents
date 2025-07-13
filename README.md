@@ -509,7 +509,7 @@
       (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
     - **Legal Research and Case Analysis Platform** 📗 [03-01-03.md](0-PROJECTS/03-01-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-03-CZ.md](0-PROJECTS/03-01-03-CZ.md)  
       (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
-    - **Medical Literature Review System** 📗 [03-01-04.md](0-PROJECTS/03-01-04.md)  
+    - **Medical Literature Review System** 📗 [03-01-04.md](0-PROJECTS/03-01-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-04-CZ.md](0-PROJECTS/03-01-04-CZ.md)  
       (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
     - **Code Documentation and Bug Resolution Assistant** 📗 [03-01-05.md](0-PROJECTS/03-01-05.md)  
       (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API)
