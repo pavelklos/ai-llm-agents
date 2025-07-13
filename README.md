@@ -503,7 +503,7 @@
 - AI-LLM **RAG** *(Retrieval-Augmented Generation)*
 
   - <small>Project selection by [Claude](https://claude.ai/) (03-01)</small>
-    - **Intelligent Document Assistant** 📗 [03-01-01.md](0-PROJECTS/03-01-01.md)  
+    - **Intelligent Document Assistant** 📗 [03-01-01.md](0-PROJECTS/03-01-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-01-CZ.md](0-PROJECTS/03-01-01-CZ.md)  
       (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS)
     - **Enterprise Knowledge Base Chatbot** 📗 [03-01-02.md](0-PROJECTS/03-01-02.md)  
       (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
