@@ -507,7 +507,7 @@
       (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS)
     - **Enterprise Knowledge Base Chatbot** 📗 [03-01-02.md](0-PROJECTS/03-01-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-02-CZ.md](0-PROJECTS/03-01-02-CZ.md)  
       (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
-    - **Legal Research and Case Analysis Platform** 📗 [03-01-03.md](0-PROJECTS/03-01-03.md)  
+    - **Legal Research and Case Analysis Platform** 📗 [03-01-03.md](0-PROJECTS/03-01-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-03-CZ.md](0-PROJECTS/03-01-03-CZ.md)  
       (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
     - **Medical Literature Review System** 📗 [03-01-04.md](0-PROJECTS/03-01-04.md)  
       (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
