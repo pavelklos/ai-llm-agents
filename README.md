@@ -505,7 +505,7 @@
   - <small>Project selection by [Claude](https://claude.ai/) (03-01)</small>
     - **Intelligent Document Assistant** 📗 [03-01-01.md](0-PROJECTS/03-01-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-01-CZ.md](0-PROJECTS/03-01-01-CZ.md)  
       (RAG, Document Processing, PDF Parsing, Vector Embeddings, Semantic Search, OpenAI GPT, Langchain, FAISS)
-    - **Enterprise Knowledge Base Chatbot** 📗 [03-01-02.md](0-PROJECTS/03-01-02.md)  
+    - **Enterprise Knowledge Base Chatbot** 📗 [03-01-02.md](0-PROJECTS/03-01-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-02-CZ.md](0-PROJECTS/03-01-02-CZ.md)  
       (RAG, Internal Documentation, Employee Support, Confluence Integration, Azure OpenAI, Pinecone, Slack Bot API)
     - **Legal Research and Case Analysis Platform** 📗 [03-01-03.md](0-PROJECTS/03-01-03.md)  
       (RAG, Legal Documents, Case Law, Regulatory Compliance, Elasticsearch, Claude API, Citation Extraction, NER)
