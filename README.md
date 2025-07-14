@@ -521,7 +521,7 @@
       (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
     - **Scientific Research Paper Discovery Platform** 📗 [03-01-09.md](0-PROJECTS/03-01-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-09-CZ.md](0-PROJECTS/03-01-09-CZ.md)  
       (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
-    - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)  
+    - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-10-CZ.md](0-PROJECTS/03-01-10-CZ.md)  
       (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
     ---
     - **Smart Recipe and Nutrition Advisor** 📗 [03-01-11.md](0-PROJECTS/03-01-11.md)  
