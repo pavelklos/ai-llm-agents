@@ -513,7 +513,7 @@
       (RAG, PubMed Integration, Clinical Papers, Drug Information, BioBERT, Chroma DB, Medical NLP, HIPAA Compliance)
     - **Code Documentation and Bug Resolution Assistant** 📗 [03-01-05.md](0-PROJECTS/03-01-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-05-CZ.md](0-PROJECTS/03-01-05-CZ.md)  
       (RAG, GitHub Integration, Stack Overflow, Technical Documentation, Code Embeddings, Weaviate, GitHub Copilot API)
-    - **Financial Research and Investment Analysis Tool** 📗 [03-01-06.md](0-PROJECTS/03-01-06.md)  
+    - **Financial Research and Investment Analysis Tool** 📗 [03-01-06.md](0-PROJECTS/03-01-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-06-CZ.md](0-PROJECTS/03-01-06-CZ.md)  
       (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment)
     - **E-learning Content Recommendation Engine** 📗 [03-01-07.md](0-PROJECTS/03-01-07.md)  
       (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
