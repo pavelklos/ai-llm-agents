@@ -519,7 +519,7 @@
       (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
     - **Customer Support Knowledge Assistant** 📗 [03-01-08.md](0-PROJECTS/03-01-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-08-CZ.md](0-PROJECTS/03-01-08-CZ.md)  
       (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
-    - **Scientific Research Paper Discovery Platform** 📗 [03-01-09.md](0-PROJECTS/03-01-09.md)  
+    - **Scientific Research Paper Discovery Platform** 📗 [03-01-09.md](0-PROJECTS/03-01-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-09-CZ.md](0-PROJECTS/03-01-09-CZ.md)  
       (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
     - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md)  
       (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
