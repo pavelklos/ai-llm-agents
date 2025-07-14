@@ -517,7 +517,7 @@
       (RAG, SEC Filings, Financial Reports, Market Data, Time-series Analysis, Qdrant, Bloomberg API, Risk Assessment)
     - **E-learning Content Recommendation Engine** 📗 [03-01-07.md](0-PROJECTS/03-01-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-07-CZ.md](0-PROJECTS/03-01-07-CZ.md)  
       (RAG, Course Materials, Educational Videos, Learning Paths, Content Similarity, Milvus, YouTube API, Adaptive Learning)
-    - **Customer Support Knowledge Assistant** 📗 [03-01-08.md](0-PROJECTS/03-01-08.md)  
+    - **Customer Support Knowledge Assistant** 📗 [03-01-08.md](0-PROJECTS/03-01-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-08-CZ.md](0-PROJECTS/03-01-08-CZ.md)  
       (RAG, FAQ Database, Ticket History, Product Manuals, Sentiment Analysis, Redis Search, Zendesk Integration, Multi-language)
     - **Scientific Research Paper Discovery Platform** 📗 [03-01-09.md](0-PROJECTS/03-01-09.md)  
       (RAG, ArXiv Papers, Research Abstracts, Citation Networks, SciBERT, Neo4j, Graph RAG, Collaborative Filtering)
