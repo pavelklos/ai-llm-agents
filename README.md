@@ -540,7 +540,7 @@
       (RAG, Construction Tutorials, Tool Recommendations, Safety Guidelines, Material Cost Estimation, Home Depot API, Project Planning, Skill Assessment)
     - **Language Learning Conversation Partner** 📗 [03-01-18.md](0-PROJECTS/03-01-18.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-18-CZ.md](0-PROJECTS/03-01-18-CZ.md)  
       (RAG, Grammar Rules, Cultural Context, Pronunciation Guides, Translation Memory, Google Translate API, Speech Recognition, Progress Tracking)
-    - **Pet Care and Veterinary Information System** 📗 [03-01-19.md](0-PROJECTS/03-01-19.md)  
+    - **Pet Care and Veterinary Information System** 📗 [03-01-19.md](0-PROJECTS/03-01-19.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-19-CZ.md](0-PROJECTS/03-01-19-CZ.md)  
       (RAG, Animal Health Records, Breed Information, Vaccination Schedules, Emergency Care, Veterinary Literature, Pet Insurance, Behavioral Analysis)
     - **Agricultural Crop Management Advisor** 📗 [03-01-20.md](0-PROJECTS/03-01-20.md)  
       (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
