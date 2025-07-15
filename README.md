@@ -534,7 +534,7 @@
       (RAG, Vehicle Manuals, Error Codes, Parts Catalogs, Maintenance Schedules, OBD-II Integration, 3D Model Visualization, Repair Videos)
     - **Gaming Strategy and Walkthrough Helper** 📗 [03-01-15.md](0-PROJECTS/03-01-15.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-15-CZ.md](0-PROJECTS/03-01-15-CZ.md)  
       (RAG, Game Guides, Achievement Lists, Player Statistics, Twitch Integration, Steam API, Community Forums, Real-time Game Data)
-    - **Mental Health and Wellness Companion** 📗 [03-01-16.md](0-PROJECTS/03-01-16.md)  
+    - **Mental Health and Wellness Companion** 📗 [03-01-16.md](0-PROJECTS/03-01-16.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-16-CZ.md](0-PROJECTS/03-01-16-CZ.md)  
       (RAG, Therapy Techniques, Mindfulness Content, Mood Tracking, Crisis Resources, Psychology Research, SAMHSA Guidelines, Privacy Protection)
     - **Home Improvement and DIY Project Guide** 📗 [03-01-17.md](0-PROJECTS/03-01-17.md)  
       (RAG, Construction Tutorials, Tool Recommendations, Safety Guidelines, Material Cost Estimation, Home Depot API, Project Planning, Skill Assessment)
