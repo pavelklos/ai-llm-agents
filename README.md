@@ -542,7 +542,7 @@
       (RAG, Grammar Rules, Cultural Context, Pronunciation Guides, Translation Memory, Google Translate API, Speech Recognition, Progress Tracking)
     - **Pet Care and Veterinary Information System** 📗 [03-01-19.md](0-PROJECTS/03-01-19.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-19-CZ.md](0-PROJECTS/03-01-19-CZ.md)  
       (RAG, Animal Health Records, Breed Information, Vaccination Schedules, Emergency Care, Veterinary Literature, Pet Insurance, Behavioral Analysis)
-    - **Agricultural Crop Management Advisor** 📗 [03-01-20.md](0-PROJECTS/03-01-20.md)  
+    - **Agricultural Crop Management Advisor** 📗 [03-01-20.md](0-PROJECTS/03-01-20.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-20-CZ.md](0-PROJECTS/03-01-20-CZ.md)  
       (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
     - **Music Discovery and Analysis Platform** 📗 [03-01-21a.md](0-PROJECTS/03-01-21a.md), [03-01-21b.md](0-PROJECTS/03-01-21b.md), [03-01-21c.md](0-PROJECTS/03-01-21c.md), [03-01-21d.md](0-PROJECTS/03-01-21d.md), [03-01-21e.md](0-PROJECTS/03-01-21e.md)  
       (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
