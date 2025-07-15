@@ -526,7 +526,7 @@
     ---
     - **Smart Recipe and Nutrition Advisor** 📗 [03-01-11.md](0-PROJECTS/03-01-11.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-11-CZ.md](0-PROJECTS/03-01-11-CZ.md)  
       (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
-    - **Travel Planning and Destination Guide** 📗 [03-01-12.md](0-PROJECTS/03-01-12.md)  
+    - **Travel Planning and Destination Guide** 📗 [03-01-12.md](0-PROJECTS/03-01-12.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-12-CZ.md](0-PROJECTS/03-01-12-CZ.md)  
       (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
     - **Personal Fashion and Style Consultant** 📗 [03-01-13.md](0-PROJECTS/03-01-13.md)  
       (RAG, Clothing Catalogs, Style Trends, Body Type Analysis, Color Matching, Pinterest API, Image Recognition, Wardrobe Management)
