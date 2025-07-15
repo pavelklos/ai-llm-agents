@@ -524,7 +524,7 @@
     - **Real Estate Property Intelligence System** 📗 [03-01-10.md](0-PROJECTS/03-01-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-10-CZ.md](0-PROJECTS/03-01-10-CZ.md)  
       (RAG, Property Listings, Market Reports, Neighborhood Data, Geospatial Search, PostGIS, Zillow API, Location Embeddings)
     ---
-    - **Smart Recipe and Nutrition Advisor** 📗 [03-01-11.md](0-PROJECTS/03-01-11.md)  
+    - **Smart Recipe and Nutrition Advisor** 📗 [03-01-11.md](0-PROJECTS/03-01-11.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-11-CZ.md](0-PROJECTS/03-01-11-CZ.md)  
       (RAG, Food Database, Dietary Restrictions, Meal Planning, Nutritional Analysis, Spoonacular API, Allergen Detection, Health Tracking)
     - **Travel Planning and Destination Guide** 📗 [03-01-12.md](0-PROJECTS/03-01-12.md)  
       (RAG, Trip Itineraries, Local Attractions, Weather Data, Cultural Information, Google Places API, Booking Integration, Multi-modal Search)
