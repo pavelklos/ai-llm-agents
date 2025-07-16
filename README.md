@@ -546,7 +546,7 @@
       (RAG, Weather Patterns, Soil Data, Pest Control, Harvest Timing, Satellite Imagery, USDA Database, IoT Sensor Integration, Market Prices)
     - **Music Discovery and Analysis Platform** 📗 [03-01-21a.md](0-PROJECTS/03-01-21a.md), [03-01-21b.md](0-PROJECTS/03-01-21b.md), [03-01-21c.md](0-PROJECTS/03-01-21c.md), [03-01-21d.md](0-PROJECTS/03-01-21d.md), [03-01-21e.md](0-PROJECTS/03-01-21e.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-21-CZ.md](0-PROJECTS/03-01-21-CZ.md)  
       (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
-    - **Social Media Content Strategy Assistant** 📗 [03-01-22a.md](0-PROJECTS/03-01-22a.md), [03-01-22b.md](0-PROJECTS/03-01-22b.md)  
+    - **Social Media Content Strategy Assistant** 📗 [03-01-22a.md](0-PROJECTS/03-01-22a.md), [03-01-22b.md](0-PROJECTS/03-01-22b.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-22-CZ.md](0-PROJECTS/03-01-22-CZ.md)  
       (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
     - **Environmental Impact Assessment Tool** 📗 [03-01-23.md](0-PROJECTS/03-01-23.md)  
       (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
