@@ -548,7 +548,7 @@
       (RAG, Artist Biographies, Album Reviews, Concert Information, Spotify API, Last.fm Data, Genre Classification, Lyric Analysis)
     - **Social Media Content Strategy Assistant** 📗 [03-01-22a.md](0-PROJECTS/03-01-22a.md), [03-01-22b.md](0-PROJECTS/03-01-22b.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-22-CZ.md](0-PROJECTS/03-01-22-CZ.md)  
       (RAG, Trending Topics, Engagement Analytics, Content Templates, Hashtag Research, Instagram API, Influencer Data, Brand Guidelines)
-    - **Environmental Impact Assessment Tool** 📗 [03-01-23.md](0-PROJECTS/03-01-23.md)  
+    - **Environmental Impact Assessment Tool** 📗 [03-01-23.md](0-PROJECTS/03-01-23.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-23-CZ.md](0-PROJECTS/03-01-23-CZ.md)  
       (RAG, Carbon Footprint Data, Sustainability Reports, Regulatory Standards, Climate Models, EPA Database, Green Technology, Impact Visualization)
     - **Sports Analytics and Performance Tracker** 📗 [03-01-24.md](0-PROJECTS/03-01-24.md)  
       (RAG, Player Statistics, Game Footage, Training Regimens, Injury Prevention, ESPN API, Biomechanical Analysis, Team Strategy)
