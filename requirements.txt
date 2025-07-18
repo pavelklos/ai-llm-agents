@@ -1,5 +1,5 @@
 jupyterlab
-pyautogen
+ag2
 ag2[openai]
 crewai
 crewai-tools
