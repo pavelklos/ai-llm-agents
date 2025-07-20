@@ -558,7 +558,7 @@
       (RAG, Historical Records, Census Data, DNA Analysis, Family Trees, Ancestry API, Geographic Migration, Cultural Heritage)
     - **Cryptocurrency and Blockchain Intelligence** 📗 [03-01-27.md](0-PROJECTS/03-01-27.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-27-CZ.md](0-PROJECTS/03-01-27-CZ.md)  
       (RAG, Market Analysis, White Papers, Trading Patterns, DeFi Protocols, CoinGecko API, Smart Contract Analysis, Risk Assessment)
-    - **Event Planning and Venue Management** 📗 [03-01-28.md](0-PROJECTS/03-01-28.md)  
+    - **Event Planning and Venue Management** 📗 [03-01-28.md](0-PROJECTS/03-01-28.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-01-28-CZ.md](0-PROJECTS/03-01-28-CZ.md)  
       (RAG, Vendor Directories, Budget Planning, Guest Lists, Venue Specifications, Eventbrite API, Catering Menus, Timeline Management)
     - **Podcast Content Discovery and Analysis** 📗 [03-01-29a.md](0-PROJECTS/03-01-29a.md), [03-01-29b.md](0-PROJECTS/03-01-29b.md)  
       (RAG, Episode Transcripts, Host Information, Topic Categorization, Listener Reviews, Spotify Podcast API, Audio Processing, Recommendation Engine)
