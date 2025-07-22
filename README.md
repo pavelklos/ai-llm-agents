@@ -569,7 +569,7 @@
     - **Legal Document Assistant** 📗 [03-02-01.md](0-PROJECTS/03-02-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-01-CZ.md](0-PROJECTS/03-02-01-CZ.md)  
       *(RAG, LangChain, OpenAI GPT-4o, Pinecone, PDF Parsing, Prompt Engineering, Semantic Search)*  
       → AI assistant for answering legal questions from a repository of contracts and legal documents.
-    - **Medical Research Summarizer** 📗 [03-02-02.md](0-PROJECTS/03-02-02.md)  
+    - **Medical Research Summarizer** 📗 [03-02-02.md](0-PROJECTS/03-02-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-02-CZ.md](0-PROJECTS/03-02-02-CZ.md)  
       *(RAG, LlamaIndex, PubMed API, HuggingFace Transformers, BioBERT, Vector Databases, Summarization)*  
       → Summarizes and answers questions using biomedical research papers and studies.
     - **Enterprise Knowledge Chatbot** 📗 [03-02-03.md](0-PROJECTS/03-02-03.md)  
