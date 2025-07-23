@@ -584,7 +584,7 @@
     - **Multilingual Travel Assistant** 📗 [03-02-06.md](0-PROJECTS/03-02-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-06-CZ.md](0-PROJECTS/03-02-06-CZ.md)  
       *(RAG, GPT-4 Turbo, Translation APIs, Pinecone, CSV/JSON data, Location-based RAG)*  
       → Answers tourist queries using local attraction guides and multilingual content.
-    - **Historical Archive Explorer** 📗 [03-02-07.md](0-PROJECTS/03-02-07.md)  
+    - **Historical Archive Explorer** 📗 [03-02-07.md](0-PROJECTS/03-02-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-07-CZ.md](0-PROJECTS/03-02-07-CZ.md)  
       *(RAG, Llama 3, OCR, Newspapers Archive, Vector Search, Timeline Generation)*  
       → Allows users to explore and query historical texts, scanned papers, and rare books.
     - **Customer Support Ticket Analyzer** 📗 [03-02-08.md](0-PROJECTS/03-02-08.md)  
