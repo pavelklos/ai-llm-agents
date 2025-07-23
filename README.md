@@ -593,7 +593,7 @@
     - **Scientific Paper Explorer for Engineers** 📗 [03-02-09.md](0-PROJECTS/03-02-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-09-CZ.md](0-PROJECTS/03-02-09-CZ.md)  
       *(RAG, LlamaIndex, ArXiv API, Embedding Comparison, Visual Search, Streamlit UI)*  
       → Engineers can query technical papers and extract specific methods or evaluations.
-    - **Legal & Regulatory Compliance Checker** 📗 [03-02-10.md](0-PROJECTS/03-02-10.md)  
+    - **Legal & Regulatory Compliance Checker** 📗 [03-02-10.md](0-PROJECTS/03-02-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-10-CZ.md](0-PROJECTS/03-02-10-CZ.md)  
       *(RAG, Claude Sonnet, Regulatory PDFs, Pinecone Hybrid Search, LangChain Agents)*  
       → Helps companies verify if internal policies comply with external laws and standards.
 
