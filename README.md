@@ -590,7 +590,7 @@
     - **Customer Support Ticket Analyzer** 📗 [03-02-08.md](0-PROJECTS/03-02-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-08-CZ.md](0-PROJECTS/03-02-08-CZ.md)  
       *(RAG, LangChain, ElasticSearch, Email Parsing, OpenAI Functions, Retrieval Filters)*  
       → AI that assists support teams by answering and classifying tickets using historical data.
-    - **Scientific Paper Explorer for Engineers** 📗 [03-02-09.md](0-PROJECTS/03-02-09.md)  
+    - **Scientific Paper Explorer for Engineers** 📗 [03-02-09.md](0-PROJECTS/03-02-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-09-CZ.md](0-PROJECTS/03-02-09-CZ.md)  
       *(RAG, LlamaIndex, ArXiv API, Embedding Comparison, Visual Search, Streamlit UI)*  
       → Engineers can query technical papers and extract specific methods or evaluations.
     - **Legal & Regulatory Compliance Checker** 📗 [03-02-10.md](0-PROJECTS/03-02-10.md)  
