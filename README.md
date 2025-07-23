@@ -575,7 +575,7 @@
     - **Enterprise Knowledge Chatbot** 📗 [03-02-03.md](0-PROJECTS/03-02-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-03-CZ.md](0-PROJECTS/03-02-03-CZ.md)  
       *(RAG, LangChain, Azure OpenAI, SharePoint, FAISS, Authentication, Multi-user Chat)*  
       → Internal chatbot that helps employees access company documents and SOPs securely.
-    - **Academic Tutor for Students** 📗 [03-02-04.md](0-PROJECTS/03-02-04.md)  
+    - **Academic Tutor for Students** 📗 [03-02-04.md](0-PROJECTS/03-02-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-04-CZ.md](0-PROJECTS/03-02-04-CZ.md)  
       *(RAG, Claude Haiku, PDF + DOCX ingestion, Milvus, Streamlit, Flashcards, Quiz Generator)*  
       → Personalized study assistant that extracts content from textbooks and generates quizzes.
     - **Codebase Q&A Bot** 📗 [03-02-05.md](0-PROJECTS/03-02-05.md)  
