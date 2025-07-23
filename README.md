@@ -581,7 +581,7 @@
     - **Codebase Q&A Bot** 📗 [03-02-05.md](0-PROJECTS/03-02-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-05-CZ.md](0-PROJECTS/03-02-05-CZ.md)  
       *(RAG, OpenAI GPT-4o, GitHub API, Docstring Parsing, Embeddings, VSCode Extension)*  
       → AI bot that answers technical questions from your codebase and documentation files.
-    - **Multilingual Travel Assistant** 📗 [03-02-06.md](0-PROJECTS/03-02-06.md)  
+    - **Multilingual Travel Assistant** 📗 [03-02-06.md](0-PROJECTS/03-02-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-02-06-CZ.md](0-PROJECTS/03-02-06-CZ.md)  
       *(RAG, GPT-4 Turbo, Translation APIs, Pinecone, CSV/JSON data, Location-based RAG)*  
       → Answers tourist queries using local attraction guides and multilingual content.
     - **Historical Archive Explorer** 📗 [03-02-07.md](0-PROJECTS/03-02-07.md)  
