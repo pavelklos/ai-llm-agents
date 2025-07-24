@@ -604,7 +604,7 @@
     - **Enterprise Knowledge Assistant** 📗 [03-03-01.md](0-PROJECTS/03-03-01.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-01-CZ.md](0-PROJECTS/03-03-01-CZ.md)  
       (*RAG, Internal docs, FAISS, LangChain, GPT-4, Slack integration*)  
       A chatbot that retrieves answers from company documents (PDFs, wikis) and provides context-aware responses via Slack.
-    - **Legal Document Analyzer** 📗 [03-03-02.md](0-PROJECTS/03-03-02.md)  
+    - **Legal Document Analyzer** 📗 [03-03-02.md](0-PROJECTS/03-03-02.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-02-CZ.md](0-PROJECTS/03-03-02-CZ.md)  
       (*RAG, Case law retrieval, BERT embeddings, Weaviate, Mistral-7B*)  
       RAG system to search through legal precedents and generate summaries or arguments for lawyers.
     - **Medical Diagnosis Support Tool** 📗 [03-03-03.md](0-PROJECTS/03-03-03.md)  
