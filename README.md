@@ -610,7 +610,7 @@
     - **Medical Diagnosis Support Tool** 📗 [03-03-03.md](0-PROJECTS/03-03-03.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-03-CZ.md](0-PROJECTS/03-03-03-CZ.md)  
       (*RAG, PubMed/clinical papers, BioBERT, Pinecone, Llama-3*)  
       Retrieves relevant medical research based on symptoms and suggests potential diagnoses with citations.
-    - **Academic Research Synthesizer** 📗 [03-03-04.md](0-PROJECTS/03-03-04.md)  
+    - **Academic Research Synthesizer** 📗 [03-03-04.md](0-PROJECTS/03-03-04.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-04-CZ.md](0-PROJECTS/03-03-04-CZ.md)  
       (*RAG, ArXiv/Semantic Scholar, Specter embeddings, ChromaDB, GPT-4o*)  
       Aggregates and explains research papers based on user queries with auto-generated literature reviews.
     - **Customer Support Automation** 📗 [03-03-05.md](0-PROJECTS/03-03-05.md)  
