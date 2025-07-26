@@ -616,7 +616,7 @@
     - **Customer Support Automation** 📗 [03-03-05.md](0-PROJECTS/03-03-05.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-05-CZ.md](0-PROJECTS/03-03-05-CZ.md)  
       (*RAG, Zendesk/HelpScout, Sentence-Transformers, Redis, Claude-3*)  
       Automates ticket responses by pulling from FAQs and past resolved tickets with citation links.
-    - **Personalized Learning Tutor** 📗 [03-03-06.md](0-PROJECTS/03-03-06.md)  
+    - **Personalized Learning Tutor** 📗 [03-03-06.md](0-PROJECTS/03-03-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-06-CZ.md](0-PROJECTS/03-03-06-CZ.md)  
       (*RAG, Textbook knowledge base, InstructorXL embeddings, Qdrant, Mixtral*)  
       Answers student questions with textbook excerpts and generates practice quizzes.
     - **Multilingual News Explorer** 📗 [03-03-07.md](0-PROJECTS/03-03-07.md)  
