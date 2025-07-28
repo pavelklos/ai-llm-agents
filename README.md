@@ -622,7 +622,7 @@
     - **Multilingual News Explorer** 📗 [03-03-07.md](0-PROJECTS/03-03-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-07-CZ.md](0-PROJECTS/03-03-07-CZ.md)  
       (*RAG, News API, multilingual embeddings, Milvus, GPT-4 Turbo*)  
       Retrieves and summarizes news articles across languages with bias detection.
-    - **Code Documentation Assistant** 📗 [03-03-08.md](0-PROJECTS/03-03-08.md)  
+    - **Code Documentation Assistant** 📗 [03-03-08.md](0-PROJECTS/03-03-08.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-08-CZ.md](0-PROJECTS/03-03-08-CZ.md)  
       (*RAG, GitHub repos, CodeBERT, LanceDB, StarCoder2*)  
       Answers programming questions by searching codebases and generating examples.
     - **E-commerce Product Recommender** 📗 [03-03-09.md](0-PROJECTS/03-03-09.md)  
