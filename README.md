@@ -619,7 +619,7 @@
     - **Personalized Learning Tutor** 📗 [03-03-06.md](0-PROJECTS/03-03-06.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-06-CZ.md](0-PROJECTS/03-03-06-CZ.md)  
       (*RAG, Textbook knowledge base, InstructorXL embeddings, Qdrant, Mixtral*)  
       Answers student questions with textbook excerpts and generates practice quizzes.
-    - **Multilingual News Explorer** 📗 [03-03-07.md](0-PROJECTS/03-03-07.md)  
+    - **Multilingual News Explorer** 📗 [03-03-07.md](0-PROJECTS/03-03-07.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-07-CZ.md](0-PROJECTS/03-03-07-CZ.md)  
       (*RAG, News API, multilingual embeddings, Milvus, GPT-4 Turbo*)  
       Retrieves and summarizes news articles across languages with bias detection.
     - **Code Documentation Assistant** 📗 [03-03-08.md](0-PROJECTS/03-03-08.md)  
