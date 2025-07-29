@@ -628,7 +628,7 @@
     - **E-commerce Product Recommender** 📗 [03-03-09.md](0-PROJECTS/03-03-09.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-09-CZ.md](0-PROJECTS/03-03-09-CZ.md)  
       (*RAG, Product catalog, CLIP embeddings, Elasticsearch, Command R+*)  
       Conversational product search that understands "I need a gift for my hiking-loving mom".
-    - **Historical Events Explorer** 📗 [03-03-10.md](0-PROJECTS/03-03-10.md)  
+    - **Historical Events Explorer** 📗 [03-03-10.md](0-PROJECTS/03-03-10.md) <img src="https://flagcdn.com/w40/cz.png" width="15" alt="Czech Flag"> [03-03-10-CZ.md](0-PROJECTS/03-03-10-CZ.md)  
       (*RAG, Wikipedia/archive.org, Time-aware embeddings, PostgreSQL, Gemini Pro*)  
       Answers complex historical queries like "What caused the fall of the Berlin Wall?" with sourced timelines.
 
