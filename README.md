@@ -646,7 +646,7 @@
       (extractive summarization, abstractive summarization, key point extraction, multi-document synthesis)
     - **Conversational SQL Query Builder** 📗 [04-01-04.md](0-PROJECTS/04-01-04.md)  
       (natural language to SQL, database schema understanding, query optimization, error handling)
-    - **Automated Technical Documentation Generator**  
+    - **Automated Technical Documentation Generator** 📗 [04-01-05.md](0-PROJECTS/04-01-05.md)  
       (code-to-docs, API documentation, inline comments analysis, markdown generation)
     - **Intelligent Email Response System**  
       (email classification, sentiment analysis, auto-reply generation, context understanding)
