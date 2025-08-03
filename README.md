@@ -648,7 +648,7 @@
       (natural language to SQL, database schema understanding, query optimization, error handling)
     - **Automated Technical Documentation Generator** 📗 [04-01-05.md](0-PROJECTS/04-01-05.md)  
       (code-to-docs, API documentation, inline comments analysis, markdown generation)
-    - **Intelligent Email Response System**  
+    - **Intelligent Email Response System** 📗 [04-01-06.md](0-PROJECTS/04-01-06.md)  
       (email classification, sentiment analysis, auto-reply generation, context understanding)
     - **Advanced Chatbot with RAG**  
       (retrieval-augmented generation, vector databases, knowledge base integration, contextual responses)
