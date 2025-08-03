@@ -638,7 +638,7 @@
 - **AI-LLM**
   
   - <small>Project selection by [Claude](https://claude.ai/) (04-01)</small>
-    - **Intelligent Code Review Assistant**  
+    - **Intelligent Code Review Assistant** 📗 [04-01-01.md](0-PROJECTS/04-01-01.md)  
       (code analysis, static analysis, automated feedback, pull request optimization)
     - **Multi-Language Document Translator**  
       (neural machine translation, context preservation, domain adaptation, batch processing)
