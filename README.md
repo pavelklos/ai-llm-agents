@@ -650,7 +650,7 @@
       (code-to-docs, API documentation, inline comments analysis, markdown generation)
     - **Intelligent Email Response System** 📗 [04-01-06.md](0-PROJECTS/04-01-06.md)  
       (email classification, sentiment analysis, auto-reply generation, context understanding)
-    - **Advanced Chatbot with RAG**  
+    - **Advanced Chatbot with RAG** 📗 [04-01-07.md](0-PROJECTS/04-01-07.md)  
       (retrieval-augmented generation, vector databases, knowledge base integration, contextual responses)
     - **Creative Writing Assistant**  
       (story generation, character development, plot suggestions, writing style analysis)
