@@ -652,7 +652,7 @@
       (email classification, sentiment analysis, auto-reply generation, context understanding)
     - **Advanced Chatbot with RAG** 📗 [04-01-07.md](0-PROJECTS/04-01-07.md)  
       (retrieval-augmented generation, vector databases, knowledge base integration, contextual responses)
-    - **Creative Writing Assistant**  
+    - **Creative Writing Assistant** 📗 [04-01-08.md](0-PROJECTS/04-01-08.md)  
       (story generation, character development, plot suggestions, writing style analysis)
     - **Legal Document Analyzer**  
       (contract analysis, clause extraction, compliance checking, risk assessment)
