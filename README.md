@@ -644,7 +644,7 @@
       (neural machine translation, context preservation, domain adaptation, batch processing)
     - **Smart Content Summarization Engine** 📗 [04-01-03.md](0-PROJECTS/04-01-03.md)  
       (extractive summarization, abstractive summarization, key point extraction, multi-document synthesis)
-    - **Conversational SQL Query Builder**  
+    - **Conversational SQL Query Builder** 📗 [04-01-04.md](0-PROJECTS/04-01-04.md)  
       (natural language to SQL, database schema understanding, query optimization, error handling)
     - **Automated Technical Documentation Generator**  
       (code-to-docs, API documentation, inline comments analysis, markdown generation)
