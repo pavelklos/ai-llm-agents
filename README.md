@@ -638,36 +638,66 @@
 - **AI-LLM**
   
   - <small>Project selection by [Claude](https://claude.ai/) (04-01)</small>
-    - **Intelligent Code Review Assistant** (code analysis, static analysis, automated feedback, pull request optimization)
-    - **Multi-Language Document Translator** (neural machine translation, context preservation, domain adaptation, batch processing)
-    - **Smart Content Summarization Engine** (extractive summarization, abstractive summarization, key point extraction, multi-document synthesis)
-    - **Conversational SQL Query Builder** (natural language to SQL, database schema understanding, query optimization, error handling)
-    - **Automated Technical Documentation Generator** (code-to-docs, API documentation, inline comments analysis, markdown generation)
-    - **Intelligent Email Response System** (email classification, sentiment analysis, auto-reply generation, context understanding)
-    - **Advanced Chatbot with RAG** (retrieval-augmented generation, vector databases, knowledge base integration, contextual responses)
-    - **Creative Writing Assistant** (story generation, character development, plot suggestions, writing style analysis)
-    - **Legal Document Analyzer** (contract analysis, clause extraction, compliance checking, risk assessment)
-    - **Medical Report Interpretation Tool** (clinical text processing, medical terminology extraction, diagnosis suggestions, report summarization)
-    - **Personalized Learning Content Generator** (adaptive content creation, learning path optimization, skill assessment, educational material synthesis)
-    - **Social Media Content Optimizer** (hashtag generation, engagement prediction, content scheduling, audience analysis)
-    - **Financial News Sentiment Analyzer** (market sentiment analysis, news impact prediction, financial entity recognition, trend analysis)
-    - **Multilingual Customer Support Bot** (cross-language support, cultural adaptation, escalation handling, knowledge base integration)
-    - **Academic Research Paper Summarizer** (scientific text processing, citation analysis, methodology extraction, research gap identification)
-    - **Product Description Generator** (e-commerce optimization, SEO-friendly content, feature highlighting, competitor analysis)
-    - **Meeting Minutes Transcription & Analysis** (speech-to-text integration, action items extraction, participant analysis, follow-up generation)
-    - **Automated Bug Report Triage System** (issue classification, priority assignment, developer matching, similar bug detection)
-    - **Interactive Story Generator** (branching narratives, user choice integration, character consistency, plot coherence)
-    - **Recipe Recommendation Engine** (dietary restrictions, ingredient substitution, nutritional analysis, cooking skill adaptation)
-    - **Job Description Optimizer** (bias detection, skill requirement analysis, market comparison, candidate matching)
-    - **Press Release Generator** (company news analysis, tone adjustment, target audience adaptation, distribution optimization)
-    - **Travel Itinerary Planner** (destination research, budget optimization, activity recommendations, local insights)
-    - **Code Comment Generator** (function documentation, parameter explanation, usage examples, best practices)
-    - **Podcast Episode Summarizer** (audio transcription, key topics extraction, timestamp generation, speaker identification)
-    - **Grant Proposal Writing Assistant** (funding opportunity matching, proposal structure optimization, success factor analysis, compliance checking)
-    - **Brand Voice Consistency Checker** (tone analysis, style guide enforcement, content alignment, brand personality matching)
-    - **Scientific Literature Review Generator** (research synthesis, citation management, methodology comparison, gap analysis)
-    - **Language Learning Conversation Partner** (adaptive difficulty, grammar correction, cultural context, pronunciation feedback)
-    - **Real Estate Listing Optimizer** (property description enhancement, market analysis, pricing suggestions, buyer persona targeting)
+    - **Intelligent Code Review Assistant**  
+      (code analysis, static analysis, automated feedback, pull request optimization)
+    - **Multi-Language Document Translator**  
+      (neural machine translation, context preservation, domain adaptation, batch processing)
+    - **Smart Content Summarization Engine**  
+      (extractive summarization, abstractive summarization, key point extraction, multi-document synthesis)
+    - **Conversational SQL Query Builder**  
+      (natural language to SQL, database schema understanding, query optimization, error handling)
+    - **Automated Technical Documentation Generator**  
+      (code-to-docs, API documentation, inline comments analysis, markdown generation)
+    - **Intelligent Email Response System**  
+      (email classification, sentiment analysis, auto-reply generation, context understanding)
+    - **Advanced Chatbot with RAG**  
+      (retrieval-augmented generation, vector databases, knowledge base integration, contextual responses)
+    - **Creative Writing Assistant**  
+      (story generation, character development, plot suggestions, writing style analysis)
+    - **Legal Document Analyzer**  
+      (contract analysis, clause extraction, compliance checking, risk assessment)
+    - **Medical Report Interpretation Tool**  
+      (clinical text processing, medical terminology extraction, diagnosis suggestions, report summarization)
+    - **Personalized Learning Content Generator**  
+      (adaptive content creation, learning path optimization, skill assessment, educational material synthesis)
+    - **Social Media Content Optimizer**  
+      (hashtag generation, engagement prediction, content scheduling, audience analysis)
+    - **Financial News Sentiment Analyzer**  
+      (market sentiment analysis, news impact prediction, financial entity recognition, trend analysis)
+    - **Multilingual Customer Support Bot**  
+      (cross-language support, cultural adaptation, escalation handling, knowledge base integration)
+    - **Academic Research Paper Summarizer**  
+      (scientific text processing, citation analysis, methodology extraction, research gap identification)
+    - **Product Description Generator**  
+      (e-commerce optimization, SEO-friendly content, feature highlighting, competitor analysis)
+    - **Meeting Minutes Transcription & Analysis**  
+      (speech-to-text integration, action items extraction, participant analysis, follow-up generation)
+    - **Automated Bug Report Triage System**  
+      (issue classification, priority assignment, developer matching, similar bug detection)
+    - **Interactive Story Generator**  
+      (branching narratives, user choice integration, character consistency, plot coherence)
+    - **Recipe Recommendation Engine**  
+      (dietary restrictions, ingredient substitution, nutritional analysis, cooking skill adaptation)
+    - **Job Description Optimizer**  
+      (bias detection, skill requirement analysis, market comparison, candidate matching)
+    - **Press Release Generator**  
+      (company news analysis, tone adjustment, target audience adaptation, distribution optimization)
+    - **Travel Itinerary Planner**  
+      (destination research, budget optimization, activity recommendations, local insights)
+    - **Code Comment Generator**  
+      (function documentation, parameter explanation, usage examples, best practices)
+    - **Podcast Episode Summarizer**  
+      (audio transcription, key topics extraction, timestamp generation, speaker identification)
+    - **Grant Proposal Writing Assistant**  
+      (funding opportunity matching, proposal structure optimization, success factor analysis, compliance checking)
+    - **Brand Voice Consistency Checker**  
+      (tone analysis, style guide enforcement, content alignment, brand personality matching)
+    - **Scientific Literature Review Generator**  
+      (research synthesis, citation management, methodology comparison, gap analysis)
+    - **Language Learning Conversation Partner**  
+      (adaptive difficulty, grammar correction, cultural context, pronunciation feedback)
+    - **Real Estate Listing Optimizer**  
+      (property description enhancement, market analysis, pricing suggestions, buyer persona targeting)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (04-02)</small>
     1. **Legal Document Analyzer** *(RAG, LangChain, OpenAI, PDF parsing, summarization)*
