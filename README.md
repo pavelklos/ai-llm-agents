@@ -642,7 +642,7 @@
       (code analysis, static analysis, automated feedback, pull request optimization)
     - **Multi-Language Document Translator** 📗 [04-01-02.md](0-PROJECTS/04-01-02.md)  
       (neural machine translation, context preservation, domain adaptation, batch processing)
-    - **Smart Content Summarization Engine**  
+    - **Smart Content Summarization Engine** 📗 [04-01-03.md](0-PROJECTS/04-01-03.md)  
       (extractive summarization, abstractive summarization, key point extraction, multi-document synthesis)
     - **Conversational SQL Query Builder**  
       (natural language to SQL, database schema understanding, query optimization, error handling)
