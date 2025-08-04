@@ -654,7 +654,7 @@
       (retrieval-augmented generation, vector databases, knowledge base integration, contextual responses)
     - **Creative Writing Assistant** 📗 [04-01-08.md](0-PROJECTS/04-01-08.md)  
       (story generation, character development, plot suggestions, writing style analysis)
-    - **Legal Document Analyzer**  
+    - **Legal Document Analyzer** 📗 [04-01-09.md](0-PROJECTS/04-01-09.md)  
       (contract analysis, clause extraction, compliance checking, risk assessment)
     - **Medical Report Interpretation Tool**  
       (clinical text processing, medical terminology extraction, diagnosis suggestions, report summarization)
