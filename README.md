@@ -660,7 +660,7 @@
       (clinical text processing, medical terminology extraction, diagnosis suggestions, report summarization)
     - **Personalized Learning Content Generator** 📗 [04-01-11.md](0-PROJECTS/04-01-11.md)  
       (adaptive content creation, learning path optimization, skill assessment, educational material synthesis)
-    - **Social Media Content Optimizer**  
+    - **Social Media Content Optimizer** 📗 [04-01-12.md](0-PROJECTS/04-01-12.md)  
       (hashtag generation, engagement prediction, content scheduling, audience analysis)
     - **Financial News Sentiment Analyzer**  
       (market sentiment analysis, news impact prediction, financial entity recognition, trend analysis)
