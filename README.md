@@ -658,7 +658,7 @@
       (contract analysis, clause extraction, compliance checking, risk assessment)
     - **Medical Report Interpretation Tool** 📗 [04-01-10.md](0-PROJECTS/04-01-10.md)  
       (clinical text processing, medical terminology extraction, diagnosis suggestions, report summarization)
-    - **Personalized Learning Content Generator**  
+    - **Personalized Learning Content Generator** 📗 [04-01-11.md](0-PROJECTS/04-01-11.md)  
       (adaptive content creation, learning path optimization, skill assessment, educational material synthesis)
     - **Social Media Content Optimizer**  
       (hashtag generation, engagement prediction, content scheduling, audience analysis)
