@@ -662,7 +662,7 @@
       (adaptive content creation, learning path optimization, skill assessment, educational material synthesis)
     - **Social Media Content Optimizer** 📗 [04-01-12.md](0-PROJECTS/04-01-12.md)  
       (hashtag generation, engagement prediction, content scheduling, audience analysis)
-    - **Financial News Sentiment Analyzer**  
+    - **Financial News Sentiment Analyzer** 📗 [04-01-13.md](0-PROJECTS/04-01-13.md)  
       (market sentiment analysis, news impact prediction, financial entity recognition, trend analysis)
     - **Multilingual Customer Support Bot**  
       (cross-language support, cultural adaptation, escalation handling, knowledge base integration)
