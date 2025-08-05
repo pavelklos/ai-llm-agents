@@ -666,7 +666,7 @@
       (market sentiment analysis, news impact prediction, financial entity recognition, trend analysis)
     - **Multilingual Customer Support Bot** 📗 [04-01-14.md](0-PROJECTS/04-01-14.md)  
       (cross-language support, cultural adaptation, escalation handling, knowledge base integration)
-    - **Academic Research Paper Summarizer**  
+    - **Academic Research Paper Summarizer** 📗 [04-01-15.md](0-PROJECTS/04-01-15.md)  
       (scientific text processing, citation analysis, methodology extraction, research gap identification)
     - **Product Description Generator**  
       (e-commerce optimization, SEO-friendly content, feature highlighting, competitor analysis)
