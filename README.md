@@ -672,7 +672,7 @@
       (e-commerce optimization, SEO-friendly content, feature highlighting, competitor analysis)
     - **Meeting Minutes Transcription & Analysis** 📗 [04-01-17.md](0-PROJECTS/04-01-17.md)  
       (speech-to-text integration, action items extraction, participant analysis, follow-up generation)
-    - **Automated Bug Report Triage System**  
+    - **Automated Bug Report Triage System** 📗 [04-01-18.md](0-PROJECTS/04-01-18.md)  
       (issue classification, priority assignment, developer matching, similar bug detection)
     - **Interactive Story Generator**  
       (branching narratives, user choice integration, character consistency, plot coherence)
