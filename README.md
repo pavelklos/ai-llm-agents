@@ -670,7 +670,7 @@
       (scientific text processing, citation analysis, methodology extraction, research gap identification)
     - **Product Description Generator** 📗 [04-01-16.md](0-PROJECTS/04-01-16.md)  
       (e-commerce optimization, SEO-friendly content, feature highlighting, competitor analysis)
-    - **Meeting Minutes Transcription & Analysis**  
+    - **Meeting Minutes Transcription & Analysis** 📗 [04-01-17.md](0-PROJECTS/04-01-17.md)  
       (speech-to-text integration, action items extraction, participant analysis, follow-up generation)
     - **Automated Bug Report Triage System**  
       (issue classification, priority assignment, developer matching, similar bug detection)
