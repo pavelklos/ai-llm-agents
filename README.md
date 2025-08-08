@@ -690,7 +690,7 @@
       (audio transcription, key topics extraction, timestamp generation, speaker identification)
     - **Grant Proposal Writing Assistant** 📗 [04-01-26.md](0-PROJECTS/04-01-26.md)  
       (funding opportunity matching, proposal structure optimization, success factor analysis, compliance checking)
-    - **Brand Voice Consistency Checker**  
+    - **Brand Voice Consistency Checker** 📗 [04-01-27.md](0-PROJECTS/04-01-27.md)  
       (tone analysis, style guide enforcement, content alignment, brand personality matching)
     - **Scientific Literature Review Generator**  
       (research synthesis, citation management, methodology comparison, gap analysis)
