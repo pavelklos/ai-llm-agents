@@ -688,7 +688,7 @@
       (function documentation, parameter explanation, usage examples, best practices)
     - **Podcast Episode Summarizer** 📗 [04-01-25.md](0-PROJECTS/04-01-25.md)  
       (audio transcription, key topics extraction, timestamp generation, speaker identification)
-    - **Grant Proposal Writing Assistant**  
+    - **Grant Proposal Writing Assistant** 📗 [04-01-26.md](0-PROJECTS/04-01-26.md)  
       (funding opportunity matching, proposal structure optimization, success factor analysis, compliance checking)
     - **Brand Voice Consistency Checker**  
       (tone analysis, style guide enforcement, content alignment, brand personality matching)
