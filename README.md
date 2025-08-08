@@ -684,7 +684,7 @@
       (company news analysis, tone adjustment, target audience adaptation, distribution optimization)
     - **Travel Itinerary Planner** 📗 [04-01-23.md](0-PROJECTS/04-01-23.md)  
       (destination research, budget optimization, activity recommendations, local insights)
-    - **Code Comment Generator**  
+    - **Code Comment Generator** 📗 [04-01-24.md](0-PROJECTS/04-01-24.md)  
       (function documentation, parameter explanation, usage examples, best practices)
     - **Podcast Episode Summarizer**  
       (audio transcription, key topics extraction, timestamp generation, speaker identification)
