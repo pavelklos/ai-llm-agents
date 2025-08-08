@@ -680,7 +680,7 @@
       (dietary restrictions, ingredient substitution, nutritional analysis, cooking skill adaptation)
     - **Job Description Optimizer** 📗 [04-01-21.md](0-PROJECTS/04-01-21.md)  
       (bias detection, skill requirement analysis, market comparison, candidate matching)
-    - **Press Release Generator**  
+    - **Press Release Generator** 📗 [04-01-22.md](0-PROJECTS/04-01-22.md)  
       (company news analysis, tone adjustment, target audience adaptation, distribution optimization)
     - **Travel Itinerary Planner**  
       (destination research, budget optimization, activity recommendations, local insights)
