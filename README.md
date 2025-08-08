@@ -676,7 +676,7 @@
       (issue classification, priority assignment, developer matching, similar bug detection)
     - **Interactive Story Generator** 📗 [04-01-19.md](0-PROJECTS/04-01-19.md)  
       (branching narratives, user choice integration, character consistency, plot coherence)
-    - **Recipe Recommendation Engine**  
+    - **Recipe Recommendation Engine** 📗 [04-01-20.md](0-PROJECTS/04-01-20.md)  
       (dietary restrictions, ingredient substitution, nutritional analysis, cooking skill adaptation)
     - **Job Description Optimizer**  
       (bias detection, skill requirement analysis, market comparison, candidate matching)
