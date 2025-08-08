@@ -682,7 +682,7 @@
       (bias detection, skill requirement analysis, market comparison, candidate matching)
     - **Press Release Generator** 📗 [04-01-22.md](0-PROJECTS/04-01-22.md)  
       (company news analysis, tone adjustment, target audience adaptation, distribution optimization)
-    - **Travel Itinerary Planner**  
+    - **Travel Itinerary Planner** 📗 [04-01-23.md](0-PROJECTS/04-01-23.md)  
       (destination research, budget optimization, activity recommendations, local insights)
     - **Code Comment Generator**  
       (function documentation, parameter explanation, usage examples, best practices)
