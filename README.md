@@ -692,7 +692,7 @@
       (funding opportunity matching, proposal structure optimization, success factor analysis, compliance checking)
     - **Brand Voice Consistency Checker** 📗 [04-01-27.md](0-PROJECTS/04-01-27.md)  
       (tone analysis, style guide enforcement, content alignment, brand personality matching)
-    - **Scientific Literature Review Generator**  
+    - **Scientific Literature Review Generator** 📗 [04-01-28.md](0-PROJECTS/04-01-28.md)  
       (research synthesis, citation management, methodology comparison, gap analysis)
     - **Language Learning Conversation Partner**  
       (adaptive difficulty, grammar correction, cultural context, pronunciation feedback)
