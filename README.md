@@ -678,7 +678,7 @@
       (branching narratives, user choice integration, character consistency, plot coherence)
     - **Recipe Recommendation Engine** 📗 [04-01-20.md](0-PROJECTS/04-01-20.md)  
       (dietary restrictions, ingredient substitution, nutritional analysis, cooking skill adaptation)
-    - **Job Description Optimizer**  
+    - **Job Description Optimizer** 📗 [04-01-21.md](0-PROJECTS/04-01-21.md)  
       (bias detection, skill requirement analysis, market comparison, candidate matching)
     - **Press Release Generator**  
       (company news analysis, tone adjustment, target audience adaptation, distribution optimization)
