@@ -686,7 +686,7 @@
       (destination research, budget optimization, activity recommendations, local insights)
     - **Code Comment Generator** 📗 [04-01-24.md](0-PROJECTS/04-01-24.md)  
       (function documentation, parameter explanation, usage examples, best practices)
-    - **Podcast Episode Summarizer**  
+    - **Podcast Episode Summarizer** 📗 [04-01-25.md](0-PROJECTS/04-01-25.md)  
       (audio transcription, key topics extraction, timestamp generation, speaker identification)
     - **Grant Proposal Writing Assistant**  
       (funding opportunity matching, proposal structure optimization, success factor analysis, compliance checking)
