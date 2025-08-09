@@ -696,7 +696,7 @@
       (research synthesis, citation management, methodology comparison, gap analysis)
     - **Language Learning Conversation Partner** 📗 [04-01-29.md](0-PROJECTS/04-01-29.md)  
       (adaptive difficulty, grammar correction, cultural context, pronunciation feedback)
-    - **Real Estate Listing Optimizer**  
+    - **Real Estate Listing Optimizer** 📗 [04-01-30.md](0-PROJECTS/04-01-30.md)  
       (property description enhancement, market analysis, pricing suggestions, buyer persona targeting)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (04-02)</small>
