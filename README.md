@@ -694,7 +694,7 @@
       (tone analysis, style guide enforcement, content alignment, brand personality matching)
     - **Scientific Literature Review Generator** 📗 [04-01-28.md](0-PROJECTS/04-01-28.md)  
       (research synthesis, citation management, methodology comparison, gap analysis)
-    - **Language Learning Conversation Partner**  
+    - **Language Learning Conversation Partner** 📗 [04-01-29.md](0-PROJECTS/04-01-29.md)  
       (adaptive difficulty, grammar correction, cultural context, pronunciation feedback)
     - **Real Estate Listing Optimizer**  
       (property description enhancement, market analysis, pricing suggestions, buyer persona targeting)
