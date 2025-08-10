@@ -702,7 +702,7 @@
   - <small>Project selection by [GPT](https://chatgpt.com/) (04-02)</small>
     - **Legal Document Analyzer** 📗 [04-02-01.md](0-PROJECTS/04-02-01.md)  
       *(RAG, LangChain, OpenAI, PDF parsing, summarization)*
-    - **Medical Assistant Chatbot**  
+    - **Medical Assistant Chatbot** 📗 [04-02-02.md](0-PROJECTS/04-02-02.md)  
       *(LLM, multi-turn dialogue, symptom checker, MedGPT, HIPAA-safe)*
     - **Code-to-Comment Generator**  
       *(code generation, transformer models, docstring generation, Python, GitHub Copilot-style)*
