@@ -700,7 +700,7 @@
       (property description enhancement, market analysis, pricing suggestions, buyer persona targeting)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (04-02)</small>
-    - **Legal Document Analyzer**  
+    - **Legal Document Analyzer** 📗 [04-02-01.md](0-PROJECTS/04-02-01.md)  
       *(RAG, LangChain, OpenAI, PDF parsing, summarization)*
     - **Medical Assistant Chatbot**  
       *(LLM, multi-turn dialogue, symptom checker, MedGPT, HIPAA-safe)*
