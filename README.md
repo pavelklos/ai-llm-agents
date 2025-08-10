@@ -700,36 +700,66 @@
       (property description enhancement, market analysis, pricing suggestions, buyer persona targeting)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (04-02)</small>
-    1. **Legal Document Analyzer** *(RAG, LangChain, OpenAI, PDF parsing, summarization)*
-    2. **Medical Assistant Chatbot** *(LLM, multi-turn dialogue, symptom checker, MedGPT, HIPAA-safe)*
-    3. **Code-to-Comment Generator** *(code generation, transformer models, docstring generation, Python, GitHub Copilot-style)*
-    4. **Multilingual Translator with Grammar Tips** *(LLM, translation, grammar correction, token alignment, NLLB)*
-    5. **AI Study Buddy for Exams** *(vectorstore, flashcard generation, RAG, Pinecone, OpenAI Embeddings)*
-    6. **Voice-Enabled AI Interview Coach** *(speech-to-text, Whisper, LLM, feedback generation, HR GPT)*
-    7. **LLM-Powered News Summarizer with Bias Detection** *(news scraping, sentiment analysis, summarization, political bias detection)*
-    8. **LLM-Powered E-commerce Product Recommender** *(chatbot, recommendation, retrieval, user history, embeddings)*
-    9. **Interactive Story Generator for Kids** *(creative writing, LLM, prompt engineering, visual storytelling, audio synthesis)*
-    10. **AI Contract Reviewer** *(legal clauses extraction, semantic search, contract type detection, LLM)*
-    11. **Financial Report Analyzer** *(XBRL, summarization, key figure extraction, LLM+charts)*
-    12. **Real-time Meeting Minutes Generator** *(audio, Whisper, summarization, highlights, tagging)*
-    13. **Smart Resume Builder with LLM** *(job matching, skills extraction, text generation, HR GPT)*
-    14. **AI-Powered Tutor for Math** *(step-by-step reasoning, equation solving, Wolfram Alpha, MathGPT)*
-    15. **Personal Life Coach Bot** *(LLM, memory, journaling, daily planning, goal tracking)*
-    16. **LLM-Powered Agent for Research Paper Insights** *(PDF ingestion, vectorstore, question answering, citation extraction)*
-    17. **Movie Script Analyzer and Generator** *(screenplay format, genre detection, story arc analysis, text generation)*
-    18. **Customer Support Agent with Memory** *(LangChain, vector DB, multi-session memory, persona)*
-    19. **AI Lawyer Assistant for Legal Advice Simulation** *(RAG, GPT-4, legal ontology, jurisdiction rules)*
-    20. **AI Dungeon Master for Tabletop RPGs** *(world-building, rule-following, real-time story generation, agent-based)*
-    21. **Academic Plagiarism Detector with Explanation** *(similarity check, AI detector, LLM explanation, cross-document search)*
-    22. **Nutrition Advisor with Meal Generator** *(diet analysis, health LLM, food DB, OpenAI + vector search)*
-    23. **AI-Powered Translator with Cultural Context** *(LLM, translation memory, tone detection, adaptation)*
-    24. **Voice-controlled Home Automation Chatbot** *(LLM + IoT, natural commands, action-to-intent mapping)*
-    25. **AI Fashion Stylist Bot** *(style detection, outfit generation, multimodal LLM, seasonal trends)*
-    26. **AI-Powered Therapy Simulator** *(empathetic agents, LLM, memory, emotional feedback)*
-    27. **AI Assistant for Scientific Paper Writing** *(text generation, latex support, citation generation)*
-    28. **LLM-Powered Game Guide Chatbot** *(game wiki ingestion, walkthrough generation, strategy hints)*
-    29. **AI-Powered CV Skill Gap Analyzer** *(resume parsing, skill prediction, upskilling suggestions)*
-    30. **Interactive Data Explorer using LLM** *(data analysis, pandas agent, CSV QA, chart generation)*
+    - **Legal Document Analyzer**  
+      *(RAG, LangChain, OpenAI, PDF parsing, summarization)*
+    - **Medical Assistant Chatbot**  
+      *(LLM, multi-turn dialogue, symptom checker, MedGPT, HIPAA-safe)*
+    - **Code-to-Comment Generator**  
+      *(code generation, transformer models, docstring generation, Python, GitHub Copilot-style)*
+    - **Multilingual Translator with Grammar Tips**  
+      *(LLM, translation, grammar correction, token alignment, NLLB)*
+    - **AI Study Buddy for Exams**  
+      *(vectorstore, flashcard generation, RAG, Pinecone, OpenAI Embeddings)*
+    - **Voice-Enabled AI Interview Coach**  
+      *(speech-to-text, Whisper, LLM, feedback generation, HR GPT)*
+    - **LLM-Powered News Summarizer with Bias Detection**  
+      *(news scraping, sentiment analysis, summarization, political bias detection)*
+    - **LLM-Powered E-commerce Product Recommender**  
+      *(chatbot, recommendation, retrieval, user history, embeddings)*
+    - **Interactive Story Generator for Kids**  
+      *(creative writing, LLM, prompt engineering, visual storytelling, audio synthesis)*
+    - **AI Contract Reviewer**  
+      *(legal clauses extraction, semantic search, contract type detection, LLM)*
+    - **Financial Report Analyzer**  
+      *(XBRL, summarization, key figure extraction, LLM+charts)*
+    - **Real-time Meeting Minutes Generator**  
+      *(audio, Whisper, summarization, highlights, tagging)*
+    - **Smart Resume Builder with LLM**  
+      *(job matching, skills extraction, text generation, HR GPT)*
+    - **AI-Powered Tutor for Math**  
+      *(step-by-step reasoning, equation solving, Wolfram Alpha, MathGPT)*
+    - **Personal Life Coach Bot**  
+      *(LLM, memory, journaling, daily planning, goal tracking)*
+    - **LLM-Powered Agent for Research Paper Insights**  
+      *(PDF ingestion, vectorstore, question answering, citation extraction)*
+    - **Movie Script Analyzer and Generator**  
+      *(screenplay format, genre detection, story arc analysis, text generation)*
+    - **Customer Support Agent with Memory**  
+      *(LangChain, vector DB, multi-session memory, persona)*
+    - **AI Lawyer Assistant for Legal Advice Simulation**  
+      *(RAG, GPT-4, legal ontology, jurisdiction rules)*
+    - **AI Dungeon Master for Tabletop RPGs**  
+      *(world-building, rule-following, real-time story generation, agent-based)*
+    - **Academic Plagiarism Detector with Explanation**  
+      *(similarity check, AI detector, LLM explanation, cross-document search)*
+    - **Nutrition Advisor with Meal Generator**  
+      *(diet analysis, health LLM, food DB, OpenAI + vector search)*
+    - **AI-Powered Translator with Cultural Context**  
+      *(LLM, translation memory, tone detection, adaptation)*
+    - **Voice-controlled Home Automation Chatbot**  
+      *(LLM + IoT, natural commands, action-to-intent mapping)*
+    - **AI Fashion Stylist Bot**  
+      *(style detection, outfit generation, multimodal LLM, seasonal trends)*
+    - **AI-Powered Therapy Simulator**  
+      *(empathetic agents, LLM, memory, emotional feedback)*
+    - **AI Assistant for Scientific Paper Writing**  
+      *(text generation, latex support, citation generation)*
+    - **LLM-Powered Game Guide Chatbot**  
+      *(game wiki ingestion, walkthrough generation, strategy hints)*
+    - **AI-Powered CV Skill Gap Analyzer**  
+      *(resume parsing, skill prediction, upskilling suggestions)*
+    - **Interactive Data Explorer using LLM**  
+      *(data analysis, pandas agent, CSV QA, chart generation)*
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (04-03)</small>
     1. **AI Code Reviewer** (LLM, static analysis, GitHub integration)  
