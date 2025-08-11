@@ -706,7 +706,7 @@
       *(LLM, multi-turn dialogue, symptom checker, MedGPT, HIPAA-safe)*
     - **Code-to-Comment Generator** 📗 [04-02-03.md](0-PROJECTS/04-02-03.md)  
       *(code generation, transformer models, docstring generation, Python, GitHub Copilot-style)*
-    - **Multilingual Translator with Grammar Tips**  
+    - **Multilingual Translator with Grammar Tips** 📗 [04-02-04.md](0-PROJECTS/04-02-04.md)  
       *(LLM, translation, grammar correction, token alignment, NLLB)*
     - **AI Study Buddy for Exams**  
       *(vectorstore, flashcard generation, RAG, Pinecone, OpenAI Embeddings)*
