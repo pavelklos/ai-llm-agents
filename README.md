@@ -704,7 +704,7 @@
       *(RAG, LangChain, OpenAI, PDF parsing, summarization)*
     - **Medical Assistant Chatbot** 📗 [04-02-02.md](0-PROJECTS/04-02-02.md)  
       *(LLM, multi-turn dialogue, symptom checker, MedGPT, HIPAA-safe)*
-    - **Code-to-Comment Generator**  
+    - **Code-to-Comment Generator** 📗 [04-02-03.md](0-PROJECTS/04-02-03.md)  
       *(code generation, transformer models, docstring generation, Python, GitHub Copilot-style)*
     - **Multilingual Translator with Grammar Tips**  
       *(LLM, translation, grammar correction, token alignment, NLLB)*
