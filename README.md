@@ -716,7 +716,7 @@
       *(news scraping, sentiment analysis, summarization, political bias detection)*
     - **LLM-Powered E-commerce Product Recommender** 📗 [04-02-08.md](0-PROJECTS/04-02-08.md)  
       *(chatbot, recommendation, retrieval, user history, embeddings)*
-    - **Interactive Story Generator for Kids**  
+    - **Interactive Story Generator for Kids** 📗 [04-02-09.md](0-PROJECTS/04-02-09.md)  
       *(creative writing, LLM, prompt engineering, visual storytelling, audio synthesis)*
     - **AI Contract Reviewer**  
       *(legal clauses extraction, semantic search, contract type detection, LLM)*
