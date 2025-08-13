@@ -712,7 +712,7 @@
       *(vectorstore, flashcard generation, RAG, Pinecone, OpenAI Embeddings)*
     - **Voice-Enabled AI Interview Coach** 📗 [04-02-06.md](0-PROJECTS/04-02-06.md)  
       *(speech-to-text, Whisper, LLM, feedback generation, HR GPT)*
-    - **LLM-Powered News Summarizer with Bias Detection**  
+    - **LLM-Powered News Summarizer with Bias Detection** 📗 [04-02-07.md](0-PROJECTS/04-02-07.md)  
       *(news scraping, sentiment analysis, summarization, political bias detection)*
     - **LLM-Powered E-commerce Product Recommender**  
       *(chatbot, recommendation, retrieval, user history, embeddings)*
