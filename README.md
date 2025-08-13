@@ -708,7 +708,7 @@
       *(code generation, transformer models, docstring generation, Python, GitHub Copilot-style)*
     - **Multilingual Translator with Grammar Tips** 📗 [04-02-04.md](0-PROJECTS/04-02-04.md)  
       *(LLM, translation, grammar correction, token alignment, NLLB)*
-    - **AI Study Buddy for Exams**  
+    - **AI Study Buddy for Exams** 📗 [04-02-05.md](0-PROJECTS/04-02-05.md)  
       *(vectorstore, flashcard generation, RAG, Pinecone, OpenAI Embeddings)*
     - **Voice-Enabled AI Interview Coach**  
       *(speech-to-text, Whisper, LLM, feedback generation, HR GPT)*
