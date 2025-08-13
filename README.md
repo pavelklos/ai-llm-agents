@@ -722,7 +722,7 @@
       *(legal clauses extraction, semantic search, contract type detection, LLM)*
     - **Financial Report Analyzer** 📗 [04-02-11.md](0-PROJECTS/04-02-11.md)  
       *(XBRL, summarization, key figure extraction, LLM+charts)*
-    - **Real-time Meeting Minutes Generator**  
+    - **Real-time Meeting Minutes Generator** 📗 [04-02-12.md](0-PROJECTS/04-02-12.md)  
       *(audio, Whisper, summarization, highlights, tagging)*
     - **Smart Resume Builder with LLM**  
       *(job matching, skills extraction, text generation, HR GPT)*
