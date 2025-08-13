@@ -714,7 +714,7 @@
       *(speech-to-text, Whisper, LLM, feedback generation, HR GPT)*
     - **LLM-Powered News Summarizer with Bias Detection** 📗 [04-02-07.md](0-PROJECTS/04-02-07.md)  
       *(news scraping, sentiment analysis, summarization, political bias detection)*
-    - **LLM-Powered E-commerce Product Recommender**  
+    - **LLM-Powered E-commerce Product Recommender** 📗 [04-02-08.md](0-PROJECTS/04-02-08.md)  
       *(chatbot, recommendation, retrieval, user history, embeddings)*
     - **Interactive Story Generator for Kids**  
       *(creative writing, LLM, prompt engineering, visual storytelling, audio synthesis)*
