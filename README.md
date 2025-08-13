@@ -724,7 +724,7 @@
       *(XBRL, summarization, key figure extraction, LLM+charts)*
     - **Real-time Meeting Minutes Generator** 📗 [04-02-12.md](0-PROJECTS/04-02-12.md)  
       *(audio, Whisper, summarization, highlights, tagging)*
-    - **Smart Resume Builder with LLM**  
+    - **Smart Resume Builder with LLM** 📗 [04-02-13.md](0-PROJECTS/04-02-13.md)  
       *(job matching, skills extraction, text generation, HR GPT)*
     - **AI-Powered Tutor for Math**  
       *(step-by-step reasoning, equation solving, Wolfram Alpha, MathGPT)*
