@@ -720,7 +720,7 @@
       *(creative writing, LLM, prompt engineering, visual storytelling, audio synthesis)*
     - **AI Contract Reviewer** 📗 [04-02-10.md](0-PROJECTS/04-02-10.md)  
       *(legal clauses extraction, semantic search, contract type detection, LLM)*
-    - **Financial Report Analyzer**  
+    - **Financial Report Analyzer** 📗 [04-02-11.md](0-PROJECTS/04-02-11.md)  
       *(XBRL, summarization, key figure extraction, LLM+charts)*
     - **Real-time Meeting Minutes Generator**  
       *(audio, Whisper, summarization, highlights, tagging)*
