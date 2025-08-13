@@ -718,7 +718,7 @@
       *(chatbot, recommendation, retrieval, user history, embeddings)*
     - **Interactive Story Generator for Kids** 📗 [04-02-09.md](0-PROJECTS/04-02-09.md)  
       *(creative writing, LLM, prompt engineering, visual storytelling, audio synthesis)*
-    - **AI Contract Reviewer**  
+    - **AI Contract Reviewer** 📗 [04-02-10.md](0-PROJECTS/04-02-10.md)  
       *(legal clauses extraction, semantic search, contract type detection, LLM)*
     - **Financial Report Analyzer**  
       *(XBRL, summarization, key figure extraction, LLM+charts)*
