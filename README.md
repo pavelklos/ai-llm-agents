@@ -726,7 +726,7 @@
       *(audio, Whisper, summarization, highlights, tagging)*
     - **Smart Resume Builder with LLM** 📗 [04-02-13.md](0-PROJECTS/04-02-13.md)  
       *(job matching, skills extraction, text generation, HR GPT)*
-    - **AI-Powered Tutor for Math**  
+    - **AI-Powered Tutor for Math** 📗 [04-02-14.md](0-PROJECTS/04-02-14.md)  
       *(step-by-step reasoning, equation solving, Wolfram Alpha, MathGPT)*
     - **Personal Life Coach Bot**  
       *(LLM, memory, journaling, daily planning, goal tracking)*
