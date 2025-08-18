@@ -728,7 +728,7 @@
       *(job matching, skills extraction, text generation, HR GPT)*
     - **AI-Powered Tutor for Math** 📗 [04-02-14.md](0-PROJECTS/04-02-14.md)  
       *(step-by-step reasoning, equation solving, Wolfram Alpha, MathGPT)*
-    - **Personal Life Coach Bot**  
+    - **Personal Life Coach Bot** 📗 [04-02-15.md](0-PROJECTS/04-02-15.md)  
       *(LLM, memory, journaling, daily planning, goal tracking)*
     - **LLM-Powered Agent for Research Paper Insights**  
       *(PDF ingestion, vectorstore, question answering, citation extraction)*
