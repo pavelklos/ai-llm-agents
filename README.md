@@ -730,7 +730,7 @@
       *(step-by-step reasoning, equation solving, Wolfram Alpha, MathGPT)*
     - **Personal Life Coach Bot** 📗 [04-02-15.md](0-PROJECTS/04-02-15.md)  
       *(LLM, memory, journaling, daily planning, goal tracking)*
-    - **LLM-Powered Agent for Research Paper Insights**  
+    - **LLM-Powered Agent for Research Paper Insights** 📗 [04-02-16.md](0-PROJECTS/04-02-16.md)  
       *(PDF ingestion, vectorstore, question answering, citation extraction)*
     - **Movie Script Analyzer and Generator**  
       *(screenplay format, genre detection, story arc analysis, text generation)*
