@@ -732,7 +732,7 @@
       *(LLM, memory, journaling, daily planning, goal tracking)*
     - **LLM-Powered Agent for Research Paper Insights** 📗 [04-02-16.md](0-PROJECTS/04-02-16.md)  
       *(PDF ingestion, vectorstore, question answering, citation extraction)*
-    - **Movie Script Analyzer and Generator**  
+    - **Movie Script Analyzer and Generator** 📗 [04-02-17.md](0-PROJECTS/04-02-17.md)  
       *(screenplay format, genre detection, story arc analysis, text generation)*
     - **Customer Support Agent with Memory**  
       *(LangChain, vector DB, multi-session memory, persona)*
