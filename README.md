@@ -734,7 +734,7 @@
       *(PDF ingestion, vectorstore, question answering, citation extraction)*
     - **Movie Script Analyzer and Generator** 📗 [04-02-17.md](0-PROJECTS/04-02-17.md)  
       *(screenplay format, genre detection, story arc analysis, text generation)*
-    - **Customer Support Agent with Memory**  
+    - **Customer Support Agent with Memory** 📗 [04-02-18.md](0-PROJECTS/04-02-18.md)  
       *(LangChain, vector DB, multi-session memory, persona)*
     - **AI Lawyer Assistant for Legal Advice Simulation**  
       *(RAG, GPT-4, legal ontology, jurisdiction rules)*
