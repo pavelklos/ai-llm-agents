@@ -738,7 +738,7 @@
       *(LangChain, vector DB, multi-session memory, persona)*
     - **AI Lawyer Assistant for Legal Advice Simulation** 📗 [04-02-19.md](0-PROJECTS/04-02-19.md)  
       *(RAG, GPT-4, legal ontology, jurisdiction rules)*
-    - **AI Dungeon Master for Tabletop RPGs**  
+    - **AI Dungeon Master for Tabletop RPGs** 📗 [04-02-20.md](0-PROJECTS/04-02-20.md)  
       *(world-building, rule-following, real-time story generation, agent-based)*
     - **Academic Plagiarism Detector with Explanation**  
       *(similarity check, AI detector, LLM explanation, cross-document search)*
