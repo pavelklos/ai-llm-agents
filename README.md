@@ -736,7 +736,7 @@
       *(screenplay format, genre detection, story arc analysis, text generation)*
     - **Customer Support Agent with Memory** 📗 [04-02-18.md](0-PROJECTS/04-02-18.md)  
       *(LangChain, vector DB, multi-session memory, persona)*
-    - **AI Lawyer Assistant for Legal Advice Simulation**  
+    - **AI Lawyer Assistant for Legal Advice Simulation** 📗 [04-02-19.md](0-PROJECTS/04-02-19.md)  
       *(RAG, GPT-4, legal ontology, jurisdiction rules)*
     - **AI Dungeon Master for Tabletop RPGs**  
       *(world-building, rule-following, real-time story generation, agent-based)*
