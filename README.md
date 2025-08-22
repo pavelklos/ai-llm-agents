@@ -740,7 +740,7 @@
       *(RAG, GPT-4, legal ontology, jurisdiction rules)*
     - **AI Dungeon Master for Tabletop RPGs** 📗 [04-02-20.md](0-PROJECTS/04-02-20.md)  
       *(world-building, rule-following, real-time story generation, agent-based)*
-    - **Academic Plagiarism Detector with Explanation**  
+    - **Academic Plagiarism Detector with Explanation** 📗 [04-02-21.md](0-PROJECTS/04-02-21.md)  
       *(similarity check, AI detector, LLM explanation, cross-document search)*
     - **Nutrition Advisor with Meal Generator**  
       *(diet analysis, health LLM, food DB, OpenAI + vector search)*
