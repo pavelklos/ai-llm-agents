@@ -748,7 +748,7 @@
       *(LLM, translation memory, tone detection, adaptation)*
     - **Voice-controlled Home Automation Chatbot** 📗 [04-02-24.md](0-PROJECTS/04-02-24.md)  
       *(LLM + IoT, natural commands, action-to-intent mapping)*
-    - **AI Fashion Stylist Bot**  
+    - **AI Fashion Stylist Bot** 📗 [04-02-25.md](0-PROJECTS/04-02-25.md)  
       *(style detection, outfit generation, multimodal LLM, seasonal trends)*
     - **AI-Powered Therapy Simulator**  
       *(empathetic agents, LLM, memory, emotional feedback)*
