@@ -752,7 +752,7 @@
       *(style detection, outfit generation, multimodal LLM, seasonal trends)*
     - **AI-Powered Therapy Simulator** 📗 [04-02-26.md](0-PROJECTS/04-02-26.md)  
       *(empathetic agents, LLM, memory, emotional feedback)*
-    - **AI Assistant for Scientific Paper Writing**  
+    - **AI Assistant for Scientific Paper Writing** 📗 [04-02-27.md](0-PROJECTS/04-02-27.md)  
       *(text generation, latex support, citation generation)*
     - **LLM-Powered Game Guide Chatbot**  
       *(game wiki ingestion, walkthrough generation, strategy hints)*
