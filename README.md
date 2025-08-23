@@ -756,7 +756,7 @@
       *(text generation, latex support, citation generation)*
     - **LLM-Powered Game Guide Chatbot** 📗 [04-02-28.md](0-PROJECTS/04-02-28.md)  
       *(game wiki ingestion, walkthrough generation, strategy hints)*
-    - **AI-Powered CV Skill Gap Analyzer**  
+    - **AI-Powered CV Skill Gap Analyzer** 📗 [04-02-29.md](0-PROJECTS/04-02-29.md)  
       *(resume parsing, skill prediction, upskilling suggestions)*
     - **Interactive Data Explorer using LLM**  
       *(data analysis, pandas agent, CSV QA, chart generation)*
