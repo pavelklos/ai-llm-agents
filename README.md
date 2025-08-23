@@ -754,7 +754,7 @@
       *(empathetic agents, LLM, memory, emotional feedback)*
     - **AI Assistant for Scientific Paper Writing** 📗 [04-02-27.md](0-PROJECTS/04-02-27.md)  
       *(text generation, latex support, citation generation)*
-    - **LLM-Powered Game Guide Chatbot**  
+    - **LLM-Powered Game Guide Chatbot** 📗 [04-02-28.md](0-PROJECTS/04-02-28.md)  
       *(game wiki ingestion, walkthrough generation, strategy hints)*
     - **AI-Powered CV Skill Gap Analyzer**  
       *(resume parsing, skill prediction, upskilling suggestions)*
