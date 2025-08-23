@@ -744,7 +744,7 @@
       *(similarity check, AI detector, LLM explanation, cross-document search)*
     - **Nutrition Advisor with Meal Generator** 📗 [04-02-22.md](0-PROJECTS/04-02-22.md)  
       *(diet analysis, health LLM, food DB, OpenAI + vector search)*
-    - **AI-Powered Translator with Cultural Context**  
+    - **AI-Powered Translator with Cultural Context** 📗 [04-02-23.md](0-PROJECTS/04-02-23.md)  
       *(LLM, translation memory, tone detection, adaptation)*
     - **Voice-controlled Home Automation Chatbot**  
       *(LLM + IoT, natural commands, action-to-intent mapping)*
