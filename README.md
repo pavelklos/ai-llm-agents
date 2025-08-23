@@ -746,7 +746,7 @@
       *(diet analysis, health LLM, food DB, OpenAI + vector search)*
     - **AI-Powered Translator with Cultural Context** 📗 [04-02-23.md](0-PROJECTS/04-02-23.md)  
       *(LLM, translation memory, tone detection, adaptation)*
-    - **Voice-controlled Home Automation Chatbot**  
+    - **Voice-controlled Home Automation Chatbot** 📗 [04-02-24.md](0-PROJECTS/04-02-24.md)  
       *(LLM + IoT, natural commands, action-to-intent mapping)*
     - **AI Fashion Stylist Bot**  
       *(style detection, outfit generation, multimodal LLM, seasonal trends)*
