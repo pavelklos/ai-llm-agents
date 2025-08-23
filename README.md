@@ -758,7 +758,7 @@
       *(game wiki ingestion, walkthrough generation, strategy hints)*
     - **AI-Powered CV Skill Gap Analyzer** 📗 [04-02-29.md](0-PROJECTS/04-02-29.md)  
       *(resume parsing, skill prediction, upskilling suggestions)*
-    - **Interactive Data Explorer using LLM**  
+    - **Interactive Data Explorer using LLM** 📗 [04-02-30.md](0-PROJECTS/04-02-30.md)  
       *(data analysis, pandas agent, CSV QA, chart generation)*
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (04-03)</small>
