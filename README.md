@@ -742,7 +742,7 @@
       *(world-building, rule-following, real-time story generation, agent-based)*
     - **Academic Plagiarism Detector with Explanation** 📗 [04-02-21.md](0-PROJECTS/04-02-21.md)  
       *(similarity check, AI detector, LLM explanation, cross-document search)*
-    - **Nutrition Advisor with Meal Generator**  
+    - **Nutrition Advisor with Meal Generator** 📗 [04-02-22.md](0-PROJECTS/04-02-22.md)  
       *(diet analysis, health LLM, food DB, OpenAI + vector search)*
     - **AI-Powered Translator with Cultural Context**  
       *(LLM, translation memory, tone detection, adaptation)*
