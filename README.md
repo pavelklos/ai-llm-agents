@@ -766,7 +766,7 @@
       (LLM, static analysis, GitHub integration)  
     - **Medical Chatbot** 📗 [04-03-02.md](0-PROJECTS/04-03-02.md)  
       (HIPAA compliance, symptom checker, RAG)  
-    - **Legal Document Summarizer**  
+    - **Legal Document Summarizer** 📗 [04-03-03.md](0-PROJECTS/04-03-03.md)  
       (NER, contract analysis, LangChain)  
     - **AI Dungeon Master**  
       (text adventure, GPT-4, interactive storytelling)  
