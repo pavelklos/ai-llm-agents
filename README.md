@@ -762,7 +762,7 @@
       *(data analysis, pandas agent, CSV QA, chart generation)*
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (04-03)</small>
-    - **AI Code Reviewer**  
+    - **AI Code Reviewer** 📗 [04-03-01.md](0-PROJECTS/04-03-01.md)  
       (LLM, static analysis, GitHub integration)  
     - **Medical Chatbot**  
       (HIPAA compliance, symptom checker, RAG)  
