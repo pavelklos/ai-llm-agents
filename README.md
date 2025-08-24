@@ -774,7 +774,7 @@
       (Markdown generation, docstrings, Sphinx)  
     - **Multilingual Podcast Transcriber** 📗 [04-03-06.md](0-PROJECTS/04-03-06.md)  
       (ASR, translation, Whisper)  
-    - **AI Interview Coach**  
+    - **AI Interview Coach** 📗 [04-03-07.md](0-PROJECTS/04-03-07.md))  
       (speech analysis, emotion detection, feedback)  
     - **Financial Report Analyzer**  
       (LLM agents, pandas, earnings calls)  
