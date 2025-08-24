@@ -764,7 +764,7 @@
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (04-03)</small>
     - **AI Code Reviewer** 📗 [04-03-01.md](0-PROJECTS/04-03-01.md)  
       (LLM, static analysis, GitHub integration)  
-    - **Medical Chatbot**  
+    - **Medical Chatbot** 📗 [04-03-02.md](0-PROJECTS/04-03-02.md)  
       (HIPAA compliance, symptom checker, RAG)  
     - **Legal Document Summarizer**  
       (NER, contract analysis, LangChain)  
