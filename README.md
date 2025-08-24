@@ -772,7 +772,7 @@
       (text adventure, GPT-4, interactive storytelling)  
     - **Automated Technical Writer** 📗 [04-03-05.md](0-PROJECTS/04-03-05.md)  
       (Markdown generation, docstrings, Sphinx)  
-    - **Multilingual Podcast Transcriber**  
+    - **Multilingual Podcast Transcriber** 📗 [04-03-06.md](0-PROJECTS/04-03-06.md)  
       (ASR, translation, Whisper)  
     - **AI Interview Coach**  
       (speech analysis, emotion detection, feedback)  
