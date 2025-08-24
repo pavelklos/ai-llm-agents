@@ -770,7 +770,7 @@
       (NER, contract analysis, LangChain)  
     - **AI Dungeon Master** 📗 [04-03-04.md](0-PROJECTS/04-03-04.md)  
       (text adventure, GPT-4, interactive storytelling)  
-    - **Automated Technical Writer**  
+    - **Automated Technical Writer** 📗 [04-03-05.md](0-PROJECTS/04-03-05.md)  
       (Markdown generation, docstrings, Sphinx)  
     - **Multilingual Podcast Transcriber**  
       (ASR, translation, Whisper)  
