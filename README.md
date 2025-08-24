@@ -768,7 +768,7 @@
       (HIPAA compliance, symptom checker, RAG)  
     - **Legal Document Summarizer** 📗 [04-03-03.md](0-PROJECTS/04-03-03.md)  
       (NER, contract analysis, LangChain)  
-    - **AI Dungeon Master**  
+    - **AI Dungeon Master** 📗 [04-03-04.md](0-PROJECTS/04-03-04.md)  
       (text adventure, GPT-4, interactive storytelling)  
     - **Automated Technical Writer**  
       (Markdown generation, docstrings, Sphinx)  
