@@ -778,7 +778,7 @@
       (speech analysis, emotion detection, feedback)  
     - **Financial Report Analyzer** 📗 [04-03-08.md](0-PROJECTS/04-03-08.md)  
       (LLM agents, pandas, earnings calls)  
-    - **Personalized Learning Tutor**  
+    - **Personalized Learning Tutor** 📗 [04-03-09.md](0-PROJECTS/04-03-09.md)  
       (adaptive learning, knowledge graphs)  
     - **AI Meme Generator**  
       (CLIP, diffusion models, cultural context)  
