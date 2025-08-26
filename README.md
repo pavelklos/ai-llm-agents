@@ -780,7 +780,7 @@
       (LLM agents, pandas, earnings calls)  
     - **Personalized Learning Tutor** 📗 [04-03-09.md](0-PROJECTS/04-03-09.md)  
       (adaptive learning, knowledge graphs)  
-    - **AI Meme Generator**  
+    - **AI Meme Generator** 📗 [04-03-10.md](0-PROJECTS/04-03-10.md)  
       (CLIP, diffusion models, cultural context)  
     - **Automated Bug Triage**  
       (JIRA integration, error classification)  
