@@ -782,7 +782,7 @@
       (adaptive learning, knowledge graphs)  
     - **AI Meme Generator** 📗 [04-03-10.md](0-PROJECTS/04-03-10.md)  
       (CLIP, diffusion models, cultural context)  
-    - **Automated Bug Triage**  
+    - **Automated Bug Triage** 📗 [04-03-11.md](0-PROJECTS/04-03-11.md)  
       (JIRA integration, error classification)  
     - **Scientific Paper Explorer**  
       (arXiv API, knowledge extraction)  
