@@ -784,7 +784,7 @@
       (CLIP, diffusion models, cultural context)  
     - **Automated Bug Triage** 📗 [04-03-11.md](0-PROJECTS/04-03-11.md)  
       (JIRA integration, error classification)  
-    - **Scientific Paper Explorer**  
+    - **Scientific Paper Explorer** 📗 [04-03-12.md](0-PROJECTS/04-03-12.md)  
       (arXiv API, knowledge extraction)  
     - **AI Fashion Advisor**  
       (computer vision, style transfer, e-commerce)  
