@@ -786,7 +786,7 @@
       (JIRA integration, error classification)  
     - **Scientific Paper Explorer** 📗 [04-03-12.md](0-PROJECTS/04-03-12.md)  
       (arXiv API, knowledge extraction)  
-    - **AI Fashion Advisor**  
+    - **AI Fashion Advisor** 📗 [04-03-13.md](0-PROJECTS/04-03-13.md)  
       (computer vision, style transfer, e-commerce)  
     - **Codebase Documentation Bot**  
       (repo crawling, UML generation)  
