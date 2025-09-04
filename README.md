@@ -788,7 +788,7 @@
       (arXiv API, knowledge extraction)  
     - **AI Fashion Advisor** 📗 [04-03-13.md](0-PROJECTS/04-03-13.md)  
       (computer vision, style transfer, e-commerce)  
-    - **Codebase Documentation Bot**  
+    - **Codebase Documentation Bot** 📗 [04-03-14.md](0-PROJECTS/04-03-14.md)  
       (repo crawling, UML generation)  
     - **AI Debate Simulator**  
       (argument mining, pro/con generation)  
