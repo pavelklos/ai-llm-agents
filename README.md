@@ -790,7 +790,7 @@
       (computer vision, style transfer, e-commerce)  
     - **Codebase Documentation Bot** 📗 [04-03-14.md](0-PROJECTS/04-03-14.md)  
       (repo crawling, UML generation)  
-    - **AI Debate Simulator**  
+    - **AI Debate Simulator** 📗 [04-03-15.md](0-PROJECTS/04-03-15.md)  
       (argument mining, pro/con generation)  
     - **Automated Meeting Minutes**  
       (diarization, agenda extraction)  
