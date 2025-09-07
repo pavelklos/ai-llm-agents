@@ -794,7 +794,7 @@
       (argument mining, pro/con generation)  
     - **Automated Meeting Minutes** 📗 [04-03-16.md](0-PROJECTS/04-03-16.md)  
       (diarization, agenda extraction)  
-    - **AI Music Composer**  
+    - **AI Music Composer** 📗 [04-03-17.md](0-PROJECTS/04-03-17.md)  
       (MIDI generation, music theory)  
     - **Ethical AI Auditor**  
       (bias detection, model cards)  
