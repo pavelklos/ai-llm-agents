@@ -792,7 +792,7 @@
       (repo crawling, UML generation)  
     - **AI Debate Simulator** 📗 [04-03-15.md](0-PROJECTS/04-03-15.md)  
       (argument mining, pro/con generation)  
-    - **Automated Meeting Minutes**  
+    - **Automated Meeting Minutes** 📗 [04-03-16.md](0-PROJECTS/04-03-16.md)  
       (diarization, agenda extraction)  
     - **AI Music Composer**  
       (MIDI generation, music theory)  
