@@ -800,7 +800,7 @@
       (bias detection, model cards)  
     - **Recipe Generator** 📗 [04-03-19.md](0-PROJECTS/04-03-19.md)  
       (ingredient substitution, dietary constraints)  
-    - **AI Sports Analyst**  
+    - **AI Sports Analyst** 📗 [04-03-20.md](0-PROJECTS/04-03-20.md)  
       (statistics prediction, commentary generation)  
     - **Automated Poetry Workshop**  
       (meter analysis, style imitation)  
