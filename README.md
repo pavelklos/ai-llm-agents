@@ -802,7 +802,7 @@
       (ingredient substitution, dietary constraints)  
     - **AI Sports Analyst** 📗 [04-03-20.md](0-PROJECTS/04-03-20.md)  
       (statistics prediction, commentary generation)  
-    - **Automated Poetry Workshop**  
+    - **Automated Poetry Workshop** 📗 [04-03-21.md](0-PROJECTS/04-03-21.md)  
       (meter analysis, style imitation)  
     - **AI Plant Doctor**  
       (image classification, gardening advice)  
