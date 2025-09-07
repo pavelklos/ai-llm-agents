@@ -798,7 +798,7 @@
       (MIDI generation, music theory)  
     - **Ethical AI Auditor** 📗 [04-03-18.md](0-PROJECTS/04-03-18.md)  
       (bias detection, model cards)  
-    - **Recipe Generator**  
+    - **Recipe Generator** 📗 [04-03-19.md](0-PROJECTS/04-03-19.md)  
       (ingredient substitution, dietary constraints)  
     - **AI Sports Analyst**  
       (statistics prediction, commentary generation)  
