@@ -808,7 +808,7 @@
       (image classification, gardening advice)  
     - **Privacy-Preserving Chat** 📗 [04-03-23.md](0-PROJECTS/04-03-23.md)  
       (federated learning, on-device LLM)  
-    - **AI Career Counselor**  
+    - **AI Career Counselor** 📗 [04-03-24.md](0-PROJECTS/04-03-24.md)  
       (skills gap analysis, roadmap generation)  
     - **Historical Figure Chatbot**  
       (biographical RAG, period-accurate speech)  
