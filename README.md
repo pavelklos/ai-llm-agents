@@ -806,7 +806,7 @@
       (meter analysis, style imitation)  
     - **AI Plant Doctor** 📗 [04-03-22.md](0-PROJECTS/04-03-22.md)  
       (image classification, gardening advice)  
-    - **Privacy-Preserving Chat**  
+    - **Privacy-Preserving Chat** 📗 [04-03-23.md](0-PROJECTS/04-03-23.md)  
       (federated learning, on-device LLM)  
     - **AI Career Counselor**  
       (skills gap analysis, roadmap generation)  
