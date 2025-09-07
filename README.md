@@ -804,7 +804,7 @@
       (statistics prediction, commentary generation)  
     - **Automated Poetry Workshop** 📗 [04-03-21.md](0-PROJECTS/04-03-21.md)  
       (meter analysis, style imitation)  
-    - **AI Plant Doctor**  
+    - **AI Plant Doctor** 📗 [04-03-22.md](0-PROJECTS/04-03-22.md)  
       (image classification, gardening advice)  
     - **Privacy-Preserving Chat**  
       (federated learning, on-device LLM)  
