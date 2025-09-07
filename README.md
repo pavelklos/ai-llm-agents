@@ -796,7 +796,7 @@
       (diarization, agenda extraction)  
     - **AI Music Composer** 📗 [04-03-17.md](0-PROJECTS/04-03-17.md)  
       (MIDI generation, music theory)  
-    - **Ethical AI Auditor**  
+    - **Ethical AI Auditor** 📗 [04-03-18.md](0-PROJECTS/04-03-18.md)  
       (bias detection, model cards)  
     - **Recipe Generator**  
       (ingredient substitution, dietary constraints)  
