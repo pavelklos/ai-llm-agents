@@ -810,7 +810,7 @@
       (federated learning, on-device LLM)  
     - **AI Career Counselor** 📗 [04-03-24.md](0-PROJECTS/04-03-24.md)  
       (skills gap analysis, roadmap generation)  
-    - **Historical Figure Chatbot**  
+    - **Historical Figure Chatbot** 📗 [04-03-25.md](0-PROJECTS/04-03-25.md)  
       (biographical RAG, period-accurate speech)  
     - **Automated API Builder**  
       (OpenAPI spec generation, FastAPI)  
