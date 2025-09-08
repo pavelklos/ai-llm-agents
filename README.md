@@ -812,7 +812,7 @@
       (skills gap analysis, roadmap generation)  
     - **Historical Figure Chatbot** 📗 [04-03-25.md](0-PROJECTS/04-03-25.md)  
       (biographical RAG, period-accurate speech)  
-    - **Automated API Builder**  
+    - **Automated API Builder** 📗 [04-03-26.md](0-PROJECTS/04-03-26.md)  
       (OpenAPI spec generation, FastAPI)  
     - **AI Standup Comedy Writer**  
       (joke structure, audience adaptation)  
