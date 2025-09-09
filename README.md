@@ -814,7 +814,7 @@
       (biographical RAG, period-accurate speech)  
     - **Automated API Builder** 📗 [04-03-26.md](0-PROJECTS/04-03-26.md)  
       (OpenAPI spec generation, FastAPI)  
-    - **AI Standup Comedy Writer**  
+    - **AI Standup Comedy Writer** 📗 [04-03-27.md](0-PROJECTS/04-03-27.md)  
       (joke structure, audience adaptation)  
     - **3D Model Generator from Text**  
       (NeRF, Blender integration)  
