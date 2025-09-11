@@ -816,7 +816,7 @@
       (OpenAPI spec generation, FastAPI)  
     - **AI Standup Comedy Writer** 📗 [04-03-27.md](0-PROJECTS/04-03-27.md)  
       (joke structure, audience adaptation)  
-    - **3D Model Generator from Text**  
+    - **3D Model Generator from Text** 📗 [04-03-28.md](0-PROJECTS/04-03-28.md)  
       (NeRF, Blender integration)  
     - **AI Town (Virtual Society)**  
       (multi-agent systems, emergent behavior)  
