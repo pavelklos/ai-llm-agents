@@ -818,7 +818,7 @@
       (joke structure, audience adaptation)  
     - **3D Model Generator from Text** 📗 [04-03-28.md](0-PROJECTS/04-03-28.md)  
       (NeRF, Blender integration)  
-    - **AI Town (Virtual Society)**  
+    - **AI Town (Virtual Society)** 📗 [04-03-29.md](0-PROJECTS/04-03-29.md)  
       (multi-agent systems, emergent behavior)  
     - **Cognitive Behavioral Therapy Bot**  
       (mood tracking, CBT techniques)  
