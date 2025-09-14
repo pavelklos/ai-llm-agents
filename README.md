@@ -888,36 +888,66 @@
       (welcome sequences, document collection, account setup, training delivery)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (05-02)</small>
-    - **Personal Productivity Agent** (calendar integration, task management, RAG)
-    - **Travel Planning Agent** (web scraping, itinerary generation, real-time API)
-    - **Medical Diagnosis Assistant** (symptom checker, LLM reasoning, medical RAG)
-    - **Legal Research Agent** (legal document parsing, citation, retrieval augmentation)
-    - **Code Debugging Agent** (multi-agent, static analysis, test generation)
-    - **AI Tutor Agent** (curriculum planning, question answering, memory)
-    - **Game Strategy Agent** (multi-agent reinforcement learning, game state analysis)
-    - **Financial Advisor Agent** (LLM + time series, budget optimization, OpenBB)
-    - **Social Media Manager Agent** (content generation, scheduling, sentiment tracking)
-    - **Language Learning Agent** (translation, spaced repetition, grammar correction)
-    - **Virtual Psychologist Agent** (empathetic response, active memory, GPT + sentiment)
-    - **Customer Service Chatbot Agent** (retrieval, multi-turn, tool use)
-    - **News Aggregator & Summarizer Agent** (web browsing, summarization, RAG)
-    - **Technical Documentation Generator Agent** (code parsing, explanation, summarization)
-    - **Voice-Controlled Home Automation Agent** (speech-to-text, API control, IoT)
-    - **Fitness & Nutrition Coach Agent** (goal tracking, meal planning, wearable integration)
-    - **Resume & Job Matching Agent** (resume parser, job scraping, semantic match)
-    - **Scientific Research Assistant Agent** (semantic search, paper summarization, RAG)
-    - **Custom Legal Contract Generator Agent** (LLM + template filling, prompt chaining)
-    - **DevOps Deployment Agent** (CI/CD interaction, shell command execution, monitoring)
-    - **Academic Writing Assistant Agent** (citation insertion, coherence checking, grammar correction)
-    - **Image Captioning & Analysis Agent** (multimodal, vision + text, OpenAI GPT-4o)
-    - **Real-Time Translation Agent** (speech-to-text, translation, speech synthesis)
-    - **HR Interview Simulator Agent** (role-playing, dynamic question generation, evaluation)
-    - **E-commerce Product Recommender Agent** (collaborative filtering, LLM explanation)
-    - **Multiplayer Game Assistant Agent** (live communication, teammate feedback, LLM strategy)
-    - **Intelligent File Explorer Agent** (semantic search, tagging, embeddings)
-    - **AI Lawyer for Small Claims Agent** (form filling, evidence preparation, reasoning)
-    - **Content Repurposing Agent** (long video to short, summarization, multimodal processing)
-    - **AI Research Grant Writer Agent** (grant matching, drafting, RAG + financial planning)
+    - **Personal Productivity Agent**  
+      (calendar integration, task management, RAG)
+    - **Travel Planning Agent**  
+      (web scraping, itinerary generation, real-time API)
+    - **Medical Diagnosis Assistant**  
+      (symptom checker, LLM reasoning, medical RAG)
+    - **Legal Research Agent**  
+      (legal document parsing, citation, retrieval augmentation)
+    - **Code Debugging Agent**  
+      (multi-agent, static analysis, test generation)
+    - **AI Tutor Agent**  
+      (curriculum planning, question answering, memory)
+    - **Game Strategy Agent**  
+      (multi-agent reinforcement learning, game state analysis)
+    - **Financial Advisor Agent**  
+      (LLM + time series, budget optimization, OpenBB)
+    - **Social Media Manager Agent**  
+      (content generation, scheduling, sentiment tracking)
+    - **Language Learning Agent**  
+      (translation, spaced repetition, grammar correction)
+    - **Virtual Psychologist Agent**  
+      (empathetic response, active memory, GPT + sentiment)
+    - **Customer Service Chatbot Agent**  
+      (retrieval, multi-turn, tool use)
+    - **News Aggregator & Summarizer Agent**  
+      (web browsing, summarization, RAG)
+    - **Technical Documentation Generator Agent**  
+      (code parsing, explanation, summarization)
+    - **Voice-Controlled Home Automation Agent**  
+      (speech-to-text, API control, IoT)
+    - **Fitness & Nutrition Coach Agent**  
+      (goal tracking, meal planning, wearable integration)
+    - **Resume & Job Matching Agent**  
+      (resume parser, job scraping, semantic match)
+    - **Scientific Research Assistant Agent**  
+      (semantic search, paper summarization, RAG)
+    - **Custom Legal Contract Generator Agent**  
+      (LLM + template filling, prompt chaining)
+    - **DevOps Deployment Agent**  
+      (CI/CD interaction, shell command execution, monitoring)
+    - **Academic Writing Assistant Agent**  
+      (citation insertion, coherence checking, grammar correction)
+    - **Image Captioning & Analysis Agent**  
+      (multimodal, vision + text, OpenAI GPT-4o)
+    - **Real-Time Translation Agent**  
+      (speech-to-text, translation, speech synthesis)
+    - **HR Interview Simulator Agent**  
+      (role-playing, dynamic question generation, evaluation)
+    - **E-commerce Product Recommender Agent**  
+      (collaborative filtering, LLM explanation)
+    - **Multiplayer Game Assistant Agent**  
+      (live communication, teammate feedback, LLM strategy)
+    - **Intelligent File Explorer Agent**  
+      (semantic search, tagging, embeddings)
+    - **AI Lawyer for Small Claims Agent**  
+      (form filling, evidence preparation, reasoning)
+    - **Content Repurposing Agent**  
+      (long video to short, summarization, multimodal processing)
+    - **AI Research Grant Writer Agent**  
+      (grant matching, drafting, RAG + financial planning)
 
   - <small>Project selection by [DeepSeek](https://chat.deepseek.com/) (05-03)</small>
     1. **Autonomous Research Assistant** (LLMs, RAG, PubMed/ArXiv API)  
