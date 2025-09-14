@@ -820,7 +820,7 @@
       (NeRF, Blender integration)  
     - **AI Town (Virtual Society)** 📗 [04-03-29.md](0-PROJECTS/04-03-29.md)  
       (multi-agent systems, emergent behavior)  
-    - **Cognitive Behavioral Therapy Bot**  
+    - **Cognitive Behavioral Therapy Bot** 📗 [04-03-30.md](0-PROJECTS/04-03-30.md)  
       (mood tracking, CBT techniques)  
 
 - **AI-AGENTS**
