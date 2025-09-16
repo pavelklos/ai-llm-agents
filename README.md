@@ -826,7 +826,7 @@
 - **AI-AGENTS**
   
   - <small>Project selection by [Claude](https://claude.ai/) (05-01)</small>
-    - **Autonomous Trading Agent**  
+    - **Autonomous Trading Agent** [05-01-01.md](0-PROJECTS/05-01-01.md)  
       (market analysis, risk management, portfolio optimization, execution strategies)
     - **Smart Home Automation Agent**  
       (IoT integration, energy optimization, security monitoring, predictive maintenance)
