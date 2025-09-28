@@ -830,7 +830,7 @@
       (market analysis, risk management, portfolio optimization, execution strategies)
     - **Smart Home Automation Agent** [05-01-02.md](0-PROJECTS/05-01-02.md)  
       (IoT integration, energy optimization, security monitoring, predictive maintenance)
-    - **Personal Finance Management Agent**  
+    - **Personal Finance Management Agent** [05-01-03.md](0-PROJECTS/05-01-03.md)  
       (expense tracking, budget optimization, investment advice, financial goal planning)
     - **Recruitment Screening Agent**  
       (resume analysis, candidate matching, interview scheduling, skill assessment)
