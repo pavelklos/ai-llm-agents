@@ -838,7 +838,7 @@
       (inventory management, demand forecasting, supplier evaluation, logistics coordination)
     - **Social Media Management Agent** [05-01-06.md](0-PROJECTS/05-01-06.md)  
       (content scheduling, engagement monitoring, trend analysis, influencer identification)
-    - **Customer Service Escalation Agent**  
+    - **Customer Service Escalation Agent** [05-01-07.md](0-PROJECTS/05-01-07.md)  
       (issue classification, priority routing, resolution tracking, satisfaction monitoring)
     - **E-commerce Price Monitoring Agent**  
       (competitor analysis, dynamic pricing, market trends, profit optimization)
