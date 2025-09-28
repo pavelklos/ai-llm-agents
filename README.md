@@ -836,7 +836,7 @@
       (resume analysis, candidate matching, interview scheduling, skill assessment)
     - **Supply Chain Optimization Agent** [05-01-05.md](0-PROJECTS/05-01-05.md)  
       (inventory management, demand forecasting, supplier evaluation, logistics coordination)
-    - **Social Media Management Agent**  
+    - **Social Media Management Agent** [05-01-06.md](0-PROJECTS/05-01-06.md)  
       (content scheduling, engagement monitoring, trend analysis, influencer identification)
     - **Customer Service Escalation Agent**  
       (issue classification, priority routing, resolution tracking, satisfaction monitoring)
