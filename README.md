@@ -832,7 +832,7 @@
       (IoT integration, energy optimization, security monitoring, predictive maintenance)
     - **Personal Finance Management Agent** [05-01-03.md](0-PROJECTS/05-01-03.md)  
       (expense tracking, budget optimization, investment advice, financial goal planning)
-    - **Recruitment Screening Agent**  
+    - **Recruitment Screening Agent** [05-01-04.md](0-PROJECTS/05-01-04.md)  
       (resume analysis, candidate matching, interview scheduling, skill assessment)
     - **Supply Chain Optimization Agent**  
       (inventory management, demand forecasting, supplier evaluation, logistics coordination)
