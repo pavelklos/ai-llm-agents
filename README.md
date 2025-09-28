@@ -834,7 +834,7 @@
       (expense tracking, budget optimization, investment advice, financial goal planning)
     - **Recruitment Screening Agent** [05-01-04.md](0-PROJECTS/05-01-04.md)  
       (resume analysis, candidate matching, interview scheduling, skill assessment)
-    - **Supply Chain Optimization Agent**  
+    - **Supply Chain Optimization Agent** [05-01-05.md](0-PROJECTS/05-01-05.md)  
       (inventory management, demand forecasting, supplier evaluation, logistics coordination)
     - **Social Media Management Agent**  
       (content scheduling, engagement monitoring, trend analysis, influencer identification)
