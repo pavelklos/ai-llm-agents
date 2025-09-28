@@ -840,7 +840,7 @@
       (content scheduling, engagement monitoring, trend analysis, influencer identification)
     - **Customer Service Escalation Agent** [05-01-07.md](0-PROJECTS/05-01-07.md)  
       (issue classification, priority routing, resolution tracking, satisfaction monitoring)
-    - **E-commerce Price Monitoring Agent**  
+    - **E-commerce Price Monitoring Agent** [05-01-08.md](0-PROJECTS/05-01-08.md)  
       (competitor analysis, dynamic pricing, market trends, profit optimization)
     - **Content Moderation Agent**  
       (spam detection, harmful content filtering, community guidelines enforcement, user behavior analysis)
