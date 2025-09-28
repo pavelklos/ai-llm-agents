@@ -844,7 +844,7 @@
       (competitor analysis, dynamic pricing, market trends, profit optimization)
     - **Content Moderation Agent** [05-01-09.md](0-PROJECTS/05-01-09.md)  
       (spam detection, harmful content filtering, community guidelines enforcement, user behavior analysis)
-    - **Research Data Collection Agent**  
+    - **Research Data Collection Agent** [05-01-10.md](0-PROJECTS/05-01-10.md)  
       (web scraping, data validation, source verification, automated reporting)
     - **IT Infrastructure Monitoring Agent**  
       (system health monitoring, anomaly detection, automated troubleshooting, performance optimization)
