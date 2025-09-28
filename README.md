@@ -846,7 +846,7 @@
       (spam detection, harmful content filtering, community guidelines enforcement, user behavior analysis)
     - **Research Data Collection Agent** [05-01-10.md](0-PROJECTS/05-01-10.md)  
       (web scraping, data validation, source verification, automated reporting)
-    - **IT Infrastructure Monitoring Agent**  
+    - **IT Infrastructure Monitoring Agent** [05-01-11.md](0-PROJECTS/05-01-11.md)  
       (system health monitoring, anomaly detection, automated troubleshooting, performance optimization)
     - **Learning Path Recommendation Agent**  
       (skill gap analysis, course suggestions, progress tracking, adaptive learning)
