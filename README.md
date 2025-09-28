@@ -848,7 +848,7 @@
       (web scraping, data validation, source verification, automated reporting)
     - **IT Infrastructure Monitoring Agent** [05-01-11.md](0-PROJECTS/05-01-11.md)  
       (system health monitoring, anomaly detection, automated troubleshooting, performance optimization)
-    - **Learning Path Recommendation Agent**  
+    - **Learning Path Recommendation Agent** [05-01-12.md](0-PROJECTS/05-01-12.md)  
       (skill gap analysis, course suggestions, progress tracking, adaptive learning)
     - **Investment Portfolio Rebalancing Agent**  
       (risk assessment, asset allocation, market timing, tax optimization)
