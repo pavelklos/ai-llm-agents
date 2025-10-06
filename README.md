@@ -852,7 +852,7 @@
       (skill gap analysis, course suggestions, progress tracking, adaptive learning)
     - **Investment Portfolio Rebalancing Agent** [05-01-13.md](0-PROJECTS/05-01-13.md)  
       (risk assessment, asset allocation, market timing, tax optimization)
-    - **Medical Appointment Scheduling Agent**  
+    - **Medical Appointment Scheduling Agent** [05-01-14.md](0-PROJECTS/05-01-14.md)  
       (calendar integration, provider matching, insurance verification, reminder systems)
     - **Content Creation Workflow Agent**  
       (topic research, outline generation, fact-checking, publication scheduling)
