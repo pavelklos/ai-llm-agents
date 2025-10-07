@@ -854,7 +854,7 @@
       (risk assessment, asset allocation, market timing, tax optimization)
     - **Medical Appointment Scheduling Agent** [05-01-14.md](0-PROJECTS/05-01-14.md)  
       (calendar integration, provider matching, insurance verification, reminder systems)
-    - **Content Creation Workflow Agent**  
+    - **Content Creation Workflow Agent** [05-01-15.md](0-PROJECTS/05-01-15.md)  
       (topic research, outline generation, fact-checking, publication scheduling)
     - **Email Marketing Campaign Agent**  
       (audience segmentation, A/B testing, send time optimization, performance analysis)
