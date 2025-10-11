@@ -856,7 +856,7 @@
       (calendar integration, provider matching, insurance verification, reminder systems)
     - **Content Creation Workflow Agent** [05-01-15.md](0-PROJECTS/05-01-15.md)  
       (topic research, outline generation, fact-checking, publication scheduling)
-    - **Email Marketing Campaign Agent**  
+    - **Email Marketing Campaign Agent** [05-01-16.md](0-PROJECTS/05-01-16.md)  
       (audience segmentation, A/B testing, send time optimization, performance analysis)
     - **Fraud Detection Agent**  
       (transaction monitoring, pattern recognition, risk scoring, alert generation)
