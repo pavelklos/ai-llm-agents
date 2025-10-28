@@ -860,7 +860,7 @@
       (audience segmentation, A/B testing, send time optimization, performance analysis)
     - **Fraud Detection Agent** [05-01-17.md](0-PROJECTS/05-01-17.md)  
       (transaction monitoring, pattern recognition, risk scoring, alert generation)
-    - **Project Management Assistant Agent**  
+    - **Project Management Assistant Agent** [05-01-18.md](0-PROJECTS/05-01-18.md)  
       (task prioritization, resource allocation, deadline tracking, team coordination)
     - **SEO Optimization Agent**  
       (keyword research, content analysis, backlink monitoring, ranking optimization)
