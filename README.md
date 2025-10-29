@@ -862,7 +862,7 @@
       (transaction monitoring, pattern recognition, risk scoring, alert generation)
     - **Project Management Assistant Agent** [05-01-18.md](0-PROJECTS/05-01-18.md)  
       (task prioritization, resource allocation, deadline tracking, team coordination)
-    - **SEO Optimization Agent**  
+    - **SEO Optimization Agent** [05-01-19.md](0-PROJECTS/05-01-19.md)  
       (keyword research, content analysis, backlink monitoring, ranking optimization)
     - **Inventory Replenishment Agent**  
       (stock level monitoring, supplier coordination, demand prediction, cost optimization)
