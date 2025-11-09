@@ -864,7 +864,7 @@
       (task prioritization, resource allocation, deadline tracking, team coordination)
     - **SEO Optimization Agent** [05-01-19.md](0-PROJECTS/05-01-19.md)  
       (keyword research, content analysis, backlink monitoring, ranking optimization)
-    - **Inventory Replenishment Agent**  
+    - **Inventory Replenishment Agent** [05-01-20.md](0-PROJECTS/05-01-20.md)  
       (stock level monitoring, supplier coordination, demand prediction, cost optimization)
     - **Quality Assurance Testing Agent**  
       (test case generation, bug detection, regression testing, performance monitoring)
