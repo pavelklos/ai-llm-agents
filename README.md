@@ -866,7 +866,7 @@
       (keyword research, content analysis, backlink monitoring, ranking optimization)
     - **Inventory Replenishment Agent** [05-01-20.md](0-PROJECTS/05-01-20.md)  
       (stock level monitoring, supplier coordination, demand prediction, cost optimization)
-    - **Quality Assurance Testing Agent**  
+    - **Quality Assurance Testing Agent** [05-01-21.md](0-PROJECTS/05-01-21.md)  
       (test case generation, bug detection, regression testing, performance monitoring)
     - **Lead Generation Agent**  
       (prospect identification, contact enrichment, qualification scoring, outreach automation)
