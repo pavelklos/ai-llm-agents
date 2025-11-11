@@ -868,7 +868,7 @@
       (stock level monitoring, supplier coordination, demand prediction, cost optimization)
     - **Quality Assurance Testing Agent** [05-01-21.md](0-PROJECTS/05-01-21.md)  
       (test case generation, bug detection, regression testing, performance monitoring)
-    - **Lead Generation Agent**  
+    - **Lead Generation Agent** [05-01-22.md](0-PROJECTS/05-01-22.md)  
       (prospect identification, contact enrichment, qualification scoring, outreach automation)
     - **Event Planning Coordination Agent**  
       (venue booking, vendor management, guest coordination, timeline optimization)
