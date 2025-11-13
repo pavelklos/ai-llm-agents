@@ -870,7 +870,7 @@
       (test case generation, bug detection, regression testing, performance monitoring)
     - **Lead Generation Agent** [05-01-22.md](0-PROJECTS/05-01-22.md)  
       (prospect identification, contact enrichment, qualification scoring, outreach automation)
-    - **Event Planning Coordination Agent**  
+    - **Event Planning Coordination Agent** [05-01-23.md](0-PROJECTS/05-01-23.md)  
       (venue booking, vendor management, guest coordination, timeline optimization)
     - **Data Pipeline Monitoring Agent**  
       (ETL process monitoring, data quality checks, error handling, performance optimization)
