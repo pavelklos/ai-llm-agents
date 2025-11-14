@@ -872,7 +872,7 @@
       (prospect identification, contact enrichment, qualification scoring, outreach automation)
     - **Event Planning Coordination Agent** [05-01-23.md](0-PROJECTS/05-01-23.md)  
       (venue booking, vendor management, guest coordination, timeline optimization)
-    - **Data Pipeline Monitoring Agent**  
+    - **Data Pipeline Monitoring Agent** [05-01-24.md](0-PROJECTS/05-01-24.md)  
       (ETL process monitoring, data quality checks, error handling, performance optimization)
     - **Competitive Intelligence Agent**  
       (market research, competitor monitoring, pricing analysis, feature comparison)
