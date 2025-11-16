@@ -874,7 +874,7 @@
       (venue booking, vendor management, guest coordination, timeline optimization)
     - **Data Pipeline Monitoring Agent** [05-01-24.md](0-PROJECTS/05-01-24.md)  
       (ETL process monitoring, data quality checks, error handling, performance optimization)
-    - **Competitive Intelligence Agent**  
+    - **Competitive Intelligence Agent** [05-01-25.md](0-PROJECTS/05-01-25.md)  
       (market research, competitor monitoring, pricing analysis, feature comparison)
     - **Knowledge Base Maintenance Agent**  
       (content updates, accuracy verification, user feedback integration, search optimization)
