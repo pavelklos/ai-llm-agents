@@ -882,7 +882,7 @@
       (automated backups, disaster recovery, data integrity checks, recovery testing)
     - **Compliance Monitoring Agent** [05-01-28.md](0-PROJECTS/05-01-28.md)  
       (regulatory tracking, policy enforcement, audit preparation, risk assessment)
-    - **Network Security Agent**  
+    - **Network Security Agent** [05-01-29.md](0-PROJECTS/05-01-29.md)  
       (threat detection, vulnerability scanning, incident response, security policy enforcement)
     - **Customer Onboarding Agent**  
       (welcome sequences, document collection, account setup, training delivery)
