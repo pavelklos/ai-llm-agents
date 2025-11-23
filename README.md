@@ -892,7 +892,7 @@
       (calendar integration, task management, RAG)
     - **Travel Planning Agent** [05-02-02.md](0-PROJECTS/05-02-02.md)  
       (web scraping, itinerary generation, real-time API)
-    - **Medical Diagnosis Assistant**  
+    - **Medical Diagnosis Assistant** [05-02-03.md](0-PROJECTS/05-02-03.md)  
       (symptom checker, LLM reasoning, medical RAG)
     - **Legal Research Agent**  
       (legal document parsing, citation, retrieval augmentation)
