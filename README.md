@@ -898,7 +898,7 @@
       (legal document parsing, citation, retrieval augmentation)
     - **Code Debugging Agent** [05-02-05.md](0-PROJECTS/05-02-05.md)  
       (multi-agent, static analysis, test generation)
-    - **AI Tutor Agent**  
+    - **AI Tutor Agent** [05-02-06.md](0-PROJECTS/05-02-06.md)  
       (curriculum planning, question answering, memory)
     - **Game Strategy Agent**  
       (multi-agent reinforcement learning, game state analysis)
