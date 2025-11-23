@@ -888,7 +888,7 @@
       (welcome sequences, document collection, account setup, training delivery)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (05-02)</small>
-    - **Personal Productivity Agent**  
+    - **Personal Productivity Agent** [05-02-01.md](0-PROJECTS/05-02-01.md)  
       (calendar integration, task management, RAG)
     - **Travel Planning Agent**  
       (web scraping, itinerary generation, real-time API)
