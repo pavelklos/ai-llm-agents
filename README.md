@@ -884,7 +884,7 @@
       (regulatory tracking, policy enforcement, audit preparation, risk assessment)
     - **Network Security Agent** [05-01-29.md](0-PROJECTS/05-01-29.md)  
       (threat detection, vulnerability scanning, incident response, security policy enforcement)
-    - **Customer Onboarding Agent**  
+    - **Customer Onboarding Agent** [05-01-30.md](0-PROJECTS/05-01-30.md)  
       (welcome sequences, document collection, account setup, training delivery)
 
   - <small>Project selection by [GPT](https://chatgpt.com/) (05-02)</small>
