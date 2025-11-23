@@ -896,7 +896,7 @@
       (symptom checker, LLM reasoning, medical RAG)
     - **Legal Research Agent** [05-02-04.md](0-PROJECTS/05-02-04.md)  
       (legal document parsing, citation, retrieval augmentation)
-    - **Code Debugging Agent**  
+    - **Code Debugging Agent** [05-02-05.md](0-PROJECTS/05-02-05.md)  
       (multi-agent, static analysis, test generation)
     - **AI Tutor Agent**  
       (curriculum planning, question answering, memory)
