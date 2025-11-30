@@ -900,7 +900,7 @@
       (multi-agent, static analysis, test generation)
     - **AI Tutor Agent** [05-02-06.md](0-PROJECTS/05-02-06.md)  
       (curriculum planning, question answering, memory)
-    - **Game Strategy Agent**  
+    - **Game Strategy Agent** [05-02-07.md](0-PROJECTS/05-02-07.md)  
       (multi-agent reinforcement learning, game state analysis)
     - **Financial Advisor Agent**  
       (LLM + time series, budget optimization, OpenBB)
