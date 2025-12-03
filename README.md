@@ -902,7 +902,7 @@
       (curriculum planning, question answering, memory)
     - **Game Strategy Agent** [05-02-07.md](0-PROJECTS/05-02-07.md)  
       (multi-agent reinforcement learning, game state analysis)
-    - **Financial Advisor Agent**  
+    - **Financial Advisor Agent** [05-02-08.md](0-PROJECTS/05-02-08.md)  
       (LLM + time series, budget optimization, OpenBB)
     - **Social Media Manager Agent**  
       (content generation, scheduling, sentiment tracking)
