@@ -904,7 +904,7 @@
       (multi-agent reinforcement learning, game state analysis)
     - **Financial Advisor Agent** [05-02-08.md](0-PROJECTS/05-02-08.md)  
       (LLM + time series, budget optimization, OpenBB)
-    - **Social Media Manager Agent**  
+    - **Social Media Manager Agent** [05-02-09.md](0-PROJECTS/05-02-09.md)  
       (content generation, scheduling, sentiment tracking)
     - **Language Learning Agent**  
       (translation, spaced repetition, grammar correction)
