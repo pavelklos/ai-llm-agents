@@ -908,7 +908,7 @@
       (content generation, scheduling, sentiment tracking)
     - **Language Learning Agent** [05-02-10.md](0-PROJECTS/05-02-10.md)  
       (translation, spaced repetition, grammar correction)
-    - **Virtual Psychologist Agent**  
+    - **Virtual Psychologist Agent** [05-02-11.md](0-PROJECTS/05-02-11.md)  
       (empathetic response, active memory, GPT + sentiment)
     - **Customer Service Chatbot Agent**  
       (retrieval, multi-turn, tool use)
