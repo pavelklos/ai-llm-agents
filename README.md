@@ -906,7 +906,7 @@
       (LLM + time series, budget optimization, OpenBB)
     - **Social Media Manager Agent** [05-02-09.md](0-PROJECTS/05-02-09.md)  
       (content generation, scheduling, sentiment tracking)
-    - **Language Learning Agent**  
+    - **Language Learning Agent** [05-02-10.md](0-PROJECTS/05-02-10.md)  
       (translation, spaced repetition, grammar correction)
     - **Virtual Psychologist Agent**  
       (empathetic response, active memory, GPT + sentiment)
