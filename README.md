@@ -910,7 +910,7 @@
       (translation, spaced repetition, grammar correction)
     - **Virtual Psychologist Agent** [05-02-11.md](0-PROJECTS/05-02-11.md)  
       (empathetic response, active memory, GPT + sentiment)
-    - **Customer Service Chatbot Agent**  
+    - **Customer Service Chatbot Agent** [05-02-12.md](0-PROJECTS/05-02-12.md)  
       (retrieval, multi-turn, tool use)
     - **News Aggregator & Summarizer Agent**  
       (web browsing, summarization, RAG)
