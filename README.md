@@ -912,7 +912,7 @@
       (empathetic response, active memory, GPT + sentiment)
     - **Customer Service Chatbot Agent** [05-02-12.md](0-PROJECTS/05-02-12.md)  
       (retrieval, multi-turn, tool use)
-    - **News Aggregator & Summarizer Agent**  
+    - **News Aggregator & Summarizer Agent** [05-02-13.md](0-PROJECTS/05-02-13.md)  
       (web browsing, summarization, RAG)
     - **Technical Documentation Generator Agent**  
       (code parsing, explanation, summarization)
