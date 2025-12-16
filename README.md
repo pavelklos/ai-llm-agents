@@ -914,7 +914,7 @@
       (retrieval, multi-turn, tool use)
     - **News Aggregator & Summarizer Agent** [05-02-13.md](0-PROJECTS/05-02-13.md)  
       (web browsing, summarization, RAG)
-    - **Technical Documentation Generator Agent**  
+    - **Technical Documentation Generator Agent** [05-02-14.md](0-PROJECTS/05-02-14.md)  
       (code parsing, explanation, summarization)
     - **Voice-Controlled Home Automation Agent**  
       (speech-to-text, API control, IoT)
