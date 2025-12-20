@@ -916,7 +916,7 @@
       (web browsing, summarization, RAG)
     - **Technical Documentation Generator Agent** [05-02-14.md](0-PROJECTS/05-02-14.md)  
       (code parsing, explanation, summarization)
-    - **Voice-Controlled Home Automation Agent**  
+    - **Voice-Controlled Home Automation Agent** [05-02-15.md](0-PROJECTS/05-02-15.md)  
       (speech-to-text, API control, IoT)
     - **Fitness & Nutrition Coach Agent**  
       (goal tracking, meal planning, wearable integration)
