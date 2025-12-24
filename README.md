@@ -918,7 +918,7 @@
       (code parsing, explanation, summarization)
     - **Voice-Controlled Home Automation Agent** [05-02-15.md](0-PROJECTS/05-02-15.md)  
       (speech-to-text, API control, IoT)
-    - **Fitness & Nutrition Coach Agent**  
+    - **Fitness & Nutrition Coach Agent** [05-02-16.md](0-PROJECTS/05-02-16.md)  
       (goal tracking, meal planning, wearable integration)
     - **Resume & Job Matching Agent**  
       (resume parser, job scraping, semantic match)
