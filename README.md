@@ -920,7 +920,7 @@
       (speech-to-text, API control, IoT)
     - **Fitness & Nutrition Coach Agent** [05-02-16.md](0-PROJECTS/05-02-16.md)  
       (goal tracking, meal planning, wearable integration)
-    - **Resume & Job Matching Agent**  
+    - **Resume & Job Matching Agent** [05-02-17.md](0-PROJECTS/05-02-17.md)  
       (resume parser, job scraping, semantic match)
     - **Scientific Research Assistant Agent**  
       (semantic search, paper summarization, RAG)
