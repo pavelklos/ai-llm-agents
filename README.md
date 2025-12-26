@@ -922,7 +922,7 @@
       (goal tracking, meal planning, wearable integration)
     - **Resume & Job Matching Agent** [05-02-17.md](0-PROJECTS/05-02-17.md)  
       (resume parser, job scraping, semantic match)
-    - **Scientific Research Assistant Agent**  
+    - **Scientific Research Assistant Agent** [05-02-18.md](0-PROJECTS/05-02-18.md)  
       (semantic search, paper summarization, RAG)
     - **Custom Legal Contract Generator Agent**  
       (LLM + template filling, prompt chaining)
