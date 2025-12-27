@@ -924,7 +924,7 @@
       (resume parser, job scraping, semantic match)
     - **Scientific Research Assistant Agent** [05-02-18.md](0-PROJECTS/05-02-18.md)  
       (semantic search, paper summarization, RAG)
-    - **Custom Legal Contract Generator Agent**  
+    - **Custom Legal Contract Generator Agent** [05-02-19.md](0-PROJECTS/05-02-19.md)  
       (LLM + template filling, prompt chaining)
     - **DevOps Deployment Agent**  
       (CI/CD interaction, shell command execution, monitoring)
