@@ -926,7 +926,7 @@
       (semantic search, paper summarization, RAG)
     - **Custom Legal Contract Generator Agent** [05-02-19.md](0-PROJECTS/05-02-19.md)  
       (LLM + template filling, prompt chaining)
-    - **DevOps Deployment Agent**  
+    - **DevOps Deployment Agent** [05-02-20.md](0-PROJECTS/05-02-20.md)  
       (CI/CD interaction, shell command execution, monitoring)
     - **Academic Writing Assistant Agent**  
       (citation insertion, coherence checking, grammar correction)
