@@ -928,7 +928,7 @@
       (LLM + template filling, prompt chaining)
     - **DevOps Deployment Agent** [05-02-20.md](0-PROJECTS/05-02-20.md)  
       (CI/CD interaction, shell command execution, monitoring)
-    - **Academic Writing Assistant Agent**  
+    - **Academic Writing Assistant Agent** [05-02-21.md](0-PROJECTS/05-02-21.md)  
       (citation insertion, coherence checking, grammar correction)
     - **Image Captioning & Analysis Agent**  
       (multimodal, vision + text, OpenAI GPT-4o)
