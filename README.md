@@ -930,7 +930,7 @@
       (CI/CD interaction, shell command execution, monitoring)
     - **Academic Writing Assistant Agent** [05-02-21.md](0-PROJECTS/05-02-21.md)  
       (citation insertion, coherence checking, grammar correction)
-    - **Image Captioning & Analysis Agent**  
+    - **Image Captioning & Analysis Agent** [05-02-22.md](0-PROJECTS/05-02-22.md)  
       (multimodal, vision + text, OpenAI GPT-4o)
     - **Real-Time Translation Agent**  
       (speech-to-text, translation, speech synthesis)
